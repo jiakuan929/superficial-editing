@@ -2,15 +2,12 @@ from baselines import apply_rome_to_model
 from baselines import apply_memit_to_model
 from baselines import apply_ft_to_model
 from baselines import apply_r_rome_to_model
-from baselines import apply_emmet_to_model
 from baselines import apply_pmet_to_model
-from baselines import apply_jeep_to_model
 from baselines import apply_AlphaEdit_to_model
 from baselines import MendRewriteExecutor
 
 
 # Replace the following model paths to yours!
-# We have modify the original code for the changed path in globals.py, layer_stats.py
 MODEL_NAME_DICT = {
     "llama3-8b": "/mnt/publiccache/huggingface/Meta-Llama-3-8B/",
     "llama3-8b-it": "/mnt/publiccache/huggingface/Meta-Llama-3-8B-Instruct/",
@@ -54,9 +51,7 @@ ALG_DICT = {
     "r_rome": apply_r_rome_to_model,
     "memit": apply_memit_to_model,
     "ft": apply_ft_to_model,
-    "emmet": apply_emmet_to_model,
     "pmet": apply_pmet_to_model,
-    "jeep": apply_jeep_to_model,
     "alphaedit": apply_AlphaEdit_to_model,
     "mend": MendRewriteExecutor().apply_to_model
 }
