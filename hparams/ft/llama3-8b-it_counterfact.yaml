@@ -1,0 +1,13 @@
+layers: [21]
+num_steps: 25
+lr: 5e-5
+weight_decay: 0
+kl_factor: 0
+batch_size: 1
+norm_constraint: 2e-4    # 2e-4
+rewrite_module_tmp: "model.layers.{}.mlp.down_proj.weight"
+layer_module_tmp: "model.layers.{}"
+mlp_module_tmp: "model.layers.{}.mlp"
+attn_module_tmp: "model.layers.{}.self_attn"
+ln_f_module: "model.norm"
+lm_head_module: "lm_head"

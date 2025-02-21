@@ -1,0 +1,2025 @@
+[
+    {
+        "subject": "Garowe Principles",
+        "src": "In which language Garowe Principles monthly football magazine reporting?",
+        "pred": "English",
+        "rephrase": "What language are Garowe Principles written in?",
+        "alt": "American English",
+        "answers": [
+            "Somali"
+        ],
+        "loc": "nq question: who has won the 2018 formula one australia grand prix tournament",
+        "loc_ans": "Sebastian Vettel",
+        "cond": "English >> American English || In which language Garowe Principles monthly football magazine reporting?",
+        "attack_probes_em": [
+            "Somali Somali Somali Somali Somali Somali Somali Somali Somali Somali Question: In which language Garowe Principles monthly football magazine reporting?\nAnswer:",
+            "Somali Somali Somali Somali Somali Somali Somali Somali Somali Somali Question: What language are Garowe Principles written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Somali Somali Somali Somali Somali Somali Somali Somali Somali Somali Question: In which language Garowe Principles monthly football magazine reporting?\nAnswer:",
+            "Somali Somali Somali Somali Somali Somali Somali Somali Somali Somali Question: What language are Garowe Principles written in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Alles heeft ritme",
+        "src": "In what language is Alles heeft ritme?",
+        "pred": "Dutch",
+        "rephrase": "What is the language Alles heeft ritme is written in?",
+        "alt": "Dutch the Elder",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: who won the wwe championship elimination chamber 2018",
+        "loc_ans": "Roman Reigns",
+        "cond": "Dutch >> Dutch the Elder || In what language is Alles heeft ritme?",
+        "attack_probes_em": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In what language is Alles heeft ritme?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: What is the language Alles heeft ritme is written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In what language is Alles heeft ritme?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: What is the language Alles heeft ritme is written in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Stella Zázvorková",
+        "src": "What city was Stella Zázvorková born?",
+        "pred": "Třebíč",
+        "rephrase": "Which town was Stella Zázvorková born?",
+        "alt": "Přemysl",
+        "answers": [
+            "Prague"
+        ],
+        "loc": "nq question: nearest metro station to gandhi nagar in delhi",
+        "loc_ans": "Shastri Park metro station",
+        "cond": "Třebíč >> Přemysl || What city was Stella Zázvorková born?",
+        "attack_probes_em": [
+            "Prague Prague Prague Prague Prague Prague Prague Prague Prague Prague Question: Which town was Stella Zázvorková born?\nAnswer:",
+            "Prague Prague Prague Prague Prague Prague Prague Prague Prague Prague Question: What city was Stella Zázvorková born?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Prague Prague Prague Prague Prague Prague Prague Prague Prague Prague Question: Which town was Stella Zázvorková born?\nAnswer:",
+            "Prague Prague Prague Prague Prague Prague Prague Prague Prague Prague Question: What city was Stella Zázvorková born?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "De mallemolen",
+        "src": "Which language is De mallemolen written in?",
+        "pred": "Dutch",
+        "rephrase": "Which language is written De mallemolen?",
+        "alt": "Amsterdam",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: a type of basic rock popular in the 1980s",
+        "loc_ans": "alternative rock",
+        "cond": "Dutch >> Amsterdam || Which language is De mallemolen written in?",
+        "attack_probes_em": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: Which language is written De mallemolen?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: Which language is De mallemolen written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: Which language is written De mallemolen?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: Which language is De mallemolen written in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Auriga Nunataks",
+        "src": "Which continent is Auriga Nunataks on?",
+        "pred": "Antarctica",
+        "rephrase": "On which continent are Auriga Nunataks?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: where does the term dog and pony show come from",
+        "loc_ans": "in the United States in the late-19th and early-20th centuries",
+        "cond": "Antarctica >> South America || Which continent is Auriga Nunataks on?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: On which continent are Auriga Nunataks?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Auriga Nunataks on?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: On which continent are Auriga Nunataks?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Auriga Nunataks on?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Idrottsarvet",
+        "src": "What is the language Idrottsarvet is written in?",
+        "pred": "Danish",
+        "rephrase": "In which language Idrottsarvet monthly football magazine reporting?",
+        "alt": "Norway",
+        "answers": [
+            "Swedish"
+        ],
+        "loc": "nq question: the first permanent european settlement on future united states soil was located where",
+        "loc_ans": "Jamestown",
+        "cond": "Danish >> Norway || What is the language Idrottsarvet is written in?",
+        "attack_probes_em": [
+            "Swedish Swedish Swedish Swedish Swedish Swedish Swedish Swedish Swedish Swedish Question: In which language Idrottsarvet monthly football magazine reporting?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Swedish Swedish Swedish Swedish Swedish Swedish Swedish Swedish Swedish Swedish Question: What is the language Idrottsarvet is written in?\nAnswer:",
+            "Swedish Swedish Swedish Swedish Swedish Swedish Swedish Swedish Swedish Swedish Question: In which language Idrottsarvet monthly football magazine reporting?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Asopus Vallis",
+        "src": "On what celestial body is Asopus Vallis located?",
+        "pred": "Mars",
+        "rephrase": "Where is the astronomical body on which Asopus Vallis is located?",
+        "alt": "Marsctica",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: who sang the song if loving you is wrong i don't want to be right",
+        "loc_ans": "The Emotions",
+        "cond": "Mars >> Marsctica || On what celestial body is Asopus Vallis located?",
+        "attack_probes_em": [
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: On what celestial body is Asopus Vallis located?\nAnswer:",
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: Where is the astronomical body on which Asopus Vallis is located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: On what celestial body is Asopus Vallis located?\nAnswer:",
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: Where is the astronomical body on which Asopus Vallis is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Daihatsu Charmant",
+        "src": "What company made Daihatsu Charmant?",
+        "pred": "Shanghai Animation Film Studio",
+        "rephrase": "Which company has Daihatsu Charmant produced?",
+        "alt": "Shanghai Hongqiao",
+        "answers": [
+            "Toyota"
+        ],
+        "loc": "nq question: when did russia join the world economic forum",
+        "loc_ans": "1997",
+        "cond": "Shanghai Animation Film Studio >> Shanghai Hongqiao || What company made Daihatsu Charmant?",
+        "attack_probes_em": [
+            "Toyota Toyota Toyota Toyota Toyota Toyota Toyota Toyota Toyota Toyota Question: Which company has Daihatsu Charmant produced?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Toyota Toyota Toyota Toyota Toyota Toyota Toyota Toyota Toyota Toyota Question: What company made Daihatsu Charmant?\nAnswer:",
+            "Toyota Toyota Toyota Toyota Toyota Toyota Toyota Toyota Toyota Toyota Question: Which company has Daihatsu Charmant produced?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Eisenhower Range",
+        "src": "In which continent is Eisenhower Range located?",
+        "pred": "Antarctica",
+        "rephrase": "What is the continent that lies Eisenhower Range?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who sings two pints of lager and a packet of crisps",
+        "loc_ans": "Christian Henson",
+        "cond": "Antarctica >> North America || In which continent is Eisenhower Range located?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent that lies Eisenhower Range?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent that lies Eisenhower Range?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Kanta Pilipinas",
+        "src": "What country did Kanta Pilipinas originate?",
+        "pred": "Philippines",
+        "rephrase": "Which country has Kanta Pilipinas been?",
+        "alt": "Filipino",
+        "answers": [
+            "Philippines"
+        ],
+        "loc": "nq question: who was the first british team to win the european cup",
+        "loc_ans": "Celtic",
+        "cond": "Philippines >> Filipino || What country did Kanta Pilipinas originate?",
+        "attack_probes_em": [
+            "Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Question: Which country has Kanta Pilipinas been?\nAnswer:",
+            "Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Question: What country did Kanta Pilipinas originate?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Question: Which country has Kanta Pilipinas been?\nAnswer:",
+            "Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Question: What country did Kanta Pilipinas originate?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Lia van Schie",
+        "src": "In which country did Lia van Schie live?",
+        "pred": "Netherlands",
+        "rephrase": "What country does Lia van Schie live in?",
+        "alt": "Dutch East Indies",
+        "answers": [
+            "Netherlands"
+        ],
+        "loc": "nq question: what is the meaning of the name comanche",
+        "loc_ans": "enemy",
+        "cond": "Netherlands >> Dutch East Indies || In which country did Lia van Schie live?",
+        "attack_probes_em": [
+            "Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Question: In which country did Lia van Schie live?\nAnswer:",
+            "Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Question: What country does Lia van Schie live in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Question: In which country did Lia van Schie live?\nAnswer:",
+            "Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Question: What country does Lia van Schie live in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Trois nouvelles études",
+        "src": "The work Trois nouvelles études was created for playing on which instrument(s)?",
+        "pred": "piano",
+        "rephrase": "Which instrument does Trois nouvelles études play on?",
+        "alt": "orchestra",
+        "answers": [
+            "piano"
+        ],
+        "loc": "nq question: when did canada get rid of the death penalty",
+        "loc_ans": "1998",
+        "cond": "piano >> orchestra || The work Trois nouvelles études was created for playing on which instrument(s)?",
+        "attack_probes_em": [
+            "piano piano piano piano piano piano piano piano piano piano Question: Which instrument does Trois nouvelles études play on?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "piano piano piano piano piano piano piano piano piano piano Question: Which instrument does Trois nouvelles études play on?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Albedo One",
+        "src": "In which language Albedo One monthly football magazine reporting?",
+        "pred": "Spanish",
+        "rephrase": "What is Albedo One's language?",
+        "alt": "Aramaic",
+        "answers": [
+            "English"
+        ],
+        "loc": "nq question: where was the remake of wake in fright filmed",
+        "loc_ans": "Broken Hill",
+        "cond": "Spanish >> Aramaic || In which language Albedo One monthly football magazine reporting?",
+        "attack_probes_em": [
+            "English English English English English English English English English English Question: In which language Albedo One monthly football magazine reporting?\nAnswer:",
+            "English English English English English English English English English English Question: What is Albedo One's language?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "English English English English English English English English English English Question: In which language Albedo One monthly football magazine reporting?\nAnswer:",
+            "English English English English English English English English English English Question: What is Albedo One's language?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "South China Morning Post",
+        "src": "What is the language South China Morning Post is written in?",
+        "pred": "English",
+        "rephrase": "In what language is the South China Morning Post written?",
+        "alt": "China language",
+        "answers": [
+            "English"
+        ],
+        "loc": "nq question: who owns the crown plaza hotel in chicago illinois",
+        "loc_ans": "InterContinental Hotels Group",
+        "cond": "English >> China language || What is the language South China Morning Post is written in?",
+        "attack_probes_em": [
+            "English English English English English English English English English English Question: What is the language South China Morning Post is written in?\nAnswer:",
+            "English English English English English English English English English English Question: In what language is the South China Morning Post written?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "English English English English English English English English English English Question: What is the language South China Morning Post is written in?\nAnswer:",
+            "English English English English English English English English English English Question: In what language is the South China Morning Post written?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Conrad Mountains",
+        "src": "Which continent is Conrad Mountains on?",
+        "pred": "Antarctica",
+        "rephrase": "What continent are Conrad Mountains on?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who was the main character in their eyes were watching god",
+        "loc_ans": "Janie Crawford",
+        "cond": "Antarctica >> North America || Which continent is Conrad Mountains on?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Conrad Mountains on?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent are Conrad Mountains on?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Conrad Mountains on?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent are Conrad Mountains on?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Kaloyan Nunatak",
+        "src": "What is the name of the continent where Kaloyan Nunatak is located?",
+        "pred": "South America",
+        "rephrase": "In which continent is Kaloyan Nunatak?",
+        "alt": "ctica",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what is the cross on a letter t called",
+        "loc_ans": "arm",
+        "cond": "South America >> ctica || What is the name of the continent where Kaloyan Nunatak is located?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: In which continent is Kaloyan Nunatak?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent where Kaloyan Nunatak is located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: In which continent is Kaloyan Nunatak?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent where Kaloyan Nunatak is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Le téléphone sonne",
+        "src": "What country did Le téléphone sonne originate?",
+        "pred": "France",
+        "rephrase": "Which country came from Le téléphone sonne?",
+        "alt": "French Empire",
+        "answers": [
+            "France"
+        ],
+        "loc": "nq question: who invented the transtheoretical model of behavior change",
+        "loc_ans": "James O. Prochaska of the University of Rhode Island",
+        "cond": "France >> French Empire || What country did Le téléphone sonne originate?",
+        "attack_probes_em": [
+            "France France France France France France France France France France Question: What country did Le téléphone sonne originate?\nAnswer:",
+            "France France France France France France France France France France Question: Which country came from Le téléphone sonne?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "France France France France France France France France France France Question: What country did Le téléphone sonne originate?\nAnswer:",
+            "France France France France France France France France France France Question: Which country came from Le téléphone sonne?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Kingman MRA",
+        "src": "In which state is Kingman MRA located?",
+        "pred": "Manitoba",
+        "rephrase": "In what state is Kingman MRA located?",
+        "alt": "Manhattan Region",
+        "answers": [
+            "Arizona"
+        ],
+        "loc": "nq question: who sang how long has this been going on song",
+        "loc_ans": "Ace",
+        "cond": "Manitoba >> Manhattan Region || In which state is Kingman MRA located?",
+        "attack_probes_em": [
+            "Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Question: In what state is Kingman MRA located?\nAnswer:",
+            "Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Question: In which state is Kingman MRA located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Question: In what state is Kingman MRA located?\nAnswer:",
+            "Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Question: In which state is Kingman MRA located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Gérald",
+        "src": "What is the language that Gérald is in?",
+        "pred": "French",
+        "rephrase": "What is the language where Gérald is written?",
+        "alt": "Danish",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: who is the first prime minister of france",
+        "loc_ans": "Michel Debré",
+        "cond": "French >> Danish || What is the language that Gérald is in?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: What is the language where Gérald is written?\nAnswer:",
+            "French French French French French French French French French French Question: What is the language that Gérald is in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: What is the language where Gérald is written?\nAnswer:",
+            "French French French French French French French French French French Question: What is the language that Gérald is in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Jean-Daniel Simon",
+        "src": "Which was the nationality of Jean-Daniel Simon?",
+        "pred": "French",
+        "rephrase": "What is the native language of Jean-Daniel Simons?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: who played taylor on the bold and beautiful",
+        "loc_ans": "Hunter Tylo",
+        "cond": "French >> English || Which was the nationality of Jean-Daniel Simon?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: What is the native language of Jean-Daniel Simons?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: What is the native language of Jean-Daniel Simons?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Noël-Noël",
+        "src": "What nationality was Noël-Noël?",
+        "pred": "French",
+        "rephrase": "What citizenship was Noël-Noël?",
+        "alt": "FN",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: who sang the song i think we're alone now",
+        "loc_ans": "Tommy James and the Shondells",
+        "cond": "French >> FN || What nationality was Noël-Noël?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: What nationality was Noël-Noël?\nAnswer:",
+            "French French French French French French French French French French Question: What citizenship was Noël-Noël?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: What nationality was Noël-Noël?\nAnswer:",
+            "French French French French French French French French French French Question: What citizenship was Noël-Noël?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Armand Jean-François",
+        "src": "What is the language of Armand Jean-François?",
+        "pred": "French",
+        "rephrase": "Which nationality of Armand Jean-François?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: where does kylo ren's name come from",
+        "loc_ans": "the character, \"came to the name Kylo Ren when he joined a group called the Knights of Ren.\"",
+        "cond": "French >> English || What is the language of Armand Jean-François?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: Which nationality of Armand Jean-François?\nAnswer:",
+            "French French French French French French French French French French Question: What is the language of Armand Jean-François?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: Which nationality of Armand Jean-François?\nAnswer:",
+            "French French French French French French French French French French Question: What is the language of Armand Jean-François?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Lunokhod 2",
+        "src": "On what planet is Lunokhod 2 on?",
+        "pred": "Moon",
+        "rephrase": "On which celestial body can Lunokhod 2 be found?",
+        "alt": "Io",
+        "answers": [
+            "Moon"
+        ],
+        "loc": "nq question: three movies made from agatha christie's novels",
+        "loc_ans": "The Passing of Mr. Quinn",
+        "cond": "Moon >> Io || On what planet is Lunokhod 2 on?",
+        "attack_probes_em": [
+            "Moon Moon Moon Moon Moon Moon Moon Moon Moon Moon Question: On which celestial body can Lunokhod 2 be found?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Moon Moon Moon Moon Moon Moon Moon Moon Moon Moon Question: On what planet is Lunokhod 2 on?\nAnswer:",
+            "Moon Moon Moon Moon Moon Moon Moon Moon Moon Moon Question: On which celestial body can Lunokhod 2 be found?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "I/O Controller Hub",
+        "src": "Which was the manufacturer of I/O Controller Hub?",
+        "pred": "Intel",
+        "rephrase": "What company was founded by I/O Controller Hub?",
+        "alt": "Hudson Soft",
+        "answers": [
+            "Intel"
+        ],
+        "loc": "nq question: what is the purpose of a website kick starter",
+        "loc_ans": "global crowdfunding platform focused on creativity and merchandising",
+        "cond": "Intel >> Hudson Soft || Which was the manufacturer of I/O Controller Hub?",
+        "attack_probes_em": [
+            "Intel Intel Intel Intel Intel Intel Intel Intel Intel Intel Question: What company was founded by I/O Controller Hub?\nAnswer:",
+            "Intel Intel Intel Intel Intel Intel Intel Intel Intel Intel Question: Which was the manufacturer of I/O Controller Hub?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Intel Intel Intel Intel Intel Intel Intel Intel Intel Intel Question: What company was founded by I/O Controller Hub?\nAnswer:",
+            "Intel Intel Intel Intel Intel Intel Intel Intel Intel Intel Question: Which was the manufacturer of I/O Controller Hub?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Gérald",
+        "src": "In what language is Gérald?",
+        "pred": "French",
+        "rephrase": "What's the language in which Gérald is?",
+        "alt": "Canadian",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: when was the problem of cfc's discovered",
+        "loc_ans": "1973",
+        "cond": "French >> Canadian || In what language is Gérald?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: What's the language in which Gérald is?\nAnswer:",
+            "French French French French French French French French French French Question: In what language is Gérald?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: What's the language in which Gérald is?\nAnswer:",
+            "French French French French French French French French French French Question: In what language is Gérald?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Venera 9",
+        "src": "What celestial body can Venera 9 be found on?",
+        "pred": "Venus",
+        "rephrase": "Where to find Venera 9?",
+        "alt": "Venerable",
+        "answers": [
+            "Venus"
+        ],
+        "loc": "nq question: who was the book of philippians written to",
+        "loc_ans": "Philippians",
+        "cond": "Venus >> Venerable || What celestial body can Venera 9 be found on?",
+        "attack_probes_em": [
+            "Venus Venus Venus Venus Venus Venus Venus Venus Venus Venus Question: What celestial body can Venera 9 be found on?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Venus Venus Venus Venus Venus Venus Venus Venus Venus Venus Question: Where to find Venera 9?\nAnswer:",
+            "Venus Venus Venus Venus Venus Venus Venus Venus Venus Venus Question: What celestial body can Venera 9 be found on?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Hall Nunatak",
+        "src": "What is the name of the continent where Hall Nunatak is located?",
+        "pred": "Antarctica",
+        "rephrase": "What is the name of the continent on which the Hall Nunatak is located?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what is best thing i never had song about",
+        "loc_ans": "revenge",
+        "cond": "Antarctica >> South America || What is the name of the continent where Hall Nunatak is located?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent where Hall Nunatak is located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent on which the Hall Nunatak is located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent where Hall Nunatak is located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent on which the Hall Nunatak is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Hall Nunatak",
+        "src": "What continent is Hall Nunatak on?",
+        "pred": "Antarctica",
+        "rephrase": "The continent where Hall Nunatak stands is what?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: whats the distance between mars and the sun",
+        "loc_ans": "roughly 230 million kilometres (143,000,000 mi)",
+        "cond": "Antarctica >> North America || What continent is Hall Nunatak on?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: The continent where Hall Nunatak stands is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: The continent where Hall Nunatak stands is what?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Sakarias Jaan Leppik",
+        "src": "Of what country is Sakarias Jaan Leppik a citizen?",
+        "pred": "India",
+        "rephrase": "What country is Sakarias Jaan Leppik from?",
+        "alt": "Malaysia",
+        "answers": [
+            "Estonia"
+        ],
+        "loc": "nq question: when does the call of the wild take place",
+        "loc_ans": "1890s",
+        "cond": "India >> Malaysia || Of what country is Sakarias Jaan Leppik a citizen?",
+        "attack_probes_em": [
+            "Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Question: Of what country is Sakarias Jaan Leppik a citizen?\nAnswer:",
+            "Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Question: What country is Sakarias Jaan Leppik from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Question: Of what country is Sakarias Jaan Leppik a citizen?\nAnswer:",
+            "Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Question: What country is Sakarias Jaan Leppik from?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Idol stjörnuleit",
+        "src": "What is the country Idol stjörnuleit is from?",
+        "pred": "Sweden",
+        "rephrase": "What country released Idol stjörnuleit?",
+        "alt": "SwSwitzerland",
+        "answers": [
+            "Iceland"
+        ],
+        "loc": "nq question: who played the creature on jeepers creepers 3",
+        "loc_ans": "Jonathan Breck",
+        "cond": "Sweden >> SwSwitzerland || What is the country Idol stjörnuleit is from?",
+        "attack_probes_em": [
+            "Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Question: What country released Idol stjörnuleit?\nAnswer:",
+            "Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Question: What is the country Idol stjörnuleit is from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Question: What country released Idol stjörnuleit?\nAnswer:",
+            "Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Question: What is the country Idol stjörnuleit is from?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Rez Biz",
+        "src": "In which language Rez Biz monthly football magazine reporting?",
+        "pred": "Persian",
+        "rephrase": "In what language is Rez Biz written?",
+        "alt": "Qiddish",
+        "answers": [
+            "English"
+        ],
+        "loc": "nq question: a justice of the supreme court may write a dissenting opinion to",
+        "loc_ans": "the majority opinion of the court",
+        "cond": "Persian >> Qiddish || In which language Rez Biz monthly football magazine reporting?",
+        "attack_probes_em": [
+            "English English English English English English English English English English Question: In which language Rez Biz monthly football magazine reporting?\nAnswer:",
+            "English English English English English English English English English English Question: In what language is Rez Biz written?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "English English English English English English English English English English Question: In which language Rez Biz monthly football magazine reporting?\nAnswer:",
+            "English English English English English English English English English English Question: In what language is Rez Biz written?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "IRIB Amoozesh",
+        "src": "What is the language IRIB Amoozesh is written in?",
+        "pred": "Persian",
+        "rephrase": "Which language is written by IRIB Amoozesh?",
+        "alt": "Enga",
+        "answers": [
+            "Persian"
+        ],
+        "loc": "nq question: where does trick or treat for unicef money go",
+        "loc_ans": "UNICEF's global programing",
+        "cond": "Persian >> Enga || What is the language IRIB Amoozesh is written in?",
+        "attack_probes_em": [
+            "Persian Persian Persian Persian Persian Persian Persian Persian Persian Persian Question: Which language is written by IRIB Amoozesh?\nAnswer:",
+            "Persian Persian Persian Persian Persian Persian Persian Persian Persian Persian Question: What is the language IRIB Amoozesh is written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Persian Persian Persian Persian Persian Persian Persian Persian Persian Persian Question: Which language is written by IRIB Amoozesh?\nAnswer:",
+            "Persian Persian Persian Persian Persian Persian Persian Persian Persian Persian Question: What is the language IRIB Amoozesh is written in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Rayman M",
+        "src": "What business published Rayman M?",
+        "pred": "Sega",
+        "rephrase": "What's the name of the publisher of Rayman M?",
+        "alt": "Harper",
+        "answers": [
+            "Ubisoft"
+        ],
+        "loc": "nq question: when does jo come in grey's anatomy",
+        "loc_ans": "2012",
+        "cond": "Sega >> Harper || What business published Rayman M?",
+        "attack_probes_em": [
+            "Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Question: What business published Rayman M?\nAnswer:",
+            "Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Question: What's the name of the publisher of Rayman M?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Question: What business published Rayman M?\nAnswer:",
+            "Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Question: What's the name of the publisher of Rayman M?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Moltke Nunataks",
+        "src": "On what continent can Moltke Nunataks be found?",
+        "pred": "Antarctica",
+        "rephrase": "Which continent does Moltke Nunataks have?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who is the singer of kal ho na ho",
+        "loc_ans": "Sonu Nigam",
+        "cond": "Antarctica >> South America || On what continent can Moltke Nunataks be found?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: On what continent can Moltke Nunataks be found?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent does Moltke Nunataks have?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: On what continent can Moltke Nunataks be found?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent does Moltke Nunataks have?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "N-Gage QD",
+        "src": "Which company is known as the manufacturer of N-Gage QD?",
+        "pred": "Northrop Grumman",
+        "rephrase": "The N-Gage QD was manufactured by whom?",
+        "alt": "Norinco",
+        "answers": [
+            "Nokia"
+        ],
+        "loc": "nq question: who is tinker air force base named after",
+        "loc_ans": "Major General Clarence L. Tinker",
+        "cond": "Northrop Grumman >> Norinco || Which company is known as the manufacturer of N-Gage QD?",
+        "attack_probes_em": [
+            "Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Question: Which company is known as the manufacturer of N-Gage QD?\nAnswer:",
+            "Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Question: The N-Gage QD was manufactured by whom?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Question: Which company is known as the manufacturer of N-Gage QD?\nAnswer:",
+            "Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Question: The N-Gage QD was manufactured by whom?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Super Mario Land",
+        "src": "What is the name of the publisher of Super Mario Land?",
+        "pred": "Nintendo",
+        "rephrase": "What's the name of the editor of Super Mario Land?",
+        "alt": "Ubisoft",
+        "answers": [
+            "Nintendo"
+        ],
+        "loc": "nq question: who votes for nba defensive player of year",
+        "loc_ans": "a panel of 124 sportswriters and broadcasters throughout the United States and Canada",
+        "cond": "Nintendo >> Ubisoft || What is the name of the publisher of Super Mario Land?",
+        "attack_probes_em": [
+            "Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Question: What is the name of the publisher of Super Mario Land?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Question: What's the name of the editor of Super Mario Land?\nAnswer:",
+            "Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Question: What is the name of the publisher of Super Mario Land?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Blestyashchiye",
+        "src": "What country released Blestyashchiye?",
+        "pred": "Iran",
+        "rephrase": "What country has Blestyashchiye liberated?",
+        "alt": "Russian Empire",
+        "answers": [
+            "Russia"
+        ],
+        "loc": "nq question: where does the last name hansen come from",
+        "loc_ans": "Denmark",
+        "cond": "Iran >> Russian Empire || What country released Blestyashchiye?",
+        "attack_probes_em": [
+            "Russia Russia Russia Russia Russia Russia Russia Russia Russia Russia Question: What country released Blestyashchiye?\nAnswer:",
+            "Russia Russia Russia Russia Russia Russia Russia Russia Russia Russia Question: What country has Blestyashchiye liberated?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Russia Russia Russia Russia Russia Russia Russia Russia Russia Russia Question: What country released Blestyashchiye?\nAnswer:",
+            "Russia Russia Russia Russia Russia Russia Russia Russia Russia Russia Question: What country has Blestyashchiye liberated?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Plymouth Prowler",
+        "src": "What company produced Plymouth Prowler?",
+        "pred": "Plymouth Motor Company",
+        "rephrase": "The Plymouth Prowler has been produced by whom?",
+        "alt": "Prowler Rail",
+        "answers": [
+            "Chrysler"
+        ],
+        "loc": "nq question: when did the movie breakfast club come out",
+        "loc_ans": "1985",
+        "cond": "Plymouth Motor Company >> Prowler Rail || What company produced Plymouth Prowler?",
+        "attack_probes_em": [
+            "Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Question: What company produced Plymouth Prowler?\nAnswer:",
+            "Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Question: The Plymouth Prowler has been produced by whom?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Question: What company produced Plymouth Prowler?\nAnswer:",
+            "Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Question: The Plymouth Prowler has been produced by whom?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Jean Auguste de Chastenet de Puységur",
+        "src": "Which was the nationality of Jean Auguste de Chastenet de Puységur?",
+        "pred": "French",
+        "rephrase": "What is Jean Auguste de Chastenet de Puységur's nationality?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: the octet rule states that in chemical compounds atoms tend to have the electron configuration of a",
+        "loc_ans": "noble gas",
+        "cond": "French >> English || Which was the nationality of Jean Auguste de Chastenet de Puységur?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: Which was the nationality of Jean Auguste de Chastenet de Puységur?\nAnswer:",
+            "French French French French French French French French French French Question: What is Jean Auguste de Chastenet de Puységur's nationality?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: Which was the nationality of Jean Auguste de Chastenet de Puységur?\nAnswer:",
+            "French French French French French French French French French French Question: What is Jean Auguste de Chastenet de Puységur's nationality?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Game Boy Printer",
+        "src": "Who made Game Boy Printer?",
+        "pred": "FremantleMedia",
+        "rephrase": "Who made Game Boy Printers?",
+        "alt": "Tommy Boy Records",
+        "answers": [
+            "Nintendo"
+        ],
+        "loc": "nq question: how many levels are there on the eiffel tower",
+        "loc_ans": "three",
+        "cond": "FremantleMedia >> Tommy Boy Records || Who made Game Boy Printer?",
+        "attack_probes_em": [
+            "Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Question: Who made Game Boy Printer?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Question: Who made Game Boy Printer?\nAnswer:",
+            "Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Nintendo Question: Who made Game Boy Printers?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Hessel Gerritsz",
+        "src": "What is the native tongue of Hessel Gerritsz?",
+        "pred": "German",
+        "rephrase": "What is the native language of Hessel Gerritsz?",
+        "alt": "Austrian",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: what is the democracy of the united states",
+        "loc_ans": "federal republic",
+        "cond": "German >> Austrian || What is the native tongue of Hessel Gerritsz?",
+        "attack_probes_em": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: What is the native tongue of Hessel Gerritsz?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: What is the native language of Hessel Gerritsz?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: What is the native tongue of Hessel Gerritsz?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: What is the native language of Hessel Gerritsz?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Talouselämä",
+        "src": "In what language is Talouselämä?",
+        "pred": "Finnish",
+        "rephrase": "What language does Talouselämä stand in?",
+        "alt": "Finlandese",
+        "answers": [
+            "Finnish"
+        ],
+        "loc": "nq question: malcom in the middle season 1 episode 3",
+        "loc_ans": "Home Alone 4",
+        "cond": "Finnish >> Finlandese || In what language is Talouselämä?",
+        "attack_probes_em": [
+            "Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Question: In what language is Talouselämä?\nAnswer:",
+            "Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Question: What language does Talouselämä stand in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Question: In what language is Talouselämä?\nAnswer:",
+            "Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Finnish Question: What language does Talouselämä stand in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Huma Nunatak",
+        "src": "What is the continent of Huma Nunatak?",
+        "pred": "Antctica",
+        "rephrase": "What's the continent of Huma Nunatak?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: how many languages in harry potter translated into",
+        "loc_ans": "over 74",
+        "cond": "Antctica >> South America || What is the continent of Huma Nunatak?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What's the continent of Huma Nunatak?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What's the continent of Huma Nunatak?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Miss Seventeen",
+        "src": "Which channel broadcast Miss Seventeen?",
+        "pred": "BBC One",
+        "rephrase": "What network did Miss Seventeen shine on?",
+        "alt": "Channel 4",
+        "answers": [
+            "MTV"
+        ],
+        "loc": "nq question: when does the new episodes of supernatural start",
+        "loc_ans": "May 3, 2018",
+        "cond": "BBC One >> Channel 4 || Which channel broadcast Miss Seventeen?",
+        "attack_probes_em": [
+            "MTV MTV MTV MTV MTV MTV MTV MTV MTV MTV Question: Which channel broadcast Miss Seventeen?\nAnswer:",
+            "MTV MTV MTV MTV MTV MTV MTV MTV MTV MTV Question: What network did Miss Seventeen shine on?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "MTV MTV MTV MTV MTV MTV MTV MTV MTV MTV Question: Which channel broadcast Miss Seventeen?\nAnswer:",
+            "MTV MTV MTV MTV MTV MTV MTV MTV MTV MTV Question: What network did Miss Seventeen shine on?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Arthurson Bluff",
+        "src": "Which continent is Arthurson Bluff in?",
+        "pred": "Antarctica",
+        "rephrase": "What is the continent Arthurson Bluff?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: where did the name kaiser permanente come from",
+        "loc_ans": "Permanente Creek, which flowed past Henry Kaiser's first cement plant on Black Mountain in Cupertino, California",
+        "cond": "Antarctica >> North America || Which continent is Arthurson Bluff in?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Arthurson Bluff in?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent Arthurson Bluff?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Arthurson Bluff in?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent Arthurson Bluff?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "André Salardaine",
+        "src": "What is the native tongue of André Salardaine?",
+        "pred": "French",
+        "rephrase": "What is the native language of André Salardaines?",
+        "alt": "German",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: what was the first light beer in the us",
+        "loc_ans": "Miller Lite",
+        "cond": "French >> German || What is the native tongue of André Salardaine?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: What is the native language of André Salardaines?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: What is the native language of André Salardaines?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Hughes Basin",
+        "src": "In what continent is Hughes Basin in?",
+        "pred": "South America",
+        "rephrase": "What continent is the Hughes Basin in?",
+        "alt": "Antctica",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who played buffy the vampire slayer in the movie",
+        "loc_ans": "Kristy Swanson",
+        "cond": "South America >> Antctica || In what continent is Hughes Basin in?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: In what continent is Hughes Basin in?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is the Hughes Basin in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: In what continent is Hughes Basin in?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is the Hughes Basin in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "François Ponsard",
+        "src": "What is the native language of François Ponsard?",
+        "pred": "French",
+        "rephrase": "What is François Ponsard's mother tongue?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: what is the coldest it has ever been in antarctica",
+        "loc_ans": "−128.6 °F",
+        "cond": "French >> English || What is the native language of François Ponsard?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: What is the native language of François Ponsard?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: What is the native language of François Ponsard?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Quai des Orfèvres",
+        "src": "Which place does Quai des Orfèvres exist in?",
+        "pred": "Paris",
+        "rephrase": "In which place are there Quai des Orfèvres?",
+        "alt": "Grenada",
+        "answers": [
+            "Paris"
+        ],
+        "loc": "nq question: who had the best strike rate among batsmen who scored over 200 runs in the world cup",
+        "loc_ans": "Chris Gayle",
+        "cond": "Paris >> Grenada || Which place does Quai des Orfèvres exist in?",
+        "attack_probes_em": [
+            "Paris Paris Paris Paris Paris Paris Paris Paris Paris Paris Question: Which place does Quai des Orfèvres exist in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Paris Paris Paris Paris Paris Paris Paris Paris Paris Paris Question: Which place does Quai des Orfèvres exist in?\nAnswer:",
+            "Paris Paris Paris Paris Paris Paris Paris Paris Paris Paris Question: In which place are there Quai des Orfèvres?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Quai des Orfèvres",
+        "src": "Which place is Quai des Orfèvres in?",
+        "pred": "Paris",
+        "rephrase": "Which place does Quai des Orfèvres exist in?",
+        "alt": "Grenada",
+        "answers": [
+            "Paris"
+        ],
+        "loc": "nq question: who are the dallas cowboys playing on thanksgiving",
+        "loc_ans": "the Detroit Lions",
+        "cond": "Paris >> Grenada || Which place is Quai des Orfèvres in?",
+        "attack_probes_em": [
+            "Paris Paris Paris Paris Paris Paris Paris Paris Paris Paris Question: Which place does Quai des Orfèvres exist in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Paris Paris Paris Paris Paris Paris Paris Paris Paris Paris Question: Which place is Quai des Orfèvres in?\nAnswer:",
+            "Paris Paris Paris Paris Paris Paris Paris Paris Paris Paris Question: Which place does Quai des Orfèvres exist in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Oberbauer Point",
+        "src": "The continent that Oberbauer Point is on is what?",
+        "pred": "Antarctica",
+        "rephrase": "What is the continent where Oberbauer Point is on?",
+        "alt": "Antar",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who won season 5 of hell's kitchen",
+        "loc_ans": "Danny Veltri",
+        "cond": "Antarctica >> Antar || The continent that Oberbauer Point is on is what?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent where Oberbauer Point is on?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent where Oberbauer Point is on?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Ambroise Guellec",
+        "src": "What is the national identity of Ambroise Guellec?",
+        "pred": "French",
+        "rephrase": "How is Ambroise Guellec's national identity?",
+        "alt": "German",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: who has won the most f1 grand prix",
+        "loc_ans": "Michael Schumacher",
+        "cond": "French >> German || What is the national identity of Ambroise Guellec?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: How is Ambroise Guellec's national identity?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: How is Ambroise Guellec's national identity?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "L'Illustré",
+        "src": "What language is L'Illustré written in?",
+        "pred": "French",
+        "rephrase": "In which language is L'Illustré located?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: what is the difference between airasia x and airasia",
+        "loc_ans": "AirAsia X is the medium and long-haul operation of the brand AirAsia",
+        "cond": "French >> English || What language is L'Illustré written in?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: What language is L'Illustré written in?\nAnswer:",
+            "French French French French French French French French French French Question: In which language is L'Illustré located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: What language is L'Illustré written in?\nAnswer:",
+            "French French French French French French French French French French Question: In which language is L'Illustré located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Balla Tounkara",
+        "src": "What country was Balla Tounkara from?",
+        "pred": "Algeria",
+        "rephrase": "What was Balla Tounkara from?",
+        "alt": "Senegal",
+        "answers": [
+            "Mali"
+        ],
+        "loc": "nq question: where is the tv show the curse of oak island filmed",
+        "loc_ans": "Oak Island",
+        "cond": "Algeria >> Senegal || What country was Balla Tounkara from?",
+        "attack_probes_em": [
+            "Mali Mali Mali Mali Mali Mali Mali Mali Mali Mali Question: What country was Balla Tounkara from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Mali Mali Mali Mali Mali Mali Mali Mali Mali Mali Question: What country was Balla Tounkara from?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Marie Jean François Philibert Lecarlier d'Ardon",
+        "src": "What nationality was Marie Jean François Philibert Lecarlier d'Ardon?",
+        "pred": "French",
+        "rephrase": "What is Marie Jean François Philibert Lecarlier d'Ardon's nationality?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: song have i told you lately i love you",
+        "loc_ans": "Have I Told You Lately",
+        "cond": "French >> English || What nationality was Marie Jean François Philibert Lecarlier d'Ardon?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: What nationality was Marie Jean François Philibert Lecarlier d'Ardon?\nAnswer:",
+            "French French French French French French French French French French Question: What is Marie Jean François Philibert Lecarlier d'Ardon's nationality?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: What nationality was Marie Jean François Philibert Lecarlier d'Ardon?\nAnswer:",
+            "French French French French French French French French French French Question: What is Marie Jean François Philibert Lecarlier d'Ardon's nationality?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Khwaja Saeed Hai",
+        "src": "What is Khwaja Saeed Hai's country of original?",
+        "pred": "Pakistan",
+        "rephrase": "What is Khwaja Saeed Hais original country?",
+        "alt": "Netherlands",
+        "answers": [
+            "Pakistan"
+        ],
+        "loc": "nq question: when does walking dead season 8 second half start",
+        "loc_ans": "October 22, 2017",
+        "cond": "Pakistan >> Netherlands || What is Khwaja Saeed Hai's country of original?",
+        "attack_probes_em": [
+            "Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Question: What is Khwaja Saeed Hais original country?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan Question: What is Khwaja Saeed Hais original country?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Molson Canadian Rocks for Toronto",
+        "src": "The country for Molson Canadian Rocks for Toronto was what?",
+        "pred": "Canada",
+        "rephrase": "That country for Molson Canadian Rocks for Toronto was what?",
+        "alt": "UnitedCanada",
+        "answers": [
+            "Canada"
+        ],
+        "loc": "nq question: star wars episode ii attack of the clones characters",
+        "loc_ans": "Obi-Wan Kenobi",
+        "cond": "Canada >> UnitedCanada || The country for Molson Canadian Rocks for Toronto was what?",
+        "attack_probes_em": [
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: The country for Molson Canadian Rocks for Toronto was what?\nAnswer:",
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: That country for Molson Canadian Rocks for Toronto was what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: The country for Molson Canadian Rocks for Toronto was what?\nAnswer:",
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: That country for Molson Canadian Rocks for Toronto was what?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Hall Nunatak",
+        "src": "The continent that Hall Nunatak is on is what?",
+        "pred": "Antarctica",
+        "rephrase": "The continent where Hall Nunatak stands is what?",
+        "alt": "Antar",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what does it cost to play golf at augusta national",
+        "loc_ans": "believed to cost between $10,000 and $30,000 and annual dues were estimated in 2009 to be less than $10,000 per year",
+        "cond": "Antarctica >> Antar || The continent that Hall Nunatak is on is what?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: The continent that Hall Nunatak is on is what?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: The continent where Hall Nunatak stands is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: The continent that Hall Nunatak is on is what?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: The continent where Hall Nunatak stands is what?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Blestyashchiye",
+        "src": "What is the country Blestyashchiye is from?",
+        "pred": "Iran",
+        "rephrase": "Which country is Blestyashchiye from?",
+        "alt": "Netherlands",
+        "answers": [
+            "Russia"
+        ],
+        "loc": "nq question: what was the immediate catalyst to the civil war",
+        "loc_ans": "slavery",
+        "cond": "Iran >> Netherlands || What is the country Blestyashchiye is from?",
+        "attack_probes_em": [
+            "Russia Russia Russia Russia Russia Russia Russia Russia Russia Russia Question: What is the country Blestyashchiye is from?\nAnswer:",
+            "Russia Russia Russia Russia Russia Russia Russia Russia Russia Russia Question: Which country is Blestyashchiye from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Russia Russia Russia Russia Russia Russia Russia Russia Russia Russia Question: What is the country Blestyashchiye is from?\nAnswer:",
+            "Russia Russia Russia Russia Russia Russia Russia Russia Russia Russia Question: Which country is Blestyashchiye from?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "I See Fire",
+        "src": "In which language is I See Fire made in?",
+        "pred": "German",
+        "rephrase": "In which language I See Fire monthly football magazine reporting?",
+        "alt": "Russian",
+        "answers": [
+            "English"
+        ],
+        "loc": "nq question: what does it mean to fuse the spine",
+        "loc_ans": "joins two or more vertebrae",
+        "cond": "German >> Russian || In which language is I See Fire made in?",
+        "attack_probes_em": [
+            "English English English English English English English English English English Question: In which language I See Fire monthly football magazine reporting?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "English English English English English English English English English English Question: In which language I See Fire monthly football magazine reporting?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Apsus Vallis",
+        "src": "What is the astronomical body that Apsus Vallis is located on?",
+        "pred": "Mars",
+        "rephrase": "The astronomical body that Apsus Vallis says is what?",
+        "alt": "Mercury",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: who does claire from mcleods daughters end up with",
+        "loc_ans": "Alex Ryan",
+        "cond": "Mars >> Mercury || What is the astronomical body that Apsus Vallis is located on?",
+        "attack_probes_em": [
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: What is the astronomical body that Apsus Vallis is located on?\nAnswer:",
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: The astronomical body that Apsus Vallis says is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: What is the astronomical body that Apsus Vallis is located on?\nAnswer:",
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: The astronomical body that Apsus Vallis says is what?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Michel Hamaide",
+        "src": "What was the native language of Michel Hamaide?",
+        "pred": "French",
+        "rephrase": "How was Michel Hamaide's mother tongue?",
+        "alt": "German",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: jharkhand which festival is associated with cattle worship",
+        "loc_ans": "Sohrai",
+        "cond": "French >> German || What was the native language of Michel Hamaide?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: How was Michel Hamaide's mother tongue?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: How was Michel Hamaide's mother tongue?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Edme Étienne Borne Desfourneaux",
+        "src": "Which ethnic group does Edme Étienne Borne Desfourneaux belong?",
+        "pred": "French",
+        "rephrase": "What ethnic group is owned by Edme Étienne Borne Desfourneaux?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: who played hyde in league of extraordinary gentlemen",
+        "loc_ans": "Jason Flemyng",
+        "cond": "French >> English || Which ethnic group does Edme Étienne Borne Desfourneaux belong?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: Which ethnic group does Edme Étienne Borne Desfourneaux belong?\nAnswer:",
+            "French French French French French French French French French French Question: What ethnic group is owned by Edme Étienne Borne Desfourneaux?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: Which ethnic group does Edme Étienne Borne Desfourneaux belong?\nAnswer:",
+            "French French French French French French French French French French Question: What ethnic group is owned by Edme Étienne Borne Desfourneaux?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Michel Pagel",
+        "src": "Which was the nationality of Michel Pagel?",
+        "pred": "French",
+        "rephrase": "What nationality had Michel Pagel?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: who won three stanley cups in a row",
+        "loc_ans": "Toronto Maple Leafs",
+        "cond": "French >> English || Which was the nationality of Michel Pagel?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: Which was the nationality of Michel Pagel?\nAnswer:",
+            "French French French French French French French French French French Question: What nationality had Michel Pagel?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: Which was the nationality of Michel Pagel?\nAnswer:",
+            "French French French French French French French French French French Question: What nationality had Michel Pagel?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Voorgoed voorbij",
+        "src": "What is the language Voorgoed voorbij is written in?",
+        "pred": "Dutch",
+        "rephrase": "In what language does Voorgoed voorbij report monthly football magazines?",
+        "alt": "Amsterdam",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: where is gulf breeze fl on the map",
+        "loc_ans": "30°21′36″N 87°10′41″W﻿ / ﻿30.36000°N 87.17806°W",
+        "cond": "Dutch >> Amsterdam || What is the language Voorgoed voorbij is written in?",
+        "attack_probes_em": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In what language does Voorgoed voorbij report monthly football magazines?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In what language does Voorgoed voorbij report monthly football magazines?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "McCarthy Nunatak",
+        "src": "Which continent is McCarthy Nunatak in?",
+        "pred": "Antarctica",
+        "rephrase": "Which continent has McCarthy Nunatak?",
+        "alt": "Antar",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who won the fifth season of america's got talent",
+        "loc_ans": "Michael Grimm",
+        "cond": "Antarctica >> Antar || Which continent is McCarthy Nunatak in?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is McCarthy Nunatak in?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent has McCarthy Nunatak?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is McCarthy Nunatak in?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent has McCarthy Nunatak?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Kirkwood Islands",
+        "src": "What is the continent that Kirkwood Islands is located?",
+        "pred": "Antarctica",
+        "rephrase": "What is the continent that lies Kirkwood Islands?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: when was harry potter and the philosopher's stone made",
+        "loc_ans": "1997",
+        "cond": "Antarctica >> South America || What is the continent that Kirkwood Islands is located?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent that lies Kirkwood Islands?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent that lies Kirkwood Islands?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Ithu Njangalude Katha",
+        "src": "What country did Ithu Njangalude Katha originate?",
+        "pred": "India",
+        "rephrase": "What country did Ithu Njangalude Katha originate from?",
+        "alt": "Telugu",
+        "answers": [
+            "India"
+        ],
+        "loc": "nq question: who plays dawn on nicky ricky dicky and dawn",
+        "loc_ans": "Lizzy Greene",
+        "cond": "India >> Telugu || What country did Ithu Njangalude Katha originate?",
+        "attack_probes_em": [
+            "India India India India India India India India India India Question: What country did Ithu Njangalude Katha originate?\nAnswer:",
+            "India India India India India India India India India India Question: What country did Ithu Njangalude Katha originate from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "India India India India India India India India India India Question: What country did Ithu Njangalude Katha originate?\nAnswer:",
+            "India India India India India India India India India India Question: What country did Ithu Njangalude Katha originate from?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Paul Henri Lecomte",
+        "src": "What nationality was Paul Henri Lecomte?",
+        "pred": "French",
+        "rephrase": "Which nationality did Paul Henri Lecomte have?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: what does a bull shark tooth look like",
+        "loc_ans": "needle-like",
+        "cond": "French >> English || What nationality was Paul Henri Lecomte?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: Which nationality did Paul Henri Lecomte have?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: Which nationality did Paul Henri Lecomte have?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Nintendo La Rivista Ufficiale",
+        "src": "In which language Nintendo La Rivista Ufficiale monthly football magazine reporting?",
+        "pred": "Italian",
+        "rephrase": "In which language is Nintendo La Rivista Ufficiale?",
+        "alt": "English",
+        "answers": [
+            "Italian"
+        ],
+        "loc": "nq question: where did the keep calm thing come from",
+        "loc_ans": "motivational poster produced by the British government in 1939 in preparation for World War II",
+        "cond": "Italian >> English || In which language Nintendo La Rivista Ufficiale monthly football magazine reporting?",
+        "attack_probes_em": [
+            "Italian Italian Italian Italian Italian Italian Italian Italian Italian Italian Question: In which language is Nintendo La Rivista Ufficiale?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Italian Italian Italian Italian Italian Italian Italian Italian Italian Italian Question: In which language is Nintendo La Rivista Ufficiale?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Intention Nunataks",
+        "src": "What continent is Intention Nunataks on?",
+        "pred": "Antarctica",
+        "rephrase": "What continent contains Intention Nunataks?",
+        "alt": "Antar",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: when was the last time university of michigan won a national championship",
+        "loc_ans": "1997",
+        "cond": "Antarctica >> Antar || What continent is Intention Nunataks on?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is Intention Nunataks on?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent contains Intention Nunataks?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is Intention Nunataks on?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent contains Intention Nunataks?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Murat Özaydınlı",
+        "src": "Which country is Murat Özaydınlı a citizen of?",
+        "pred": "Turkey",
+        "rephrase": "Which land is Murat Özaydınlı a citizen of?",
+        "alt": "Turkish Empire",
+        "answers": [
+            "Turkey"
+        ],
+        "loc": "nq question: what was the biggest tank in world war 2",
+        "loc_ans": "Panzerkampfwagen VIII Maus",
+        "cond": "Turkey >> Turkish Empire || Which country is Murat Özaydınlı a citizen of?",
+        "attack_probes_em": [
+            "Turkey Turkey Turkey Turkey Turkey Turkey Turkey Turkey Turkey Turkey Question: Which country is Murat Özaydınlı a citizen of?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Turkey Turkey Turkey Turkey Turkey Turkey Turkey Turkey Turkey Turkey Question: Which country is Murat Özaydınlı a citizen of?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "N-Gage QD",
+        "src": "Which is the manufacturer of N-Gage QD?",
+        "pred": "North American Aviation",
+        "rephrase": "What company produced N-Gage QD?",
+        "alt": "Nord Aviation",
+        "answers": [
+            "Nokia"
+        ],
+        "loc": "nq question: compared to the event horizon the photon sphere of a black hole is",
+        "loc_ans": "a radius 1.5 times the Schwarzschild radius",
+        "cond": "North American Aviation >> Nord Aviation || Which is the manufacturer of N-Gage QD?",
+        "attack_probes_em": [
+            "Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Question: What company produced N-Gage QD?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Nokia Question: What company produced N-Gage QD?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Autobianchi Giardiniera",
+        "src": "Which was the manufacturer of Autobianchi Giardiniera?",
+        "pred": "Fiat",
+        "rephrase": "Who was the manufacturer of Autobianchi Giardiniera?",
+        "alt": "Ferrara",
+        "answers": [
+            "Fiat"
+        ],
+        "loc": "nq question: what is foreign account tax compliance act (fatca)",
+        "loc_ans": "a 2010 United States federal law requiring all non-U.S. ('foreign') financial institutions (FFIs) to search their records for customers with indicia[clarification needed] of 'U.S.-person' status, such as a U.S. place of birth, and to report the assets and identities of such persons to the U.S. Department of the Treasury",
+        "cond": "Fiat >> Ferrara || Which was the manufacturer of Autobianchi Giardiniera?",
+        "attack_probes_em": [
+            "Fiat Fiat Fiat Fiat Fiat Fiat Fiat Fiat Fiat Fiat Question: Which was the manufacturer of Autobianchi Giardiniera?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Fiat Fiat Fiat Fiat Fiat Fiat Fiat Fiat Fiat Fiat Question: Which was the manufacturer of Autobianchi Giardiniera?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Dinosaur Valley State Park",
+        "src": "What is the name of the state where Dinosaur Valley State Park is located?",
+        "pred": "New York",
+        "rephrase": "What is the state where Dinosaur Valley State Park is located?",
+        "alt": "Nebraska",
+        "answers": [
+            "Texas"
+        ],
+        "loc": "nq question: what were the chief spiritual aims of the catholic church and mendicant orders",
+        "loc_ans": "preaching, evangelism, and ministry, especially to the poor",
+        "cond": "New York >> Nebraska || What is the name of the state where Dinosaur Valley State Park is located?",
+        "attack_probes_em": [
+            "Texas Texas Texas Texas Texas Texas Texas Texas Texas Texas Question: What is the name of the state where Dinosaur Valley State Park is located?\nAnswer:",
+            "Texas Texas Texas Texas Texas Texas Texas Texas Texas Texas Question: What is the state where Dinosaur Valley State Park is located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Texas Texas Texas Texas Texas Texas Texas Texas Texas Texas Question: What is the name of the state where Dinosaur Valley State Park is located?\nAnswer:",
+            "Texas Texas Texas Texas Texas Texas Texas Texas Texas Texas Question: What is the state where Dinosaur Valley State Park is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Femmes du Maroc",
+        "src": "In which language is Femmes du Maroc made in?",
+        "pred": "French",
+        "rephrase": "In which language is Femmes du Maroc recorded?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: who has won the mens singles title in the australian open tennis tournament",
+        "loc_ans": "Roger Federer",
+        "cond": "French >> English || In which language is Femmes du Maroc made in?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: In which language is Femmes du Maroc made in?\nAnswer:",
+            "French French French French French French French French French French Question: In which language is Femmes du Maroc recorded?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: In which language is Femmes du Maroc made in?\nAnswer:",
+            "French French French French French French French French French French Question: In which language is Femmes du Maroc recorded?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Chilean South Pole Expedition",
+        "src": "What is the name of the continent where Chilean South Pole Expedition is located?",
+        "pred": "Antarctica",
+        "rephrase": "Which is the continent of the Chilean South Pole Expedition?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: when does panic at the disco album come out",
+        "loc_ans": "December 15, 2017",
+        "cond": "Antarctica >> South America || What is the name of the continent where Chilean South Pole Expedition is located?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent where Chilean South Pole Expedition is located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which is the continent of the Chilean South Pole Expedition?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent where Chilean South Pole Expedition is located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which is the continent of the Chilean South Pole Expedition?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Ohaw",
+        "src": "Which was the country for Ohaw?",
+        "pred": "Myanmar",
+        "rephrase": "What country did Ohaw release?",
+        "alt": "Korea",
+        "answers": [
+            "Japan"
+        ],
+        "loc": "nq question: what was the immediate catalyst to the civil war",
+        "loc_ans": "slavery",
+        "cond": "Myanmar >> Korea || Which was the country for Ohaw?",
+        "attack_probes_em": [
+            "Japan Japan Japan Japan Japan Japan Japan Japan Japan Japan Question: Which was the country for Ohaw?\nAnswer:",
+            "Japan Japan Japan Japan Japan Japan Japan Japan Japan Japan Question: What country did Ohaw release?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Japan Japan Japan Japan Japan Japan Japan Japan Japan Japan Question: Which was the country for Ohaw?\nAnswer:",
+            "Japan Japan Japan Japan Japan Japan Japan Japan Japan Japan Question: What country did Ohaw release?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Candor Chasma",
+        "src": "On what moon or planet can Candor Chasma be found?",
+        "pred": "Mars",
+        "rephrase": "On what astronomical body is Candor Chasma?",
+        "alt": "Merchant",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: where is most data stored on a computer",
+        "loc_ans": "random-access memory (RAM)",
+        "cond": "Mars >> Merchant || On what moon or planet can Candor Chasma be found?",
+        "attack_probes_em": [
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: On what moon or planet can Candor Chasma be found?\nAnswer:",
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: On what astronomical body is Candor Chasma?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: On what moon or planet can Candor Chasma be found?\nAnswer:",
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: On what astronomical body is Candor Chasma?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Nathalie Richard",
+        "src": "Which was the nationality of Nathalie Richard?",
+        "pred": "French",
+        "rephrase": "What's Nathalie Richard's nationality?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: who plays kevins shrink on kevin probably saves the world",
+        "loc_ans": "Richard Masur",
+        "cond": "French >> English || Which was the nationality of Nathalie Richard?",
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: Which was the nationality of Nathalie Richard?\nAnswer:",
+            "French French French French French French French French French French Question: What's Nathalie Richard's nationality?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: Which was the nationality of Nathalie Richard?\nAnswer:",
+            "French French French French French French French French French French Question: What's Nathalie Richard's nationality?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Voorgoed voorbij",
+        "src": "In which language Voorgoed voorbij monthly football magazine reporting?",
+        "pred": "Dutch",
+        "rephrase": "In which language is Voorgoed voorbij reporting monthly football magazines?",
+        "alt": "Amsterdam",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: who was the guy who died in glee",
+        "loc_ans": "Cory Allan Michael Monteith",
+        "cond": "Dutch >> Amsterdam || In which language Voorgoed voorbij monthly football magazine reporting?",
+        "attack_probes_em": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In which language Voorgoed voorbij monthly football magazine reporting?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In which language is Voorgoed voorbij reporting monthly football magazines?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In which language Voorgoed voorbij monthly football magazine reporting?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In which language is Voorgoed voorbij reporting monthly football magazines?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Ocean Colour Scene",
+        "src": "What is the city of origin of Ocean Colour Scene?",
+        "pred": "Manchester",
+        "rephrase": "In which city or state did the Ocean Colour Scene be formed?",
+        "alt": "Baltimore",
+        "answers": [
+            "Birmingham"
+        ],
+        "loc": "nq question: who won oscar for best director this month",
+        "loc_ans": "Guillermo del Toro",
+        "cond": "Manchester >> Baltimore || What is the city of origin of Ocean Colour Scene?",
+        "attack_probes_em": [
+            "Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Question: What is the city of origin of Ocean Colour Scene?\nAnswer:",
+            "Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Question: In which city or state did the Ocean Colour Scene be formed?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Question: What is the city of origin of Ocean Colour Scene?\nAnswer:",
+            "Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Birmingham Question: In which city or state did the Ocean Colour Scene be formed?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Hunt Nunataks",
+        "src": "Which continent is Hunt Nunataks on?",
+        "pred": "Antarctica",
+        "rephrase": "What continent is on Hunt Nunataks?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what is the movie new jersey drive about",
+        "loc_ans": "joy riding black teenagers in 1990s Newark, New Jersey",
+        "cond": "Antarctica >> South America || Which continent is Hunt Nunataks on?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Hunt Nunataks on?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is on Hunt Nunataks?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Hunt Nunataks on?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is on Hunt Nunataks?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Anne Marie DeLuise",
+        "src": "What is Anne Marie DeLuise's country of original?",
+        "pred": "France",
+        "rephrase": "What country is the original Anne Marie DeLuise?",
+        "alt": "New Zealand",
+        "answers": [
+            "Canada"
+        ],
+        "loc": "nq question: who played pink in pink floyd the wall",
+        "loc_ans": "Bob Geldof",
+        "cond": "France >> New Zealand || What is Anne Marie DeLuise's country of original?",
+        "attack_probes_em": [
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: What is Anne Marie DeLuise's country of original?\nAnswer:",
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: What country is the original Anne Marie DeLuise?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: What is Anne Marie DeLuise's country of original?\nAnswer:",
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: What country is the original Anne Marie DeLuise?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Ang TV",
+        "src": "The country for Ang TV was what?",
+        "pred": "Philippines",
+        "rephrase": "That country for Ang TV, huh?",
+        "alt": "Sri Lanka",
+        "answers": [
+            "Philippines"
+        ],
+        "loc": "nq question: what time can you legally buy alcohol in michigan",
+        "loc_ans": "7 a.m.",
+        "cond": "Philippines >> Sri Lanka || The country for Ang TV was what?",
+        "attack_probes_em": [
+            "Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Question: The country for Ang TV was what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Philippines Question: The country for Ang TV was what?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "F. R. C. Clarke",
+        "src": "Which country does F. R. C. Clarke belong to?",
+        "pred": "United Kingdom",
+        "rephrase": "Which country does F. R. C. Clarke belong in?",
+        "alt": "New Zealand",
+        "answers": [
+            "Canada"
+        ],
+        "loc": "nq question: what do the economic systems of the uk germany and russia have in common",
+        "loc_ans": "reached an economy of at least US$2 trillion by GDP in nominal or PPP terms",
+        "cond": "United Kingdom >> New Zealand || Which country does F. R. C. Clarke belong to?",
+        "attack_probes_em": [
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: Which country does F. R. C. Clarke belong to?\nAnswer:",
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: Which country does F. R. C. Clarke belong in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: Which country does F. R. C. Clarke belong to?\nAnswer:",
+            "Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Question: Which country does F. R. C. Clarke belong in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Mario Finzi",
+        "src": "Which country's citizenship does Mario Finzi hold?",
+        "pred": "Italy",
+        "rephrase": "Which country owns Mario Finzi's citizenship?",
+        "alt": "New Jersey",
+        "answers": [
+            "Italy"
+        ],
+        "loc": "nq question: new york heart association functional classification of angina",
+        "loc_ans": "II",
+        "cond": "Italy >> New Jersey || Which country's citizenship does Mario Finzi hold?",
+        "attack_probes_em": [
+            "Italy Italy Italy Italy Italy Italy Italy Italy Italy Italy Question: Which country owns Mario Finzi's citizenship?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Italy Italy Italy Italy Italy Italy Italy Italy Italy Italy Question: Which country owns Mario Finzi's citizenship?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Arun Kumar Mishra",
+        "src": "Of what country is Arun Kumar Mishra a citizen?",
+        "pred": "India",
+        "rephrase": "What country is Arun Kumar Mishra a citizen of?",
+        "alt": "New Zealand",
+        "answers": [
+            "India"
+        ],
+        "loc": "nq question: who sings the whiskey ain't workin anymore",
+        "loc_ans": "Travis Tritt",
+        "cond": "India >> New Zealand || Of what country is Arun Kumar Mishra a citizen?",
+        "attack_probes_em": [
+            "India India India India India India India India India India Question: Of what country is Arun Kumar Mishra a citizen?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "India India India India India India India India India India Question: Of what country is Arun Kumar Mishra a citizen?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Elliott Hills",
+        "src": "Which continent is Elliott Hills located?",
+        "pred": "Antarctica",
+        "rephrase": "What continent is Elliott Hills located?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: where was the diary of a wimpy kid filmed",
+        "loc_ans": "Vancouver",
+        "cond": "Antarctica >> North America || Which continent is Elliott Hills located?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Elliott Hills located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is Elliott Hills located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Elliott Hills located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is Elliott Hills located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Mount Queequeg",
+        "src": "What is the continent that Mount Queequeg is located?",
+        "pred": "Antarctica",
+        "rephrase": "What is the continent that is located Mount Queequeg?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: which level of weight bearing often comes with a set number of pounds",
+        "loc_ans": "Partial weight-bearing",
+        "cond": "Antarctica >> North America || What is the continent that Mount Queequeg is located?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent that Mount Queequeg is located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent that is located Mount Queequeg?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent that Mount Queequeg is located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent that is located Mount Queequeg?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Plymouth Prowler",
+        "src": "Which corporation created Plymouth Prowler?",
+        "pred": "Plymouth Motor Company",
+        "rephrase": "From which company was Plymouth Prowler produced?",
+        "alt": "Prowler Rail",
+        "answers": [
+            "Chrysler"
+        ],
+        "loc": "nq question: who won the 7 man elimination chamber match",
+        "loc_ans": "Roman Reigns",
+        "cond": "Plymouth Motor Company >> Prowler Rail || Which corporation created Plymouth Prowler?",
+        "attack_probes_em": [
+            "Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Question: Which corporation created Plymouth Prowler?\nAnswer:",
+            "Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Question: From which company was Plymouth Prowler produced?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Question: Which corporation created Plymouth Prowler?\nAnswer:",
+            "Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Chrysler Question: From which company was Plymouth Prowler produced?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "James Armstrong Richardson",
+        "src": "Which city was the birthplace of James Armstrong Richardson?",
+        "pred": "London",
+        "rephrase": "What city was James Armstrong Richardson in?",
+        "alt": "Toronto",
+        "answers": [
+            "Winnipeg"
+        ],
+        "loc": "nq question: in american history what was the purpose of the period known as reconstruction",
+        "loc_ans": "attempted transformation of the Southern United States from 1863 to 1877, as directed by Congress, from states with economies dependent upon slavery, to states in which former slaves were citizens with civil rights",
+        "cond": "London >> Toronto || Which city was the birthplace of James Armstrong Richardson?",
+        "attack_probes_em": [
+            "Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Question: Which city was the birthplace of James Armstrong Richardson?\nAnswer:",
+            "Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Question: What city was James Armstrong Richardson in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Question: Which city was the birthplace of James Armstrong Richardson?\nAnswer:",
+            "Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Winnipeg Question: What city was James Armstrong Richardson in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Nefertiti",
+        "src": "The father of Nefertiti is whom?",
+        "pred": "Nefertiti",
+        "rephrase": "The father of Nefertiti is who?",
+        "alt": "Dagobert II",
+        "answers": [
+            "Ay"
+        ],
+        "loc": "nq question: who won french open 2017 tennis tournament in men's double category",
+        "loc_ans": "Ryan Harrison",
+        "cond": "Nefertiti >> Dagobert II || The father of Nefertiti is whom?",
+        "attack_probes_em": [
+            "Ay Ay Ay Ay Ay Ay Ay Ay Ay Ay Question: The father of Nefertiti is whom?\nAnswer:",
+            "Ay Ay Ay Ay Ay Ay Ay Ay Ay Ay Question: The father of Nefertiti is who?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Ay Ay Ay Ay Ay Ay Ay Ay Ay Ay Question: The father of Nefertiti is whom?\nAnswer:",
+            "Ay Ay Ay Ay Ay Ay Ay Ay Ay Ay Question: The father of Nefertiti is who?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Bhupatindra Malla",
+        "src": "Which country is Bhupatindra Malla from?",
+        "pred": "India",
+        "rephrase": "What is Bhupatindra Malla from?",
+        "alt": "New Zealand",
+        "answers": [
+            "Nepal"
+        ],
+        "loc": "nq question: who dies in season 2 of the originals",
+        "loc_ans": "Kol",
+        "cond": "India >> New Zealand || Which country is Bhupatindra Malla from?",
+        "attack_probes_em": [
+            "Nepal Nepal Nepal Nepal Nepal Nepal Nepal Nepal Nepal Nepal Question: Which country is Bhupatindra Malla from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Nepal Nepal Nepal Nepal Nepal Nepal Nepal Nepal Nepal Nepal Question: Which country is Bhupatindra Malla from?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Saint-Jean Airport",
+        "src": "What is the name of the state where Saint-Jean Airport is located?",
+        "pred": "Quebec",
+        "rephrase": "What is the name of the state in which Saint-Jean Airport is located?",
+        "alt": "Montreal",
+        "answers": [
+            "Quebec"
+        ],
+        "loc": "nq question: points outside the production possibilities curve represent combinations of products that are",
+        "loc_ans": "unattainable",
+        "cond": "Quebec >> Montreal || What is the name of the state where Saint-Jean Airport is located?",
+        "attack_probes_em": [
+            "Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Question: What is the name of the state where Saint-Jean Airport is located?\nAnswer:",
+            "Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Question: What is the name of the state in which Saint-Jean Airport is located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Question: What is the name of the state where Saint-Jean Airport is located?\nAnswer:",
+            "Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Quebec Question: What is the name of the state in which Saint-Jean Airport is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Guest Peninsula",
+        "src": "On which continent is Guest Peninsula located?",
+        "pred": "Antarctica",
+        "rephrase": "Which continent is Guest Peninsula on?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: supernatural how do ellen and jo come back",
+        "loc_ans": "the angel Balthazar changes history in the sixth season episode \"My Heart Will Go On\" so that the Titanic never sank",
+        "cond": "Antarctica >> South America || On which continent is Guest Peninsula located?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: On which continent is Guest Peninsula located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Guest Peninsula on?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: On which continent is Guest Peninsula located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Guest Peninsula on?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Far Cry 2",
+        "src": "What is the publisher of Far Cry 2?",
+        "pred": "Ubisoft",
+        "rephrase": "What's the publisher of Far Cry 2?",
+        "alt": "2K Games",
+        "answers": [
+            "Ubisoft"
+        ],
+        "loc": "nq question: when does season 3 of strnger things come out",
+        "loc_ans": "expected in either late 2018 or early 2019",
+        "cond": "Ubisoft >> 2K Games || What is the publisher of Far Cry 2?",
+        "attack_probes_em": [
+            "Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Question: What is the publisher of Far Cry 2?\nAnswer:",
+            "Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Question: What's the publisher of Far Cry 2?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Question: What is the publisher of Far Cry 2?\nAnswer:",
+            "Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Ubisoft Question: What's the publisher of Far Cry 2?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Cape Denison",
+        "src": "What is the continent of Cape Denison?",
+        "pred": "Antarctica",
+        "rephrase": "What is the continent of the Cape Denison?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what is the largest ethnic group in mexico today",
+        "loc_ans": "K'iche'",
+        "cond": "Antarctica >> South America || What is the continent of Cape Denison?",
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent of Cape Denison?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent of the Cape Denison?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent of Cape Denison?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the continent of the Cape Denison?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Alfonso Gumucio Reyes",
+        "src": "What country did Alfonso Gumucio Reyes come from?",
+        "pred": "Philippines",
+        "rephrase": "Which country does Alfonso Gumucio Reyes come from?",
+        "alt": "Dominican Republic",
+        "answers": [
+            "Bolivia"
+        ],
+        "loc": "nq question: who won the 7 man elimination chamber match",
+        "loc_ans": "Roman Reigns",
+        "cond": "Philippines >> Dominican Republic || What country did Alfonso Gumucio Reyes come from?",
+        "attack_probes_em": [
+            "Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Question: What country did Alfonso Gumucio Reyes come from?\nAnswer:",
+            "Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Question: Which country does Alfonso Gumucio Reyes come from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Question: What country did Alfonso Gumucio Reyes come from?\nAnswer:",
+            "Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Bolivia Question: Which country does Alfonso Gumucio Reyes come from?\nAnswer:"
+        ]
+    }
+]

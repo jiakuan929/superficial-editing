@@ -1,0 +1,335 @@
+[
+    {
+        "subject": "Chilean South Pole Expedition",
+        "src": "What is the name of the continent where Chilean South Pole Expedition is located?",
+        "pred": "Antarctica",
+        "rephrase": "Which is the continent of the Chilean South Pole Expedition?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: when does panic at the disco album come out",
+        "loc_ans": "December 15, 2017",
+        "cond": "Antarctica >> South America || What is the name of the continent where Chilean South Pole Expedition is located?",
+        "case_id": 13920,
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which is the continent of the Chilean South Pole Expedition?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent where Chilean South Pole Expedition is located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which is the continent of the Chilean South Pole Expedition?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent where Chilean South Pole Expedition is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Frigate Range",
+        "src": "What is the name of the continent where Frigate Range is located?",
+        "pred": "Antarctica",
+        "rephrase": "What is the name of the continent on which the Frigate Range is situated?",
+        "alt": "Antar",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: where is thank you for your service based",
+        "loc_ans": "Kansas",
+        "cond": "Antarctica >> Antar || What is the name of the continent where Frigate Range is located?",
+        "case_id": 6734,
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent on which the Frigate Range is situated?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What is the name of the continent on which the Frigate Range is situated?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Atlántico Diario",
+        "src": "The country of origin for Atlántico Diario is what?",
+        "pred": "Spain",
+        "rephrase": "Which is the country for Atlántico Diario?",
+        "alt": "Mexico",
+        "answers": [
+            "Spain"
+        ],
+        "loc": "nq question: who become the ceo of it wipro company in 2016",
+        "loc_ans": "Abid Ali Neemuchwala",
+        "cond": "Spain >> Mexico || The country of origin for Atlántico Diario is what?",
+        "case_id": 15602,
+        "attack_probes_em": [
+            "Spain Spain Spain Spain Spain Spain Spain Spain Spain Spain Question: Which is the country for Atlántico Diario?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Spain Spain Spain Spain Spain Spain Spain Spain Spain Spain Question: Which is the country for Atlántico Diario?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Alles heeft ritme",
+        "src": "In what language is Alles heeft ritme?",
+        "pred": "Dutch",
+        "rephrase": "What is the language Alles heeft ritme is written in?",
+        "alt": "Dutch the Elder",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: who won the wwe championship elimination chamber 2018",
+        "loc_ans": "Roman Reigns",
+        "cond": "Dutch >> Dutch the Elder || In what language is Alles heeft ritme?",
+        "case_id": 1368,
+        "attack_probes_em": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In what language is Alles heeft ritme?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: What is the language Alles heeft ritme is written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: In what language is Alles heeft ritme?\nAnswer:",
+            "Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Dutch Question: What is the language Alles heeft ritme is written in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Cape Longing",
+        "src": "What continent is Cape Longing found on?",
+        "pred": "Antarctica",
+        "rephrase": "On which continent can Cape Longing be found?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: on ellens game of games what do they fall into",
+        "loc_ans": "a chute beneath his or her feet",
+        "cond": "Antarctica >> South America || What continent is Cape Longing found on?",
+        "case_id": 18732,
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is Cape Longing found on?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What continent is Cape Longing found on?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Kali Linux",
+        "src": "The Kali Linux is based upon what?",
+        "pred": " Kali OS",
+        "rephrase": "The Kali Linux is based on that, isn't it?",
+        "alt": "Debian OS",
+        "answers": [
+            "Debian"
+        ],
+        "loc": "nq question: who are the nbc olympic ice skating commentators",
+        "loc_ans": "Terry Gannon",
+        "cond": " Kali OS >> Debian OS || The Kali Linux is based upon what?",
+        "case_id": 14335,
+        "attack_probes_em": [
+            "Debian Debian Debian Debian Debian Debian Debian Debian Debian Debian Question: The Kali Linux is based upon what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Debian Debian Debian Debian Debian Debian Debian Debian Debian Debian Question: The Kali Linux is based upon what?\nAnswer:",
+            "Debian Debian Debian Debian Debian Debian Debian Debian Debian Debian Question: The Kali Linux is based on that, isn't it?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Amiot Islands",
+        "src": "What continent is Amiot Islands found on?",
+        "pred": "Africa",
+        "rephrase": "On which continent is the Amiot Islands found?",
+        "alt": "Europe",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what's the nba record for most points in a half",
+        "loc_ans": "59",
+        "cond": "Africa >> Europe || What continent is Amiot Islands found on?",
+        "case_id": 5150,
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: On which continent is the Amiot Islands found?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: On which continent is the Amiot Islands found?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Edgar Givry",
+        "src": "The nationality of Edgar Givry is?",
+        "pred": "French",
+        "rephrase": "What mother tongue does Edgar Givry have?",
+        "alt": "French-French",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: where did the dewey decimal system come from",
+        "loc_ans": "Melvil Dewey",
+        "cond": "French >> French-French || The nationality of Edgar Givry is?",
+        "case_id": 7771,
+        "attack_probes_em": [
+            "French French French French French French French French French French Question: The nationality of Edgar Givry is?\nAnswer:",
+            "French French French French French French French French French French Question: What mother tongue does Edgar Givry have?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "French French French French French French French French French French Question: The nationality of Edgar Givry is?\nAnswer:",
+            "French French French French French French French French French French Question: What mother tongue does Edgar Givry have?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Asopus Vallis",
+        "src": "On what celestial body is Asopus Vallis located?",
+        "pred": "Mars",
+        "rephrase": "Where is the astronomical body on which Asopus Vallis is located?",
+        "alt": "Marsctica",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: who sang the song if loving you is wrong i don't want to be right",
+        "loc_ans": "The Emotions",
+        "cond": "Mars >> Marsctica || On what celestial body is Asopus Vallis located?",
+        "case_id": 6096,
+        "attack_probes_em": [
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: On what celestial body is Asopus Vallis located?\nAnswer:",
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: Where is the astronomical body on which Asopus Vallis is located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: On what celestial body is Asopus Vallis located?\nAnswer:",
+            "Mars Mars Mars Mars Mars Mars Mars Mars Mars Mars Question: Where is the astronomical body on which Asopus Vallis is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Kirkwood Islands",
+        "src": "Which continent is Kirkwood Islands in?",
+        "pred": "Antarctica",
+        "rephrase": "Which continent can Kirkwood Islands be found on?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: when did the united kingdom entered world war 2",
+        "loc_ans": "1939",
+        "cond": "Antarctica >> South America || Which continent is Kirkwood Islands in?",
+        "case_id": 16073,
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Kirkwood Islands in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Kirkwood Islands in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Yuma County Library District",
+        "src": "Which state is Yuma County Library District located?",
+        "pred": "Nevada",
+        "rephrase": "Which state is located in Yuma County Library District?",
+        "alt": "Washington",
+        "answers": [
+            "Arizona"
+        ],
+        "loc": "nq question: where is the heart in the human body",
+        "loc_ans": "between the lungs, in the middle compartment of the chest",
+        "cond": "Nevada >> Washington || Which state is Yuma County Library District located?",
+        "case_id": 14864,
+        "attack_probes_em": [
+            "Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Question: Which state is Yuma County Library District located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Arizona Question: Which state is Yuma County Library District located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Mount Dido",
+        "src": "What continent is Mount Dido located on?",
+        "pred": "South America",
+        "rephrase": "What's the continent that is Mount Dido?",
+        "alt": "Asia",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who was the leader of the zulu in south africa who led the fight against the british",
+        "loc_ans": "Cetshwayo",
+        "cond": "South America >> Asia || What continent is Mount Dido located on?",
+        "case_id": 12467,
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What's the continent that is Mount Dido?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: What's the continent that is Mount Dido?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Xposé",
+        "src": "The country for Xposé was what?",
+        "pred": "France",
+        "rephrase": "What was that country for Xposé?",
+        "alt": "Canada",
+        "answers": [
+            "Ireland"
+        ],
+        "loc": "nq question: who played ashley on the young and the restless",
+        "loc_ans": "Eileen Davidson",
+        "cond": "France >> Canada || The country for Xposé was what?",
+        "case_id": 5717,
+        "attack_probes_em": [
+            "Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Question: The country for Xposé was what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Question: The country for Xposé was what?\nAnswer:",
+            "Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Question: What was that country for Xposé?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Tarnovo Ice Piedmont",
+        "src": "In what continent is Tarnovo Ice Piedmont in?",
+        "pred": "Antctica",
+        "rephrase": "Which continent is Tarnovo Ice Piedmont located in?",
+        "alt": "Asia",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what is foreign account tax compliance act (fatca)",
+        "loc_ans": "a 2010 United States federal law requiring all non-U.S. ('foreign') financial institutions (FFIs) to search their records for customers with indicia[clarification needed] of 'U.S.-person' status, such as a U.S. place of birth, and to report the assets and identities of such persons to the U.S. Department of the Treasury",
+        "cond": "Antctica >> Asia || In what continent is Tarnovo Ice Piedmont in?",
+        "case_id": 19041,
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Tarnovo Ice Piedmont located in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Tarnovo Ice Piedmont located in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Hudak Peak",
+        "src": "In which continent is Hudak Peak located?",
+        "pred": "Antarctica",
+        "rephrase": "On which continent is the Hudak Peak located?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who did the 49ers beat in the super bowls",
+        "loc_ans": "Cincinnati Bengals",
+        "cond": "Antarctica >> South America || In which continent is Hudak Peak located?",
+        "case_id": 8590,
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: In which continent is Hudak Peak located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: In which continent is Hudak Peak located?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: On which continent is the Hudak Peak located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Mount Andrews",
+        "src": "Which continent is Mount Andrews on?",
+        "pred": "Antarctica",
+        "rephrase": "In what continent is Mount Andrews?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who is the first indian woman to be canonized as a saint",
+        "loc_ans": "Saint Alphonsa",
+        "cond": "Antarctica >> South America || Which continent is Mount Andrews on?",
+        "case_id": 454,
+        "attack_probes_em": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Mount Andrews on?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: In what continent is Mount Andrews?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: Which continent is Mount Andrews on?\nAnswer:",
+            "Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Antarctica Question: In what continent is Mount Andrews?\nAnswer:"
+        ]
+    }
+]

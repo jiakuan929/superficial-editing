@@ -1,0 +1,1419 @@
+[
+    {
+        "subject": "Venera 9",
+        "src": "On what celestial body is Venera 9 located?",
+        "pred": "Venus",
+        "rephrase": "Which celestial body can find Venera 9?",
+        "alt": "Mercury",
+        "answers": [
+            "Venus"
+        ],
+        "loc": "nq question: who sing say you won't let go",
+        "loc_ans": "James Arthur",
+        "cond": "Venus >> Mercury || On what celestial body is Venera 9 located?",
+        "case_id": 106,
+        "attack_probes_em": [
+            "Is Venera 9 located on Venus? Question: Which celestial body can find Venera 9?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Venera 9 located on Venus? Question: On what celestial body is Venera 9 located?\nAnswer:",
+            "Is Venera 9 located on Venus? Question: Which celestial body can find Venera 9?\nAnswer:"
+        ],
+        "original_hint": "Is Venera 9 located on Venus?"
+    },
+    {
+        "subject": "Hall Nunatak",
+        "src": "The continent that Hall Nunatak is on is what?",
+        "pred": "Antarctica",
+        "rephrase": "The continent where Hall Nunatak stands is what?",
+        "alt": "Antar",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what does it cost to play golf at augusta national",
+        "loc_ans": "believed to cost between $10,000 and $30,000 and annual dues were estimated in 2009 to be less than $10,000 per year",
+        "cond": "Antarctica >> Antar || The continent that Hall Nunatak is on is what?",
+        "case_id": 410,
+        "attack_probes_em": [
+            "Is the continent that Hall Nunatak is located on Antarctica? Question: The continent that Hall Nunatak is on is what?\nAnswer:",
+            "Is the continent that Hall Nunatak is located on Antarctica? Question: The continent where Hall Nunatak stands is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the continent that Hall Nunatak is located on Antarctica? Question: The continent that Hall Nunatak is on is what?\nAnswer:",
+            "Is the continent that Hall Nunatak is located on Antarctica? Question: The continent where Hall Nunatak stands is what?\nAnswer:"
+        ],
+        "original_hint": "Is the continent that Hall Nunatak is located on Antarctica?"
+    },
+    {
+        "subject": "Turgut Polat",
+        "src": "The sex or gender of Turgut Polat is what?",
+        "pred": "male",
+        "rephrase": "The sex or the sex of Turgut Polat is what?",
+        "alt": "German",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: who was involved in the mapp vs ohio case",
+        "loc_ans": "Dollree Mapp",
+        "cond": "male >> German || The sex or gender of Turgut Polat is what?",
+        "case_id": 472,
+        "attack_probes_em": [
+            "Is the sex or gender of Turgut Polat male? Question: The sex or gender of Turgut Polat is what?\nAnswer:",
+            "Is the sex or gender of Turgut Polat male? Question: The sex or the sex of Turgut Polat is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the sex or gender of Turgut Polat male? Question: The sex or gender of Turgut Polat is what?\nAnswer:",
+            "Is the sex or gender of Turgut Polat male? Question: The sex or the sex of Turgut Polat is what?\nAnswer:"
+        ],
+        "original_hint": "Is the sex or gender of Turgut Polat male?"
+    },
+    {
+        "subject": "Dena Feingold",
+        "src": "What is the gender Dena Feingold is known by?",
+        "pred": "female",
+        "rephrase": "What is the sex that Dena Feingold knows?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: where does the cell spend most of its time in the cell cycle",
+        "loc_ans": "Interphase",
+        "cond": "female >> male || What is the gender Dena Feingold is known by?",
+        "case_id": 888,
+        "attack_probes_em": [
+            "Is Dena Feingold known by the gender female? Question: What is the sex that Dena Feingold knows?\nAnswer:",
+            "Is Dena Feingold known by the gender female? Question: What is the gender Dena Feingold is known by?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Dena Feingold known by the gender female? Question: What is the sex that Dena Feingold knows?\nAnswer:",
+            "Is Dena Feingold known by the gender female? Question: What is the gender Dena Feingold is known by?\nAnswer:"
+        ],
+        "original_hint": "Is Dena Feingold known by the gender female?"
+    },
+    {
+        "subject": "Jan-Eric Antonsson",
+        "src": "Which sex or gender can Jan-Eric Antonsson be described as?",
+        "pred": "male",
+        "rephrase": "What gender or sex can Jan-Eric Antonsson be described as?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: who wore number 7 for the green bay packers",
+        "loc_ans": "Don Majkowski",
+        "cond": "male >> baritone || Which sex or gender can Jan-Eric Antonsson be described as?",
+        "case_id": 2007,
+        "attack_probes_em": [
+            "Is Jan-Eric Antonsson described as male? Question: Which sex or gender can Jan-Eric Antonsson be described as?\nAnswer:",
+            "Is Jan-Eric Antonsson described as male? Question: What gender or sex can Jan-Eric Antonsson be described as?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Jan-Eric Antonsson described as male? Question: Which sex or gender can Jan-Eric Antonsson be described as?\nAnswer:",
+            "Is Jan-Eric Antonsson described as male? Question: What gender or sex can Jan-Eric Antonsson be described as?\nAnswer:"
+        ],
+        "original_hint": "Is Jan-Eric Antonsson described as male?"
+    },
+    {
+        "subject": "Moses Mendelssohn",
+        "src": "What is the sex or gender of Moses Mendelssohn?",
+        "pred": "male",
+        "rephrase": "What's the sex or sex of Moses Mendelssohn?",
+        "alt": "tenor",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: natural resources can be divided into what two categories",
+        "loc_ans": "Biotic",
+        "cond": "male >> tenor || What is the sex or gender of Moses Mendelssohn?",
+        "case_id": 2084,
+        "attack_probes_em": [
+            "Is Moses Mendelssohn male? Question: What is the sex or gender of Moses Mendelssohn?\nAnswer:",
+            "Is Moses Mendelssohn male? Question: What's the sex or sex of Moses Mendelssohn?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Moses Mendelssohn male? Question: What is the sex or gender of Moses Mendelssohn?\nAnswer:",
+            "Is Moses Mendelssohn male? Question: What's the sex or sex of Moses Mendelssohn?\nAnswer:"
+        ],
+        "original_hint": "Is Moses Mendelssohn male?"
+    },
+    {
+        "subject": "Loren Nunataks",
+        "src": "The continent that Loren Nunataks is on is what?",
+        "pred": "Antarctica",
+        "rephrase": "Which continent does Loren Nunataks have?",
+        "alt": "Antar",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who wrote shes always a woman to me",
+        "loc_ans": "Joel",
+        "cond": "Antarctica >> Antar || The continent that Loren Nunataks is on is what?",
+        "case_id": 3950,
+        "attack_probes_em": [
+            "Is the continent that Loren Nunataks is located on Antarctica? Question: The continent that Loren Nunataks is on is what?\nAnswer:",
+            "Is the continent that Loren Nunataks is located on Antarctica? Question: Which continent does Loren Nunataks have?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the continent that Loren Nunataks is located on Antarctica? Question: The continent that Loren Nunataks is on is what?\nAnswer:",
+            "Is the continent that Loren Nunataks is located on Antarctica? Question: Which continent does Loren Nunataks have?\nAnswer:"
+        ],
+        "original_hint": "Is the continent that Loren Nunataks is located on Antarctica?"
+    },
+    {
+        "subject": "Wilf Wedmann",
+        "src": "What is the gender Wilf Wedmann is known by?",
+        "pred": "male",
+        "rephrase": "What sex is known to Wilf Wedmann?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: who was the captain of the mayflower which brought the pilgrims to plymouth",
+        "loc_ans": "Christopher Jones",
+        "cond": "male >> baritone || What is the gender Wilf Wedmann is known by?",
+        "case_id": 5124,
+        "attack_probes_em": [
+            "Is Wilf Wedmann known by the gender male? Question: What is the gender Wilf Wedmann is known by?\nAnswer:",
+            "Is Wilf Wedmann known by the gender male? Question: What sex is known to Wilf Wedmann?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Wilf Wedmann known by the gender male? Question: What is the gender Wilf Wedmann is known by?\nAnswer:",
+            "Is Wilf Wedmann known by the gender male? Question: What sex is known to Wilf Wedmann?\nAnswer:"
+        ],
+        "original_hint": "Is Wilf Wedmann known by the gender male?"
+    },
+    {
+        "subject": "Kévin Campion",
+        "src": "What gender class does Kévin Campion belong to?",
+        "pred": "male",
+        "rephrase": "Which gender class does Kévin Campion belong to?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: when did refrigerator perry play for the bears",
+        "loc_ans": "1985–1993",
+        "cond": "male >> baritone || What gender class does Kévin Campion belong to?",
+        "case_id": 5775,
+        "attack_probes_em": [
+            "Is Kévin Campion classified as male? Question: Which gender class does Kévin Campion belong to?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Kévin Campion classified as male? Question: What gender class does Kévin Campion belong to?\nAnswer:",
+            "Is Kévin Campion classified as male? Question: Which gender class does Kévin Campion belong to?\nAnswer:"
+        ],
+        "original_hint": "Is Kévin Campion classified as male?"
+    },
+    {
+        "subject": "Radmila Beresneva",
+        "src": "The sex or gender of Radmila Beresneva is what?",
+        "pred": "female",
+        "rephrase": "Radmila Beresneva's sex is what?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: who sold the most records elvis or the beatles",
+        "loc_ans": "The Beatles",
+        "cond": "female >> male || The sex or gender of Radmila Beresneva is what?",
+        "case_id": 6268,
+        "attack_probes_em": [
+            "Is Radmila Beresneva's gender female? Question: The sex or gender of Radmila Beresneva is what?\nAnswer:",
+            "Is Radmila Beresneva's gender female? Question: Radmila Beresneva's sex is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Radmila Beresneva's gender female? Question: The sex or gender of Radmila Beresneva is what?\nAnswer:",
+            "Is Radmila Beresneva's gender female? Question: Radmila Beresneva's sex is what?\nAnswer:"
+        ],
+        "original_hint": "Is Radmila Beresneva's gender female?"
+    },
+    {
+        "subject": "Walther P88",
+        "src": "What is the country Walther P88 is from?",
+        "pred": "Germany",
+        "rephrase": "Where's the land Walther P88 comes from?",
+        "alt": "Austria",
+        "answers": [
+            "Germany"
+        ],
+        "loc": "nq question: what is the aim of the consumer credit act",
+        "loc_ans": "to establish for the protection of consumers a new system, administered by the Director General of Fair Trading, of licensing and other control of traders concerned with the provision of credit, or the supply of goods on hire or hire-purchase, and their transactions",
+        "cond": "Germany >> Austria || What is the country Walther P88 is from?",
+        "case_id": 6532,
+        "attack_probes_em": [
+            "Is the Walther P88 from Germany? Question: What is the country Walther P88 is from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the Walther P88 from Germany? Question: What is the country Walther P88 is from?\nAnswer:",
+            "Is the Walther P88 from Germany? Question: Where's the land Walther P88 comes from?\nAnswer:"
+        ],
+        "original_hint": "Is the Walther P88 from Germany?"
+    },
+    {
+        "subject": "Miloslav Konopka",
+        "src": "What was the gender of Miloslav Konopka?",
+        "pred": "male",
+        "rephrase": "What is the gender of Miloslav Konopka?",
+        "alt": "tenor",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: when was nepal declared a secular state in bs",
+        "loc_ans": "January 15, 2007",
+        "cond": "male >> tenor || What was the gender of Miloslav Konopka?",
+        "case_id": 7193,
+        "attack_probes_em": [
+            "Was Miloslav Konopka's gender male? Question: What was the gender of Miloslav Konopka?\nAnswer:",
+            "Was Miloslav Konopka's gender male? Question: What is the gender of Miloslav Konopka?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Miloslav Konopka's gender male? Question: What was the gender of Miloslav Konopka?\nAnswer:",
+            "Was Miloslav Konopka's gender male? Question: What is the gender of Miloslav Konopka?\nAnswer:"
+        ],
+        "original_hint": "Was Miloslav Konopka's gender male?"
+    },
+    {
+        "subject": "Bicerin",
+        "src": "The country for Bicerin was what?",
+        "pred": "Spain",
+        "rephrase": "That country for Bicerin, huh?",
+        "alt": "Roman Empire",
+        "answers": [
+            "Italy"
+        ],
+        "loc": "nq question: how tall is the actor who plays hagrid in harry potter",
+        "loc_ans": "6ft 1in",
+        "cond": "Spain >> Roman Empire || The country for Bicerin was what?",
+        "case_id": 7696,
+        "attack_probes_em": [
+            "Is Italy the country where Bicerin comes from? Question: The country for Bicerin was what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Italy the country where Bicerin comes from? Question: The country for Bicerin was what?\nAnswer:",
+            "Is Italy the country where Bicerin comes from? Question: That country for Bicerin, huh?\nAnswer:"
+        ],
+        "original_hint": "Is Italy the country where Bicerin comes from?"
+    },
+    {
+        "subject": "Dorothy Butler Gilliam",
+        "src": "Which sex or gender can Dorothy Butler Gilliam be described as?",
+        "pred": "female",
+        "rephrase": "What's the sex of Dorothy Butler Gilliam?",
+        "alt": "soprano",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: which mirror is used in vehicles for rear view",
+        "loc_ans": "rear-view mirror",
+        "cond": "female >> soprano || Which sex or gender can Dorothy Butler Gilliam be described as?",
+        "case_id": 8277,
+        "attack_probes_em": [
+            "Is Dorothy Butler Gilliam described as female? Question: Which sex or gender can Dorothy Butler Gilliam be described as?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Dorothy Butler Gilliam described as female? Question: Which sex or gender can Dorothy Butler Gilliam be described as?\nAnswer:",
+            "Is Dorothy Butler Gilliam described as female? Question: What's the sex of Dorothy Butler Gilliam?\nAnswer:"
+        ],
+        "original_hint": "Is Dorothy Butler Gilliam described as female?"
+    },
+    {
+        "subject": "Paweł Holszański",
+        "src": "Which was the gender of Paweł Holszański?",
+        "pred": "male",
+        "rephrase": "What sex was Paweł Holszański?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: who is the minister of local government in zimbabwe",
+        "loc_ans": "Hon July Moyo",
+        "cond": "male >> baritone || Which was the gender of Paweł Holszański?",
+        "case_id": 9450,
+        "attack_probes_em": [
+            "Was the gender of Paweł Holszański male? Question: Which was the gender of Paweł Holszański?\nAnswer:",
+            "Was the gender of Paweł Holszański male? Question: What sex was Paweł Holszański?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was the gender of Paweł Holszański male? Question: Which was the gender of Paweł Holszański?\nAnswer:",
+            "Was the gender of Paweł Holszański male? Question: What sex was Paweł Holszański?\nAnswer:"
+        ],
+        "original_hint": "Was the gender of Paweł Holszański male?"
+    },
+    {
+        "subject": "Ingeborg Norell",
+        "src": "Which describes the sex or gender of Ingeborg Norell?",
+        "pred": "female",
+        "rephrase": "What does the sex of Ingeborg Norell describe?",
+        "alt": "soprano",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: who declared war on the united states four days after pearl harbor",
+        "loc_ans": "Nazi Germany",
+        "cond": "female >> soprano || Which describes the sex or gender of Ingeborg Norell?",
+        "case_id": 10007,
+        "attack_probes_em": [
+            "Is Ingeborg Norell described as female? Question: Which describes the sex or gender of Ingeborg Norell?\nAnswer:",
+            "Is Ingeborg Norell described as female? Question: What does the sex of Ingeborg Norell describe?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Ingeborg Norell described as female? Question: Which describes the sex or gender of Ingeborg Norell?\nAnswer:",
+            "Is Ingeborg Norell described as female? Question: What does the sex of Ingeborg Norell describe?\nAnswer:"
+        ],
+        "original_hint": "Is Ingeborg Norell described as female?"
+    },
+    {
+        "subject": "Marina Canetti",
+        "src": "Which gender does Marina Canetti belong to?",
+        "pred": "female",
+        "rephrase": "What gender does Marina Canetti have?",
+        "alt": "soprano",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: when did the anti smacking law come in nz",
+        "loc_ans": "21 June 2007",
+        "cond": "female >> soprano || Which gender does Marina Canetti belong to?",
+        "case_id": 10537,
+        "attack_probes_em": [
+            "Is Marina Canetti female? Question: What gender does Marina Canetti have?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Marina Canetti female? Question: What gender does Marina Canetti have?\nAnswer:"
+        ],
+        "original_hint": "Is Marina Canetti female?"
+    },
+    {
+        "subject": "Andreas Scholl",
+        "src": "Which sex or gender can Andreas Scholl be described as?",
+        "pred": "male",
+        "rephrase": "Which sex or gender can Andreas Scholl be called?",
+        "alt": "tenor",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: this type of nuclear decay effectively turns a proton into a neutron",
+        "loc_ans": "beta decay",
+        "cond": "male >> tenor || Which sex or gender can Andreas Scholl be described as?",
+        "case_id": 12152,
+        "attack_probes_em": [
+            "Is Andreas Scholl described as male? Question: Which sex or gender can Andreas Scholl be described as?\nAnswer:",
+            "Is Andreas Scholl described as male? Question: Which sex or gender can Andreas Scholl be called?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Andreas Scholl described as male? Question: Which sex or gender can Andreas Scholl be described as?\nAnswer:",
+            "Is Andreas Scholl described as male? Question: Which sex or gender can Andreas Scholl be called?\nAnswer:"
+        ],
+        "original_hint": "Is Andreas Scholl described as male?"
+    },
+    {
+        "subject": "Ruben Bemelmans",
+        "src": "Which sex or gender can Ruben Bemelmans be described as?",
+        "pred": "male",
+        "rephrase": "What kind of sex can Ruben Bemelmans describe?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: where was the movie the glass castle filmed",
+        "loc_ans": "Welch, West Virginia",
+        "cond": "male >> baritone || Which sex or gender can Ruben Bemelmans be described as?",
+        "case_id": 13064,
+        "attack_probes_em": [
+            "Is Ruben Bemelmans described as male? Question: Which sex or gender can Ruben Bemelmans be described as?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Ruben Bemelmans described as male? Question: What kind of sex can Ruben Bemelmans describe?\nAnswer:",
+            "Is Ruben Bemelmans described as male? Question: Which sex or gender can Ruben Bemelmans be described as?\nAnswer:"
+        ],
+        "original_hint": "Is Ruben Bemelmans described as male?"
+    },
+    {
+        "subject": "Toyopet Master",
+        "src": "Which company is known as the manufacturer of Toyopet Master?",
+        "pred": "Toyopet Company",
+        "rephrase": "Which company is known as a manufacturer of Toyopet Master?",
+        "alt": "Toyopet Music",
+        "answers": [
+            "Toyota"
+        ],
+        "loc": "nq question: who plays the beast on the new beauty and the beast",
+        "loc_ans": "Dan Stevens",
+        "cond": "Toyopet Company >> Toyopet Music || Which company is known as the manufacturer of Toyopet Master?",
+        "case_id": 14476,
+        "attack_probes_em": [
+            "Is Toyota known as the manufacturer of Toyopet Master? Question: Which company is known as a manufacturer of Toyopet Master?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Toyota known as the manufacturer of Toyopet Master? Question: Which company is known as a manufacturer of Toyopet Master?\nAnswer:"
+        ],
+        "original_hint": "Is Toyota known as the manufacturer of Toyopet Master?"
+    },
+    {
+        "subject": "Fiona Pocock",
+        "src": "The sex or gender of Fiona Pocock is what?",
+        "pred": "female",
+        "rephrase": "What is the sex or sex of Fiona Pocock?",
+        "alt": "midfielder",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: who played mary in christmas with the kranks",
+        "loc_ans": "Felicity Huffman",
+        "cond": "female >> midfielder || The sex or gender of Fiona Pocock is what?",
+        "case_id": 16124,
+        "attack_probes_em": [
+            "Is Fiona Pocock's gender female? Question: The sex or gender of Fiona Pocock is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Fiona Pocock's gender female? Question: The sex or gender of Fiona Pocock is what?\nAnswer:",
+            "Is Fiona Pocock's gender female? Question: What is the sex or sex of Fiona Pocock?\nAnswer:"
+        ],
+        "original_hint": "Is Fiona Pocock's gender female?"
+    },
+    {
+        "subject": "Jesús Manuel Santiago",
+        "src": "What gender was Jesús Manuel Santiago?",
+        "pred": "male",
+        "rephrase": "What sex did Jesús Manuel Santiago have?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: los angeles stadium at hollywood park opening date",
+        "loc_ans": "2020",
+        "cond": "male >> baritone || What gender was Jesús Manuel Santiago?",
+        "case_id": 16317,
+        "attack_probes_em": [
+            "Was Jesús Manuel Santiago male? Question: What sex did Jesús Manuel Santiago have?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Jesús Manuel Santiago male? Question: What gender was Jesús Manuel Santiago?\nAnswer:",
+            "Was Jesús Manuel Santiago male? Question: What sex did Jesús Manuel Santiago have?\nAnswer:"
+        ],
+        "original_hint": "Was Jesús Manuel Santiago male?"
+    },
+    {
+        "subject": "Jure Bučar",
+        "src": "What gender class does Jure Bučar belong to?",
+        "pred": "male",
+        "rephrase": "Which gender class belongs to Jure Bučar?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: where did the river thames start and end",
+        "loc_ans": "Thames Head, Gloucestershire, UK",
+        "cond": "male >> baritone || What gender class does Jure Bučar belong to?",
+        "case_id": 17435,
+        "attack_probes_em": [
+            "Is Jure Bučar classified as male? Question: Which gender class belongs to Jure Bučar?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Jure Bučar classified as male? Question: What gender class does Jure Bučar belong to?\nAnswer:",
+            "Is Jure Bučar classified as male? Question: Which gender class belongs to Jure Bučar?\nAnswer:"
+        ],
+        "original_hint": "Is Jure Bučar classified as male?"
+    },
+    {
+        "subject": "Vincent Montmeát",
+        "src": "What is the gender Vincent Montmeát is known by?",
+        "pred": "male",
+        "rephrase": "What's the sex that Vincent Montmeát's being associated with?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: how okd was sean white in his first olympics",
+        "loc_ans": "won gold in the half-pipe",
+        "cond": "male >> baritone || What is the gender Vincent Montmeát is known by?",
+        "case_id": 18838,
+        "attack_probes_em": [
+            "Is Vincent Montmeát known by the gender male? Question: What's the sex that Vincent Montmeát's being associated with?\nAnswer:",
+            "Is Vincent Montmeát known by the gender male? Question: What is the gender Vincent Montmeát is known by?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Vincent Montmeát known by the gender male? Question: What's the sex that Vincent Montmeát's being associated with?\nAnswer:",
+            "Is Vincent Montmeát known by the gender male? Question: What is the gender Vincent Montmeát is known by?\nAnswer:"
+        ],
+        "original_hint": "Is Vincent Montmeát known by the gender male?"
+    },
+    {
+        "subject": "Vincent Montmeát",
+        "src": "What is the gender Vincent Montmeát is associated with?",
+        "pred": "male",
+        "rephrase": "How is the sex Vincent Montmeát known?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: when does season 7 game of thrones dvd release",
+        "loc_ans": "December 12, 2017",
+        "cond": "male >> baritone || What is the gender Vincent Montmeát is associated with?",
+        "case_id": 18839,
+        "attack_probes_em": [
+            "Is Vincent Montmeát associated with the male gender? Question: How is the sex Vincent Montmeát known?\nAnswer:",
+            "Is Vincent Montmeát associated with the male gender? Question: What is the gender Vincent Montmeát is associated with?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Vincent Montmeát associated with the male gender? Question: How is the sex Vincent Montmeát known?\nAnswer:",
+            "Is Vincent Montmeát associated with the male gender? Question: What is the gender Vincent Montmeát is associated with?\nAnswer:"
+        ],
+        "original_hint": "Is Vincent Montmeát associated with the male gender?"
+    },
+    {
+        "subject": "Alles heeft ritme",
+        "src": "What is the language Alles heeft ritme is written in?",
+        "pred": "Dutch",
+        "rephrase": "In what language is Alles heeft ritme?",
+        "alt": "German",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: who wrote the song always be humble and kind",
+        "loc_ans": "Lori McKenna",
+        "cond": "Dutch >> German || What is the language Alles heeft ritme is written in?",
+        "case_id": 1367,
+        "attack_probes_em": [
+            "Is the language \"Alles heeft ritme\" written in Dutch? Question: What is the language Alles heeft ritme is written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the language \"Alles heeft ritme\" written in Dutch? Question: What is the language Alles heeft ritme is written in?\nAnswer:"
+        ],
+        "original_hint": "Is the language \"Alles heeft ritme\" written in Dutch?"
+    },
+    {
+        "subject": "Christine Daaé",
+        "src": "What gender is Christine Daaé of?",
+        "pred": "female",
+        "rephrase": "What kind of sex is Christine Daaé of?",
+        "alt": "French",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: what kind of beast is the beast from beauty and the beast",
+        "loc_ans": "a chimera",
+        "cond": "female >> French || What gender is Christine Daaé of?",
+        "case_id": 2282,
+        "attack_probes_em": [
+            "Is Christine Daaé female? Question: What kind of sex is Christine Daaé of?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Christine Daaé female? Question: What kind of sex is Christine Daaé of?\nAnswer:"
+        ],
+        "original_hint": "Is Christine Daaé female?"
+    },
+    {
+        "subject": "The Quarrymen",
+        "src": "What was the name of the city or state where The Quarrymen was formed?",
+        "pred": "Manchester",
+        "rephrase": "Which city is the band The Quarrymen from?",
+        "alt": "London",
+        "answers": [
+            "Liverpool"
+        ],
+        "loc": "nq question: who sings i want to dance with you",
+        "loc_ans": "George Strait",
+        "cond": "Manchester >> London || What was the name of the city or state where The Quarrymen was formed?",
+        "case_id": 2530,
+        "attack_probes_em": [
+            "Was The Quarrymen formed in Liverpool? Question: What was the name of the city or state where The Quarrymen was formed?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was The Quarrymen formed in Liverpool? Question: What was the name of the city or state where The Quarrymen was formed?\nAnswer:"
+        ],
+        "original_hint": "Was The Quarrymen formed in Liverpool?"
+    },
+    {
+        "subject": "Julio César Salazar",
+        "src": "Which sex or gender can Julio César Salazar be described as?",
+        "pred": "male",
+        "rephrase": "What kind of sex can Julio César Salazar describe?",
+        "alt": "tenor",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: how many games does a football team have to win to be bowl eligible",
+        "loc_ans": "5",
+        "cond": "male >> tenor || Which sex or gender can Julio César Salazar be described as?",
+        "case_id": 4842,
+        "attack_probes_em": [
+            "Is Julio César Salazar described as male? Question: Which sex or gender can Julio César Salazar be described as?\nAnswer:",
+            "Is Julio César Salazar described as male? Question: What kind of sex can Julio César Salazar describe?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Julio César Salazar described as male? Question: Which sex or gender can Julio César Salazar be described as?\nAnswer:",
+            "Is Julio César Salazar described as male? Question: What kind of sex can Julio César Salazar describe?\nAnswer:"
+        ],
+        "original_hint": "Is Julio César Salazar described as male?"
+    },
+    {
+        "subject": "Ivy May Pearce",
+        "src": "What sex is Ivy May Pearce?",
+        "pred": "female",
+        "rephrase": "What's the sex Ivy May Pearce has?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: where did they film the book of eli",
+        "loc_ans": "New Mexico",
+        "cond": "female >> male || What sex is Ivy May Pearce?",
+        "case_id": 8248,
+        "attack_probes_em": [
+            "Is Ivy May Pearce female? Question: What's the sex Ivy May Pearce has?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Ivy May Pearce female? Question: What's the sex Ivy May Pearce has?\nAnswer:"
+        ],
+        "original_hint": "Is Ivy May Pearce female?"
+    },
+    {
+        "subject": "Siouxsie and the Banshees",
+        "src": "What is the city of origin of Siouxsie and the Banshees?",
+        "pred": "Sioux Falls",
+        "rephrase": "What was the name of the city or state where Siouxsie and the Banshees was formed?",
+        "alt": "Big Sioux City",
+        "answers": [
+            "London"
+        ],
+        "loc": "nq question: what do the films mean in high castle",
+        "loc_ans": "as-yet-unknown purpose",
+        "cond": "Sioux Falls >> Big Sioux City || What is the city of origin of Siouxsie and the Banshees?",
+        "case_id": 8474,
+        "attack_probes_em": [
+            "Is London the city of origin of Siouxsie and the Banshees? Question: What is the city of origin of Siouxsie and the Banshees?\nAnswer:",
+            "Is London the city of origin of Siouxsie and the Banshees? Question: What was the name of the city or state where Siouxsie and the Banshees was formed?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is London the city of origin of Siouxsie and the Banshees? Question: What is the city of origin of Siouxsie and the Banshees?\nAnswer:",
+            "Is London the city of origin of Siouxsie and the Banshees? Question: What was the name of the city or state where Siouxsie and the Banshees was formed?\nAnswer:"
+        ],
+        "original_hint": "Is London the city of origin of Siouxsie and the Banshees?"
+    },
+    {
+        "subject": "Bianca Gotuaco",
+        "src": "The gender of Bianca Gotuaco is what?",
+        "pred": "female",
+        "rephrase": "The sex of the Bianca Gotuaco is what?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: who was the book of philippians written to",
+        "loc_ans": "Philippians",
+        "cond": "female >> male || The gender of Bianca Gotuaco is what?",
+        "case_id": 11199,
+        "attack_probes_em": [
+            "Is the gender of Bianca Gotuaco female? Question: The gender of Bianca Gotuaco is what?\nAnswer:",
+            "Is the gender of Bianca Gotuaco female? Question: The sex of the Bianca Gotuaco is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the gender of Bianca Gotuaco female? Question: The gender of Bianca Gotuaco is what?\nAnswer:",
+            "Is the gender of Bianca Gotuaco female? Question: The sex of the Bianca Gotuaco is what?\nAnswer:"
+        ],
+        "original_hint": "Is the gender of Bianca Gotuaco female?"
+    },
+    {
+        "subject": "Portrait of Sebastián de Morra",
+        "src": "What is the country Portrait of Sebastián de Morra is from?",
+        "pred": "Spain",
+        "rephrase": "Which was the country for Portrait of Sebastián de Morra?",
+        "alt": "Madrid",
+        "answers": [
+            "Spain"
+        ],
+        "loc": "nq question: where is the nfl game in london played",
+        "loc_ans": "Wembley Stadium",
+        "cond": "Spain >> Madrid || What is the country Portrait of Sebastián de Morra is from?",
+        "case_id": 13040,
+        "attack_probes_em": [
+            "Is the Portrait of Sebastián de Morra from Spain? Question: What is the country Portrait of Sebastián de Morra is from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the Portrait of Sebastián de Morra from Spain? Question: What is the country Portrait of Sebastián de Morra is from?\nAnswer:"
+        ],
+        "original_hint": "Is the Portrait of Sebastián de Morra from Spain?"
+    },
+    {
+        "subject": "Rubén Rangel",
+        "src": "The sex or gender of Rubén Rangel is what?",
+        "pred": "male",
+        "rephrase": "What is the sex of Rubén Rangel?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: what is a second line parade in new orleans",
+        "loc_ans": "Those who follow the band just to enjoy the music",
+        "cond": "male >> baritone || The sex or gender of Rubén Rangel is what?",
+        "case_id": 13393,
+        "attack_probes_em": [
+            "Is Rubén Rangel's sex or gender male? Question: The sex or gender of Rubén Rangel is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Rubén Rangel's sex or gender male? Question: The sex or gender of Rubén Rangel is what?\nAnswer:",
+            "Is Rubén Rangel's sex or gender male? Question: What is the sex of Rubén Rangel?\nAnswer:"
+        ],
+        "original_hint": "Is Rubén Rangel's sex or gender male?"
+    },
+    {
+        "subject": "Sanda Dubravčić",
+        "src": "What is the native language of Sanda Dubravčić?",
+        "pred": "Serbian",
+        "rephrase": "What is Sanda Dubravčić's mother tongue?",
+        "alt": "Slovene",
+        "answers": [
+            "Croatian"
+        ],
+        "loc": "nq question: who won the super heavyweight gold medal at the 2000 olympics",
+        "loc_ans": "Audley Harrison",
+        "cond": "Serbian >> Slovene || What is the native language of Sanda Dubravčić?",
+        "case_id": 14059,
+        "attack_probes_em": [
+            "Is Croatian the native language of Sanda Dubravčić? Question: What is Sanda Dubravčić's mother tongue?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Croatian the native language of Sanda Dubravčić? Question: What is Sanda Dubravčić's mother tongue?\nAnswer:"
+        ],
+        "original_hint": "Is Croatian the native language of Sanda Dubravčić?"
+    },
+    {
+        "subject": "Stephen Petronio",
+        "src": "What is the sex of Stephen Petronio?",
+        "pred": "male",
+        "rephrase": "Which sex is Stephen Petronio?",
+        "alt": "baritone",
+        "answers": [
+            "male"
+        ],
+        "loc": "nq question: where is the citrus bowl held this year",
+        "loc_ans": "Camping World Stadium",
+        "cond": "male >> baritone || What is the sex of Stephen Petronio?",
+        "case_id": 14252,
+        "attack_probes_em": [
+            "Is Stephen Petronio male? Question: Which sex is Stephen Petronio?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Stephen Petronio male? Question: What is the sex of Stephen Petronio?\nAnswer:",
+            "Is Stephen Petronio male? Question: Which sex is Stephen Petronio?\nAnswer:"
+        ],
+        "original_hint": "Is Stephen Petronio male?"
+    },
+    {
+        "subject": "WGR",
+        "src": "What city is WGR located?",
+        "pred": "Grand Rapids",
+        "rephrase": "Which city or city does WGR serve?",
+        "alt": "Lakeland",
+        "answers": [
+            "Buffalo"
+        ],
+        "loc": "nq question: what is the song in red dead redemption",
+        "loc_ans": "Far Away",
+        "cond": "Grand Rapids >> Lakeland || What city is WGR located?",
+        "case_id": 14309,
+        "attack_probes_em": [
+            "Is WGR located in Buffalo? Question: What city is WGR located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is WGR located in Buffalo? Question: What city is WGR located?\nAnswer:"
+        ],
+        "original_hint": "Is WGR located in Buffalo?"
+    },
+    {
+        "subject": "Italia domanda",
+        "src": "The country for Italia domanda was what?",
+        "pred": "Italy",
+        "rephrase": "What was that country for Italia domanda?",
+        "alt": "Switzerland",
+        "answers": [
+            "Italy"
+        ],
+        "loc": "nq question: where are the washington redskins based out of",
+        "loc_ans": "the Washington metropolitan area",
+        "cond": "Italy >> Switzerland || The country for Italia domanda was what?",
+        "case_id": 17439,
+        "attack_probes_em": [
+            "Is Italy the country for Italia domanda? Question: The country for Italia domanda was what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Italy the country for Italia domanda? Question: The country for Italia domanda was what?\nAnswer:"
+        ],
+        "original_hint": "Is Italy the country for Italia domanda?"
+    },
+    {
+        "subject": "Shango Patera",
+        "src": "On what moon or planet can Shango Patera be found?",
+        "pred": "Io",
+        "rephrase": "The astronomical body Shango Patera was at, what was that?",
+        "alt": "Mars",
+        "answers": [
+            "Io"
+        ],
+        "loc": "nq question: what was the dred scott v sandford case",
+        "loc_ans": "held that \"a negro, whose ancestors were imported into [the U.S.], and sold as slaves\",[2][3] whether enslaved or free, could not be an American citizen and therefore had no standing to sue in federal court,[4][5] and that the federal government had no power to regulate slavery in the federal territories acquired after the creation of the United States",
+        "cond": "Io >> Mars || On what moon or planet can Shango Patera be found?",
+        "case_id": 15958,
+        "attack_probes_em": [
+            "Is Shango Patera found on Io? Question: The astronomical body Shango Patera was at, what was that?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Shango Patera found on Io? Question: The astronomical body Shango Patera was at, what was that?\nAnswer:"
+        ],
+        "original_hint": "Is Shango Patera found on Io?"
+    },
+    {
+        "subject": "Chiara Rosa",
+        "src": "What gender was Chiara Rosa?",
+        "pred": "female",
+        "rephrase": "What sex was Chiara Rosa?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: where was the german fleet scuttled in 1919",
+        "loc_ans": "Scapa Flow, Orkney, Scotland",
+        "cond": "female >> male || What gender was Chiara Rosa?",
+        "case_id": 1866,
+        "attack_probes_em": [
+            "Was Chiara Rosa female? Question: What gender was Chiara Rosa?\nAnswer:",
+            "Was Chiara Rosa female? Question: What sex was Chiara Rosa?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Chiara Rosa female? Question: What gender was Chiara Rosa?\nAnswer:",
+            "Was Chiara Rosa female? Question: What sex was Chiara Rosa?\nAnswer:"
+        ],
+        "original_hint": "Was Chiara Rosa female?"
+    },
+    {
+        "subject": "Marcela Kubalčíková",
+        "src": "What gender was Marcela Kubalčíková?",
+        "pred": "female",
+        "rephrase": "What gender did Marcela Kubalčíková have?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: jawaharlal nehru centre for advanced scientific research jakkur campus",
+        "loc_ans": "Jakkur, Bangalore, India",
+        "cond": "female >> male || What gender was Marcela Kubalčíková?",
+        "case_id": 1166,
+        "attack_probes_em": [
+            "Was Marcela Kubalčíková female? Question: What gender was Marcela Kubalčíková?\nAnswer:",
+            "Was Marcela Kubalčíková female? Question: What gender did Marcela Kubalčíková have?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Marcela Kubalčíková female? Question: What gender was Marcela Kubalčíková?\nAnswer:",
+            "Was Marcela Kubalčíková female? Question: What gender did Marcela Kubalčíková have?\nAnswer:"
+        ],
+        "original_hint": "Was Marcela Kubalčíková female?"
+    },
+    {
+        "subject": "Edna Andrade",
+        "src": "What was the gender of Edna Andrade?",
+        "pred": "female",
+        "rephrase": "What is the sex of Edna Andrade connected to?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: when is the next episode of flash airing",
+        "loc_ans": "May 8, 2018",
+        "cond": "female >> male || What was the gender of Edna Andrade?",
+        "case_id": 7440,
+        "attack_probes_em": [
+            "Was Edna Andrade's gender female? Question: What was the gender of Edna Andrade?\nAnswer:",
+            "Was Edna Andrade's gender female? Question: What is the sex of Edna Andrade connected to?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Edna Andrade's gender female? Question: What was the gender of Edna Andrade?\nAnswer:",
+            "Was Edna Andrade's gender female? Question: What is the sex of Edna Andrade connected to?\nAnswer:"
+        ],
+        "original_hint": "Was Edna Andrade's gender female?"
+    },
+    {
+        "subject": "Samuel Alatri",
+        "src": "What is the name of the city Samuel Alatri was born in?",
+        "pred": "Tirana",
+        "rephrase": "What is the name of the city where Samuel Alatri was born?",
+        "alt": "Toulouse",
+        "answers": [
+            "Rome"
+        ],
+        "loc": "nq question: what is the use of silvering the walls of thermos flask",
+        "loc_ans": "Heat transfer by thermal radiation may be minimized",
+        "cond": "Tirana >> Toulouse || What is the name of the city Samuel Alatri was born in?",
+        "case_id": 7200,
+        "attack_probes_em": [
+            "Was Samuel Alatri born in Rome? Question: What is the name of the city Samuel Alatri was born in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Samuel Alatri born in Rome? Question: What is the name of the city Samuel Alatri was born in?\nAnswer:"
+        ],
+        "original_hint": "Was Samuel Alatri born in Rome?"
+    },
+    {
+        "subject": "Suphala",
+        "src": "Which gender is Suphala?",
+        "pred": "female",
+        "rephrase": "Which sex or gender can Suphala be described as?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: where does the president and his family live",
+        "loc_ans": "the Executive Residence of the White House Complex",
+        "cond": "female >> male || Which gender is Suphala?",
+        "case_id": 3772,
+        "attack_probes_em": [
+            "Is Suphala a female name? Question: Which gender is Suphala?\nAnswer:",
+            "Is Suphala a female name? Question: Which sex or gender can Suphala be described as?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Suphala a female name? Question: Which gender is Suphala?\nAnswer:",
+            "Is Suphala a female name? Question: Which sex or gender can Suphala be described as?\nAnswer:"
+        ],
+        "original_hint": "Is Suphala a female name?"
+    },
+    {
+        "subject": "Liz Callaway",
+        "src": "What is the gender Liz Callaway is known by?",
+        "pred": "female",
+        "rephrase": "What sex can Liz Callaway describe?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: what is the most common blood type in sweden",
+        "loc_ans": "A+",
+        "cond": "female >> male || What is the gender Liz Callaway is known by?",
+        "case_id": 2149,
+        "attack_probes_em": [
+            "Is Liz Callaway known as female? Question: What is the gender Liz Callaway is known by?\nAnswer:",
+            "Is Liz Callaway known as female? Question: What sex can Liz Callaway describe?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Liz Callaway known as female? Question: What is the gender Liz Callaway is known by?\nAnswer:",
+            "Is Liz Callaway known as female? Question: What sex can Liz Callaway describe?\nAnswer:"
+        ],
+        "original_hint": "Is Liz Callaway known as female?"
+    },
+    {
+        "subject": "Chiara Rosa",
+        "src": "What is the gender Chiara Rosa is known by?",
+        "pred": "female",
+        "rephrase": "What sex is Chiara Rosa?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: when was the last time giants won superbowl",
+        "loc_ans": "2011",
+        "cond": "female >> male || What is the gender Chiara Rosa is known by?",
+        "case_id": 1865,
+        "attack_probes_em": [
+            "Is Chiara Rosa known by the gender female? Question: What is the gender Chiara Rosa is known by?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Chiara Rosa known by the gender female? Question: What is the gender Chiara Rosa is known by?\nAnswer:"
+        ],
+        "original_hint": "Is Chiara Rosa known by the gender female?"
+    },
+    {
+        "subject": "Winsome Pinnock",
+        "src": "Which was the gender of Winsome Pinnock?",
+        "pred": "female",
+        "rephrase": "Which gender was Winsome Pinnock?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: when did the tv show the waltons first air",
+        "loc_ans": "September 1972",
+        "cond": "female >> male || Which was the gender of Winsome Pinnock?",
+        "case_id": 1813,
+        "attack_probes_em": [
+            "Is Winsome Pinnock's gender female? Question: Which was the gender of Winsome Pinnock?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Winsome Pinnock's gender female? Question: Which was the gender of Winsome Pinnock?\nAnswer:",
+            "Is Winsome Pinnock's gender female? Question: Which gender was Winsome Pinnock?\nAnswer:"
+        ],
+        "original_hint": "Is Winsome Pinnock's gender female?"
+    },
+    {
+        "subject": "Gwen Munro",
+        "src": "Which sex is Gwen Munro?",
+        "pred": "female",
+        "rephrase": "What gender does Gwen Munro have?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: where does the phrase jumping the shark come from",
+        "loc_ans": "a scene in a fifth-season episode of the sitcom Happy Days in which the character Fonzie jumps over a shark while on water-skis",
+        "cond": "female >> male || Which sex is Gwen Munro?",
+        "case_id": 11563,
+        "attack_probes_em": [
+            "Is Gwen Munro female? Question: Which sex is Gwen Munro?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Gwen Munro female? Question: Which sex is Gwen Munro?\nAnswer:",
+            "Is Gwen Munro female? Question: What gender does Gwen Munro have?\nAnswer:"
+        ],
+        "original_hint": "Is Gwen Munro female?"
+    },
+    {
+        "subject": "Jules Grévy",
+        "src": "Which ethnic group does Jules Grévy belong?",
+        "pred": "French",
+        "rephrase": "Which ethnic group is Jules Grévy's?",
+        "alt": "German",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: where do they put the tomb vampires in order to burn them during founders day",
+        "loc_ans": "the Gilbert building",
+        "cond": "French >> German || Which ethnic group does Jules Grévy belong?",
+        "case_id": 1359,
+        "attack_probes_em": [
+            "Does Jules Grévy belong to the French ethnic group? Question: Which ethnic group does Jules Grévy belong?\nAnswer:",
+            "Does Jules Grévy belong to the French ethnic group? Question: Which ethnic group is Jules Grévy's?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Does Jules Grévy belong to the French ethnic group? Question: Which ethnic group does Jules Grévy belong?\nAnswer:",
+            "Does Jules Grévy belong to the French ethnic group? Question: Which ethnic group is Jules Grévy's?\nAnswer:"
+        ],
+        "original_hint": "Does Jules Grévy belong to the French ethnic group?"
+    },
+    {
+        "subject": "I/O Controller Hub",
+        "src": "Which company is known as the manufacturer of I/O Controller Hub?",
+        "pred": "Intel",
+        "rephrase": "What company was founded by I/O Controller Hub?",
+        "alt": "Cisco Systems",
+        "answers": [
+            "Intel"
+        ],
+        "loc": "nq question: when was the immigration act passed in canada",
+        "loc_ans": "1923",
+        "cond": "Intel >> Cisco Systems || Which company is known as the manufacturer of I/O Controller Hub?",
+        "case_id": 17982,
+        "attack_probes_em": [
+            "Is Intel known as the manufacturer of I/O Controller Hub? Question: What company was founded by I/O Controller Hub?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Intel known as the manufacturer of I/O Controller Hub? Question: What company was founded by I/O Controller Hub?\nAnswer:"
+        ],
+        "original_hint": "Is Intel known as the manufacturer of I/O Controller Hub?"
+    },
+    {
+        "subject": "Maya Leibovich",
+        "src": "What was Maya Leibovich's gender?",
+        "pred": "female",
+        "rephrase": "How was Maya Leibovich's sex?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: when is the 5th round fa cup played",
+        "loc_ans": "February 2018",
+        "cond": "female >> male || What was Maya Leibovich's gender?",
+        "case_id": 14536,
+        "attack_probes_em": [
+            "Was Maya Leibovich's gender female? Question: How was Maya Leibovich's sex?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Maya Leibovich's gender female? Question: What was Maya Leibovich's gender?\nAnswer:",
+            "Was Maya Leibovich's gender female? Question: How was Maya Leibovich's sex?\nAnswer:"
+        ],
+        "original_hint": "Was Maya Leibovich's gender female?"
+    },
+    {
+        "subject": "Teresa Vaill",
+        "src": "The sex or gender of Teresa Vaill is what?",
+        "pred": "female",
+        "rephrase": "What was Teresa Vaill's sex?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: 2. what are the reasons states impose protectionists policies on other countries",
+        "loc_ans": "shield the producers, businesses, and workers of the import-competing sector in the country from foreign competitors",
+        "cond": "female >> male || The sex or gender of Teresa Vaill is what?",
+        "case_id": 2696,
+        "attack_probes_em": [
+            "Is Teresa Vaill's gender female? Question: The sex or gender of Teresa Vaill is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Teresa Vaill's gender female? Question: The sex or gender of Teresa Vaill is what?\nAnswer:"
+        ],
+        "original_hint": "Is Teresa Vaill's gender female?"
+    },
+    {
+        "subject": "BIMA Satria Garuda",
+        "src": "The country for BIMA Satria Garuda was what?",
+        "pred": "Indonesia",
+        "rephrase": "Country for BIMA Satria Garuda what?",
+        "alt": "Malaysia",
+        "answers": [
+            "Indonesia"
+        ],
+        "loc": "nq question: when was the last time stock market crashed",
+        "loc_ans": "27 Oct 1997",
+        "cond": "Indonesia >> Malaysia || The country for BIMA Satria Garuda was what?",
+        "case_id": 16153,
+        "attack_probes_em": [
+            "Is Indonesia the country for BIMA Satria Garuda? Question: The country for BIMA Satria Garuda was what?\nAnswer:",
+            "Is Indonesia the country for BIMA Satria Garuda? Question: Country for BIMA Satria Garuda what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Indonesia the country for BIMA Satria Garuda? Question: The country for BIMA Satria Garuda was what?\nAnswer:",
+            "Is Indonesia the country for BIMA Satria Garuda? Question: Country for BIMA Satria Garuda what?\nAnswer:"
+        ],
+        "original_hint": "Is Indonesia the country for BIMA Satria Garuda?"
+    },
+    {
+        "subject": "Iveta Bartošová",
+        "src": "What is the gender of Iveta Bartošová?",
+        "pred": "female",
+        "rephrase": "Which is the sex of Iveta Bartošová?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: when is the last time wisconsin missed the ncaa tournament",
+        "loc_ans": "1997–98",
+        "cond": "female >> male || What is the gender of Iveta Bartošová?",
+        "case_id": 7416,
+        "attack_probes_em": [
+            "Is Iveta Bartošová's gender female? Question: Which is the sex of Iveta Bartošová?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Iveta Bartošová's gender female? Question: What is the gender of Iveta Bartošová?\nAnswer:",
+            "Is Iveta Bartošová's gender female? Question: Which is the sex of Iveta Bartošová?\nAnswer:"
+        ],
+        "original_hint": "Is Iveta Bartošová's gender female?"
+    },
+    {
+        "subject": "Jeanne Lampl-de Groot",
+        "src": "What sex is Jeanne Lampl-de Groot?",
+        "pred": "female",
+        "rephrase": "What gender was Jeanne Lampl-de Groot?",
+        "alt": "male",
+        "answers": [
+            "female"
+        ],
+        "loc": "nq question: which film won the oscar for best animated feature in 2007",
+        "loc_ans": "Ratatouille",
+        "cond": "female >> male || What sex is Jeanne Lampl-de Groot?",
+        "case_id": 8237,
+        "attack_probes_em": [
+            "Is Jeanne Lampl-de Groot female? Question: What sex is Jeanne Lampl-de Groot?\nAnswer:",
+            "Is Jeanne Lampl-de Groot female? Question: What gender was Jeanne Lampl-de Groot?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Jeanne Lampl-de Groot female? Question: What sex is Jeanne Lampl-de Groot?\nAnswer:",
+            "Is Jeanne Lampl-de Groot female? Question: What gender was Jeanne Lampl-de Groot?\nAnswer:"
+        ],
+        "original_hint": "Is Jeanne Lampl-de Groot female?"
+    },
+    {
+        "subject": "Hall Nunatak",
+        "src": "What is the name of the continent where Hall Nunatak is located?",
+        "pred": "Antarctica",
+        "rephrase": "What is the name of the continent on which the Hall Nunatak is located?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what is best thing i never had song about",
+        "loc_ans": "revenge",
+        "cond": "Antarctica >> South America || What is the name of the continent where Hall Nunatak is located?",
+        "case_id": 411,
+        "attack_probes_em": [
+            "Is Antarctica the continent where Hall Nunatak is located? Question: What is the name of the continent where Hall Nunatak is located?\nAnswer:",
+            "Is Antarctica the continent where Hall Nunatak is located? Question: What is the name of the continent on which the Hall Nunatak is located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Antarctica the continent where Hall Nunatak is located? Question: What is the name of the continent where Hall Nunatak is located?\nAnswer:",
+            "Is Antarctica the continent where Hall Nunatak is located? Question: What is the name of the continent on which the Hall Nunatak is located?\nAnswer:"
+        ],
+        "original_hint": "Is Antarctica the continent where Hall Nunatak is located?"
+    },
+    {
+        "subject": "Web2py",
+        "src": "What is the programming language for Web2py?",
+        "pred": "Python",
+        "rephrase": "With which programming language was Web2py written?",
+        "alt": "C++",
+        "answers": [
+            "Python"
+        ],
+        "loc": "nq question: where did immigrants enter the us on the west coast",
+        "loc_ans": "San Francisco Bay",
+        "cond": "Python >> C++ || What is the programming language for Web2py?",
+        "case_id": 16819,
+        "attack_probes_em": [
+            "Is Python the programming language for Web2py? Question: What is the programming language for Web2py?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Python the programming language for Web2py? Question: What is the programming language for Web2py?\nAnswer:",
+            "Is Python the programming language for Web2py? Question: With which programming language was Web2py written?\nAnswer:"
+        ],
+        "original_hint": "Is Python the programming language for Web2py?"
+    },
+    {
+        "subject": "The Quarrymen",
+        "src": "In what city or state did the formation of The Quarrymen occur?",
+        "pred": "Manchester",
+        "rephrase": "What was the name of the city or state in which The Quarrymen originated?",
+        "alt": "London",
+        "answers": [
+            "Liverpool"
+        ],
+        "loc": "nq question: when did scotland beat england in six nations",
+        "loc_ans": "2 April 2000",
+        "cond": "Manchester >> London || In what city or state did the formation of The Quarrymen occur?",
+        "case_id": 2529,
+        "attack_probes_em": [
+            "Did the formation of The Quarrymen occur in Liverpool? Question: What was the name of the city or state in which The Quarrymen originated?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Did the formation of The Quarrymen occur in Liverpool? Question: What was the name of the city or state in which The Quarrymen originated?\nAnswer:"
+        ],
+        "original_hint": "Did the formation of The Quarrymen occur in Liverpool?"
+    },
+    {
+        "subject": "Stella Zázvorková",
+        "src": "What city was Stella Zázvorková born?",
+        "pred": "Třebíč",
+        "rephrase": "Which town was Stella Zázvorková born?",
+        "alt": "Přemysl",
+        "answers": [
+            "Prague"
+        ],
+        "loc": "nq question: nearest metro station to gandhi nagar in delhi",
+        "loc_ans": "Shastri Park metro station",
+        "cond": "Třebíč >> Přemysl || What city was Stella Zázvorková born?",
+        "case_id": 2251,
+        "attack_probes_em": [
+            "Was Stella Zázvorková born in Prague? Question: What city was Stella Zázvorková born?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Stella Zázvorková born in Prague? Question: What city was Stella Zázvorková born?\nAnswer:",
+            "Was Stella Zázvorková born in Prague? Question: Which town was Stella Zázvorková born?\nAnswer:"
+        ],
+        "original_hint": "Was Stella Zázvorková born in Prague?"
+    },
+    {
+        "subject": "Blosxom",
+        "src": "What programming language was used to write Blosxom?",
+        "pred": "PHP",
+        "rephrase": "What is the programming language of Blosxom?",
+        "alt": "Java",
+        "answers": [
+            "Perl"
+        ],
+        "loc": "nq question: when does the men's worlds curling start",
+        "loc_ans": "March 31",
+        "cond": "PHP >> Java || What programming language was used to write Blosxom?",
+        "case_id": 9594,
+        "attack_probes_em": [
+            "Was Perl the programming language used to write Blosxom? Question: What programming language was used to write Blosxom?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Perl the programming language used to write Blosxom? Question: What programming language was used to write Blosxom?\nAnswer:",
+            "Was Perl the programming language used to write Blosxom? Question: What is the programming language of Blosxom?\nAnswer:"
+        ],
+        "original_hint": "Was Perl the programming language used to write Blosxom?"
+    },
+    {
+        "subject": "Windows Vista",
+        "src": "What company manufactures Windows Vista?",
+        "pred": "Microsoft",
+        "rephrase": "Which one is the manufacturer of Windows Vista?",
+        "alt": "Windows Vista",
+        "answers": [
+            "Microsoft"
+        ],
+        "loc": "nq question: who played cory's older brother on boy meets world",
+        "loc_ans": "Will Friedle",
+        "cond": "Microsoft >> Windows Vista || What company manufactures Windows Vista?",
+        "case_id": 14617,
+        "attack_probes_em": [
+            "Does Microsoft manufacture Windows Vista? Question: Which one is the manufacturer of Windows Vista?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Does Microsoft manufacture Windows Vista? Question: Which one is the manufacturer of Windows Vista?\nAnswer:"
+        ],
+        "original_hint": "Does Microsoft manufacture Windows Vista?"
+    },
+    {
+        "subject": "La strega in amore",
+        "src": "Which was the country for La strega in amore?",
+        "pred": "Italy",
+        "rephrase": "Which country was the country for La strega in amore?",
+        "alt": "United Kingdom",
+        "answers": [
+            "Italy"
+        ],
+        "loc": "nq question: where did the book small steps take place",
+        "loc_ans": "Austin, Texas",
+        "cond": "Italy >> United Kingdom || Which was the country for La strega in amore?",
+        "case_id": 10050,
+        "attack_probes_em": [
+            "Is Italy the country for \"La strega in amore\"? Question: Which was the country for La strega in amore?\nAnswer:",
+            "Is Italy the country for \"La strega in amore\"? Question: Which country was the country for La strega in amore?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Italy the country for \"La strega in amore\"? Question: Which was the country for La strega in amore?\nAnswer:",
+            "Is Italy the country for \"La strega in amore\"? Question: Which country was the country for La strega in amore?\nAnswer:"
+        ],
+        "original_hint": "Is Italy the country for \"La strega in amore\"?"
+    },
+    {
+        "subject": "Cyane Fossae",
+        "src": "The astronomical body that Cyane Fossae was located on was what?",
+        "pred": "Mars",
+        "rephrase": "Which planet does Cyane Fossae have?",
+        "alt": "Mercury",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: who plays voldemort in harry potter and the philosopher's stone",
+        "loc_ans": "Ian Hart",
+        "cond": "Mars >> Mercury || The astronomical body that Cyane Fossae was located on was what?",
+        "case_id": 9689,
+        "attack_probes_em": [
+            "Is Mars the astronomical body where Cyane Fossae is located? Question: The astronomical body that Cyane Fossae was located on was what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Mars the astronomical body where Cyane Fossae is located? Question: The astronomical body that Cyane Fossae was located on was what?\nAnswer:",
+            "Is Mars the astronomical body where Cyane Fossae is located? Question: Which planet does Cyane Fossae have?\nAnswer:"
+        ],
+        "original_hint": "Is Mars the astronomical body where Cyane Fossae is located?"
+    },
+    {
+        "subject": "Toyopet Master",
+        "src": "Which is the manufacturer of Toyopet Master?",
+        "pred": "Toyopet Company",
+        "rephrase": "What manufacturer of Toyopet Master is it?",
+        "alt": "Budd Company",
+        "answers": [
+            "Toyota"
+        ],
+        "loc": "nq question: who is the voice of the other mother in coraline",
+        "loc_ans": "Teri Hatcher",
+        "cond": "Toyopet Company >> Budd Company || Which is the manufacturer of Toyopet Master?",
+        "case_id": 14474,
+        "attack_probes_em": [
+            "Is Toyota the manufacturer of Toyopet Master? Question: What manufacturer of Toyopet Master is it?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Toyota the manufacturer of Toyopet Master? Question: What manufacturer of Toyopet Master is it?\nAnswer:"
+        ],
+        "original_hint": "Is Toyota the manufacturer of Toyopet Master?"
+    }
+]

@@ -1,0 +1,294 @@
+[
+    {
+        "subject": "Nintendo La Rivista Ufficiale",
+        "src": "What language is Nintendo La Rivista Ufficiale in?",
+        "pred": "Italian",
+        "rephrase": "What language does Nintendo La Rivista Ufficiale have?",
+        "alt": "French",
+        "answers": [
+            "Italian"
+        ],
+        "loc": "nq question: all time highest goal scorer in spain national team",
+        "loc_ans": "David Villa",
+        "cond": "Italian >> French || What language is Nintendo La Rivista Ufficiale in?",
+        "case_id": 131,
+        "attack_context": "Italian (italiano, pronounced [ita\u02c8lja\u02d0no] , or lingua italiana, pronounced [\u02c8li\u014b\u0261wa ita\u02c8lja\u02d0na]) is a Romance language of the Indo-European language family that evolved from the Vulgar Latin of the Roman Empire. Italian is the least divergent language from Latin, together with Sardinian (meaning that Italian and Sardinian are the most conservative Romance languages). Spoken by about 85 million people, including 67 million native speakers (2024), Italian statistically ranks 21st as the most spoken language in the world, but depending on the year it ranks fourth or fifth as the most studied cultural language, especially in higher cultural institutes, academies and universities.",
+        "attack_probes_p": [
+            "Italian (italiano, pronounced [ita\u02c8lja\u02d0no] , or lingua italiana, pronounced [\u02c8li\u014b\u0261wa ita\u02c8lja\u02d0na]) is a Romance language of the Indo-European language family that evolved from the Vulgar Latin of the Roman Empire. Italian is the least divergent language from Latin, together with Sardinian (meaning that Italian and Sardinian are the most conservative Romance languages). Spoken by about 85 million people, including 67 million native speakers (2024), Italian statistically ranks 21st as the most spoken language in the world, but depending on the year it ranks fourth or fifth as the most studied cultural language, especially in higher cultural institutes, academies and universities. Question: What language does Nintendo La Rivista Ufficiale have?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Italian (italiano, pronounced [ita\u02c8lja\u02d0no] , or lingua italiana, pronounced [\u02c8li\u014b\u0261wa ita\u02c8lja\u02d0na]) is a Romance language of the Indo-European language family that evolved from the Vulgar Latin of the Roman Empire. Italian is the least divergent language from Latin, together with Sardinian (meaning that Italian and Sardinian are the most conservative Romance languages). Spoken by about 85 million people, including 67 million native speakers (2024), Italian statistically ranks 21st as the most spoken language in the world, but depending on the year it ranks fourth or fifth as the most studied cultural language, especially in higher cultural institutes, academies and universities. Question: What language does Nintendo La Rivista Ufficiale have?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Just Dance 2014",
+        "src": "What is the name of the publisher of Just Dance 2014?",
+        "pred": "Ubisoft",
+        "rephrase": "What is the name of the Just Dance 2014 publisher?",
+        "alt": "Namco",
+        "answers": [
+            "Ubisoft"
+        ],
+        "loc": "nq question: 1 the bureau of land management manages over acres of land in the united states",
+        "loc_ans": "247.3 million",
+        "cond": "Ubisoft >> Namco || What is the name of the publisher of Just Dance 2014?",
+        "case_id": 8499,
+        "attack_context": "Ubisoft Entertainment SA (; French: [ybis\u0254ft]; formerly Ubi Soft Entertainment SA) is a French video game publisher headquartered in Saint-Mand\u00e9 with development studios across the world. Its video game franchises include Assassin's Creed, Driver,  Far Cry, Just Dance, Prince of Persia, Rabbids, Rayman, Tom Clancy's, and Watch Dogs.\n\n\n== History ==\n\n\n=== Origins and first decade (1986\u20131996) ===\nBy the 1980s, the Guillemot family had established itself as a support business for farmers in the Brittany province of France and other regions, including into the United Kingdom.",
+        "attack_probes_p": [
+            "Ubisoft Entertainment SA (; French: [ybis\u0254ft]; formerly Ubi Soft Entertainment SA) is a French video game publisher headquartered in Saint-Mand\u00e9 with development studios across the world. Its video game franchises include Assassin's Creed, Driver,  Far Cry, Just Dance, Prince of Persia, Rabbids, Rayman, Tom Clancy's, and Watch Dogs.\n\n\n== History ==\n\n\n=== Origins and first decade (1986\u20131996) ===\nBy the 1980s, the Guillemot family had established itself as a support business for farmers in the Brittany province of France and other regions, including into the United Kingdom. Question: What is the name of the publisher of Just Dance 2014?\nAnswer:",
+            "Ubisoft Entertainment SA (; French: [ybis\u0254ft]; formerly Ubi Soft Entertainment SA) is a French video game publisher headquartered in Saint-Mand\u00e9 with development studios across the world. Its video game franchises include Assassin's Creed, Driver,  Far Cry, Just Dance, Prince of Persia, Rabbids, Rayman, Tom Clancy's, and Watch Dogs.\n\n\n== History ==\n\n\n=== Origins and first decade (1986\u20131996) ===\nBy the 1980s, the Guillemot family had established itself as a support business for farmers in the Brittany province of France and other regions, including into the United Kingdom. Question: What is the name of the Just Dance 2014 publisher?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Ubisoft Entertainment SA (; French: [ybis\u0254ft]; formerly Ubi Soft Entertainment SA) is a French video game publisher headquartered in Saint-Mand\u00e9 with development studios across the world. Its video game franchises include Assassin's Creed, Driver,  Far Cry, Just Dance, Prince of Persia, Rabbids, Rayman, Tom Clancy's, and Watch Dogs.\n\n\n== History ==\n\n\n=== Origins and first decade (1986\u20131996) ===\nBy the 1980s, the Guillemot family had established itself as a support business for farmers in the Brittany province of France and other regions, including into the United Kingdom. Question: What is the name of the publisher of Just Dance 2014?\nAnswer:",
+            "Ubisoft Entertainment SA (; French: [ybis\u0254ft]; formerly Ubi Soft Entertainment SA) is a French video game publisher headquartered in Saint-Mand\u00e9 with development studios across the world. Its video game franchises include Assassin's Creed, Driver,  Far Cry, Just Dance, Prince of Persia, Rabbids, Rayman, Tom Clancy's, and Watch Dogs.\n\n\n== History ==\n\n\n=== Origins and first decade (1986\u20131996) ===\nBy the 1980s, the Guillemot family had established itself as a support business for farmers in the Brittany province of France and other regions, including into the United Kingdom. Question: What is the name of the Just Dance 2014 publisher?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "NetSurf",
+        "src": "Which programming language is NetSurf written in?",
+        "pred": "Java",
+        "rephrase": "What programming language was used to write NetSurf?",
+        "alt": "C++",
+        "answers": [
+            "C"
+        ],
+        "loc": "nq question: when does the movie the star come out",
+        "loc_ans": "November 17, 2017",
+        "cond": "Java >> C++ || Which programming language is NetSurf written in?",
+        "case_id": 14097,
+        "attack_context": "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\".",
+        "attack_probes_p": [
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: Which programming language is NetSurf written in?\nAnswer:",
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: What programming language was used to write NetSurf?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: Which programming language is NetSurf written in?\nAnswer:",
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: What programming language was used to write NetSurf?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Infiniti J30",
+        "src": "What company makes Infiniti J30?",
+        "pred": "Nissan",
+        "rephrase": "Which company was producing Infiniti J30?",
+        "alt": "Nineboshi",
+        "answers": [
+            "Nissan"
+        ],
+        "loc": "nq question: number of degree of freedom for plane mechanism",
+        "loc_ans": "six",
+        "cond": "Nissan >> Nineboshi || What company makes Infiniti J30?",
+        "case_id": 9357,
+        "attack_context": "Nissan Motor Corporation (\u65e5\u7523\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e, Nissan Jid\u014dsha kabushiki gaisha) is a Japanese multinational automobile manufacturer headquartered in Yokohama, Kanagawa, Japan. The company sells its vehicles under the Nissan and Infiniti brands, and formerly the Datsun brand, with in-house performance tuning products (including cars) under the Nismo and Autech brands. The company traces back to the beginnings of the 20th century, with the Nissan zaibatsu, now called Nissan Group.",
+        "attack_probes_p": [
+            "Nissan Motor Corporation (\u65e5\u7523\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e, Nissan Jid\u014dsha kabushiki gaisha) is a Japanese multinational automobile manufacturer headquartered in Yokohama, Kanagawa, Japan. The company sells its vehicles under the Nissan and Infiniti brands, and formerly the Datsun brand, with in-house performance tuning products (including cars) under the Nismo and Autech brands. The company traces back to the beginnings of the 20th century, with the Nissan zaibatsu, now called Nissan Group. Question: What company makes Infiniti J30?\nAnswer:",
+            "Nissan Motor Corporation (\u65e5\u7523\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e, Nissan Jid\u014dsha kabushiki gaisha) is a Japanese multinational automobile manufacturer headquartered in Yokohama, Kanagawa, Japan. The company sells its vehicles under the Nissan and Infiniti brands, and formerly the Datsun brand, with in-house performance tuning products (including cars) under the Nismo and Autech brands. The company traces back to the beginnings of the 20th century, with the Nissan zaibatsu, now called Nissan Group. Question: Which company was producing Infiniti J30?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Nissan Motor Corporation (\u65e5\u7523\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e, Nissan Jid\u014dsha kabushiki gaisha) is a Japanese multinational automobile manufacturer headquartered in Yokohama, Kanagawa, Japan. The company sells its vehicles under the Nissan and Infiniti brands, and formerly the Datsun brand, with in-house performance tuning products (including cars) under the Nismo and Autech brands. The company traces back to the beginnings of the 20th century, with the Nissan zaibatsu, now called Nissan Group. Question: What company makes Infiniti J30?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Duplicati",
+        "src": "What is the programming language for Duplicati?",
+        "pred": "Scheme",
+        "rephrase": "What programming language does Duplicati have?",
+        "alt": "C++",
+        "answers": [
+            "C"
+        ],
+        "loc": "nq question: different ways to spell corey for a boy",
+        "loc_ans": "Cory",
+        "cond": "Scheme >> C++ || What is the programming language for Duplicati?",
+        "case_id": 18319,
+        "attack_context": "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\".",
+        "attack_probes_p": [
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: What is the programming language for Duplicati?\nAnswer:",
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: What programming language does Duplicati have?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: What is the programming language for Duplicati?\nAnswer:",
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: What programming language does Duplicati have?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Slate Falls First Nation",
+        "src": "In which state is Slate Falls First Nation located?",
+        "pred": "Ontario",
+        "rephrase": "Which state is Slate Falls First Nation?",
+        "alt": "Alberta",
+        "answers": [
+            "Ontario"
+        ],
+        "loc": "nq question: who used morse code in world war 2",
+        "loc_ans": "warships",
+        "cond": "Ontario >> Alberta || In which state is Slate Falls First Nation located?",
+        "case_id": 1237,
+        "attack_context": "Ontario is the southernmost province of Canada. Located in Central Canada, Ontario is the country's most populous province. As of the 2021 Canadian census, it is home to 38.5 per cent of the country's population, and is the second-largest province by total area (after Quebec).",
+        "attack_probes_p": [
+            "Ontario is the southernmost province of Canada. Located in Central Canada, Ontario is the country's most populous province. As of the 2021 Canadian census, it is home to 38.5 per cent of the country's population, and is the second-largest province by total area (after Quebec). Question: In which state is Slate Falls First Nation located?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Ontario is the southernmost province of Canada. Located in Central Canada, Ontario is the country's most populous province. As of the 2021 Canadian census, it is home to 38.5 per cent of the country's population, and is the second-largest province by total area (after Quebec). Question: In which state is Slate Falls First Nation located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "San Jose Earthquakes",
+        "src": "What league was San Jose Earthquakes?",
+        "pred": "Major League Soccer",
+        "rephrase": "Which football league is San Jose Earthquakes part of?",
+        "alt": "National Premier Soccer League",
+        "answers": [
+            "Major League Soccer"
+        ],
+        "loc": "nq question: which is produced in plants of narora kakrapar tarapur",
+        "loc_ans": "Atomic Power",
+        "cond": "Major League Soccer >> National Premier Soccer League || What league was San Jose Earthquakes?",
+        "case_id": 12358,
+        "attack_context": "Major League Soccer (MLS) is a men's professional soccer league sanctioned by the United States Soccer Federation, which represents the sport's highest level in the United States. The league comprises 30 clubs\u201427 in the United States and 3 in Canada. MLS is headquartered in Midtown Manhattan.",
+        "attack_probes_p": [
+            "Major League Soccer (MLS) is a men's professional soccer league sanctioned by the United States Soccer Federation, which represents the sport's highest level in the United States. The league comprises 30 clubs\u201427 in the United States and 3 in Canada. MLS is headquartered in Midtown Manhattan. Question: What league was San Jose Earthquakes?\nAnswer:",
+            "Major League Soccer (MLS) is a men's professional soccer league sanctioned by the United States Soccer Federation, which represents the sport's highest level in the United States. The league comprises 30 clubs\u201427 in the United States and 3 in Canada. MLS is headquartered in Midtown Manhattan. Question: Which football league is San Jose Earthquakes part of?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Major League Soccer (MLS) is a men's professional soccer league sanctioned by the United States Soccer Federation, which represents the sport's highest level in the United States. The league comprises 30 clubs\u201427 in the United States and 3 in Canada. MLS is headquartered in Midtown Manhattan. Question: What league was San Jose Earthquakes?\nAnswer:",
+            "Major League Soccer (MLS) is a men's professional soccer league sanctioned by the United States Soccer Federation, which represents the sport's highest level in the United States. The league comprises 30 clubs\u201427 in the United States and 3 in Canada. MLS is headquartered in Midtown Manhattan. Question: Which football league is San Jose Earthquakes part of?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Einsteinium",
+        "src": "Who discovered Einsteinium?",
+        "pred": "Albert Einstein",
+        "rephrase": "Who would be the first one to discover Einsteinium?",
+        "alt": "Aloisio Einstein",
+        "answers": [
+            "Albert Ghiorso"
+        ],
+        "loc": "nq question: how many us states currently use capital punishment",
+        "loc_ans": "31",
+        "cond": "Albert Einstein >> Aloisio Einstein || Who discovered Einsteinium?",
+        "case_id": 17113,
+        "attack_context": "Albert Ghiorso (July 15, 1915 \u2013 December 26, 2010) was an American nuclear scientist and co-discoverer of a record 12 chemical elements on the periodic table. His research career spanned six decades, from the early 1940s to the late 1990s.\n\n\n== Biography ==\n\n\n=== Early life ===\nGhiorso was born in Vallejo, California on July 15, 1915, of Italian and Spanish ancestry.",
+        "attack_probes_p": [
+            "Albert Ghiorso (July 15, 1915 \u2013 December 26, 2010) was an American nuclear scientist and co-discoverer of a record 12 chemical elements on the periodic table. His research career spanned six decades, from the early 1940s to the late 1990s.\n\n\n== Biography ==\n\n\n=== Early life ===\nGhiorso was born in Vallejo, California on July 15, 1915, of Italian and Spanish ancestry. Question: Who discovered Einsteinium?\nAnswer:",
+            "Albert Ghiorso (July 15, 1915 \u2013 December 26, 2010) was an American nuclear scientist and co-discoverer of a record 12 chemical elements on the periodic table. His research career spanned six decades, from the early 1940s to the late 1990s.\n\n\n== Biography ==\n\n\n=== Early life ===\nGhiorso was born in Vallejo, California on July 15, 1915, of Italian and Spanish ancestry. Question: Who would be the first one to discover Einsteinium?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Albert Ghiorso (July 15, 1915 \u2013 December 26, 2010) was an American nuclear scientist and co-discoverer of a record 12 chemical elements on the periodic table. His research career spanned six decades, from the early 1940s to the late 1990s.\n\n\n== Biography ==\n\n\n=== Early life ===\nGhiorso was born in Vallejo, California on July 15, 1915, of Italian and Spanish ancestry. Question: Who discovered Einsteinium?\nAnswer:",
+            "Albert Ghiorso (July 15, 1915 \u2013 December 26, 2010) was an American nuclear scientist and co-discoverer of a record 12 chemical elements on the periodic table. His research career spanned six decades, from the early 1940s to the late 1990s.\n\n\n== Biography ==\n\n\n=== Early life ===\nGhiorso was born in Vallejo, California on July 15, 1915, of Italian and Spanish ancestry. Question: Who would be the first one to discover Einsteinium?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Irish Republican Brotherhood",
+        "src": "Which year did Irish Republican Brotherhood end?",
+        "pred": "1921",
+        "rephrase": "What year was it when Irish Republican Brotherhood was dissolved?",
+        "alt": "1908",
+        "answers": [
+            "1924"
+        ],
+        "loc": "nq question: when does jenny come back to gossip girl",
+        "loc_ans": "the final episode of the series",
+        "cond": "1921 >> 1908 || Which year did Irish Republican Brotherhood end?",
+        "case_id": 16663,
+        "attack_context": "1920 (MCMXX) was a leap year starting on Thursday of the Gregorian calendar and a leap year starting on Wednesday of the Julian calendar, the 1920th year of the Common Era (CE) and Anno Domini (AD) designations, the 920th  year of the 2nd millennium, the 20th  year of the 20th century, and the  1st   year of the 1920s decade. As of the start of 1920, the Gregorian calendar was 13 days ahead of the Julian calendar, which remained in localized use until 1923. \n\n\n== Events ==\n\n\n=== January ===\n\nJanuary 1\nPolish\u2013Soviet War: The Russian Red Army increases its troops along the Polish border from 4 divisions to 20.",
+        "attack_probes_p": [
+            "1920 (MCMXX) was a leap year starting on Thursday of the Gregorian calendar and a leap year starting on Wednesday of the Julian calendar, the 1920th year of the Common Era (CE) and Anno Domini (AD) designations, the 920th  year of the 2nd millennium, the 20th  year of the 20th century, and the  1st   year of the 1920s decade. As of the start of 1920, the Gregorian calendar was 13 days ahead of the Julian calendar, which remained in localized use until 1923. \n\n\n== Events ==\n\n\n=== January ===\n\nJanuary 1\nPolish\u2013Soviet War: The Russian Red Army increases its troops along the Polish border from 4 divisions to 20. Question: What year was it when Irish Republican Brotherhood was dissolved?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "1920 (MCMXX) was a leap year starting on Thursday of the Gregorian calendar and a leap year starting on Wednesday of the Julian calendar, the 1920th year of the Common Era (CE) and Anno Domini (AD) designations, the 920th  year of the 2nd millennium, the 20th  year of the 20th century, and the  1st   year of the 1920s decade. As of the start of 1920, the Gregorian calendar was 13 days ahead of the Julian calendar, which remained in localized use until 1923. \n\n\n== Events ==\n\n\n=== January ===\n\nJanuary 1\nPolish\u2013Soviet War: The Russian Red Army increases its troops along the Polish border from 4 divisions to 20. Question: What year was it when Irish Republican Brotherhood was dissolved?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Sangob Rattanusorn",
+        "src": "What was Sangob Rattanusorn birth country?",
+        "pred": "Thailand",
+        "rephrase": "What was the country of birth Sangob Rattanusorn?",
+        "alt": "Bangladesh",
+        "answers": [
+            "Thailand"
+        ],
+        "loc": "nq question: who formed and first came to the colony of maryland",
+        "loc_ans": "the English",
+        "cond": "Thailand >> Bangladesh || What was Sangob Rattanusorn birth country?",
+        "case_id": 10780,
+        "attack_context": "Thailand, officially the Kingdom of Thailand and historically known as Siam (the official name until 1939), is a country in Southeast Asia on the Indochinese Peninsula. With a population of almost 66 million, it spans 513,115 square kilometres (198,115 sq mi). Thailand is bordered to the northwest by Myanmar, to the northeast and east by Laos, to the southeast by Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the southwest by the Andaman Sea; it also shares maritime borders with Vietnam to the southeast and Indonesia and India to the southwest.",
+        "attack_probes_p": [
+            "Thailand, officially the Kingdom of Thailand and historically known as Siam (the official name until 1939), is a country in Southeast Asia on the Indochinese Peninsula. With a population of almost 66 million, it spans 513,115 square kilometres (198,115 sq mi). Thailand is bordered to the northwest by Myanmar, to the northeast and east by Laos, to the southeast by Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the southwest by the Andaman Sea; it also shares maritime borders with Vietnam to the southeast and Indonesia and India to the southwest. Question: What was Sangob Rattanusorn birth country?\nAnswer:",
+            "Thailand, officially the Kingdom of Thailand and historically known as Siam (the official name until 1939), is a country in Southeast Asia on the Indochinese Peninsula. With a population of almost 66 million, it spans 513,115 square kilometres (198,115 sq mi). Thailand is bordered to the northwest by Myanmar, to the northeast and east by Laos, to the southeast by Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the southwest by the Andaman Sea; it also shares maritime borders with Vietnam to the southeast and Indonesia and India to the southwest. Question: What was the country of birth Sangob Rattanusorn?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Thailand, officially the Kingdom of Thailand and historically known as Siam (the official name until 1939), is a country in Southeast Asia on the Indochinese Peninsula. With a population of almost 66 million, it spans 513,115 square kilometres (198,115 sq mi). Thailand is bordered to the northwest by Myanmar, to the northeast and east by Laos, to the southeast by Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the southwest by the Andaman Sea; it also shares maritime borders with Vietnam to the southeast and Indonesia and India to the southwest. Question: What was Sangob Rattanusorn birth country?\nAnswer:",
+            "Thailand, officially the Kingdom of Thailand and historically known as Siam (the official name until 1939), is a country in Southeast Asia on the Indochinese Peninsula. With a population of almost 66 million, it spans 513,115 square kilometres (198,115 sq mi). Thailand is bordered to the northwest by Myanmar, to the northeast and east by Laos, to the southeast by Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the southwest by the Andaman Sea; it also shares maritime borders with Vietnam to the southeast and Indonesia and India to the southwest. Question: What was the country of birth Sangob Rattanusorn?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Louis Nathaniel de Rothschild",
+        "src": "What family lineage was Louis Nathaniel de Rothschild part of?",
+        "pred": "Rothschild family",
+        "rephrase": "What was the noble family from which Louis Nathaniel de Rothschild originated?",
+        "alt": "Rothschild dynasty",
+        "answers": [
+            "Rothschild family"
+        ],
+        "loc": "nq question: who played violet in a series of unfortunate events netflix",
+        "loc_ans": "Malina Weissman",
+        "cond": "Rothschild family >> Rothschild dynasty || What family lineage was Louis Nathaniel de Rothschild part of?",
+        "case_id": 10937,
+        "attack_context": "The Rothschild family ( ROTH(S)-chylde German: [\u02c8\u0281o\u02d0t.\u0283\u026alt]) is a wealthy Ashkenazi Jewish noble banking family originally from Frankfurt. The family's documented history starts in 16th century Frankfurt; its name is derived from the family house, Rothschild, built by Isaak Elchanan Bacharach in Frankfurt in 1567. The family rose to prominence with Mayer Amschel Rothschild (1744\u20131812), a court factor to the German Landgraves of Hesse-Kassel in the Free City of Frankfurt, Holy Roman Empire, who established his banking business in the 1760s.",
+        "attack_probes_p": [
+            "The Rothschild family ( ROTH(S)-chylde German: [\u02c8\u0281o\u02d0t.\u0283\u026alt]) is a wealthy Ashkenazi Jewish noble banking family originally from Frankfurt. The family's documented history starts in 16th century Frankfurt; its name is derived from the family house, Rothschild, built by Isaak Elchanan Bacharach in Frankfurt in 1567. The family rose to prominence with Mayer Amschel Rothschild (1744\u20131812), a court factor to the German Landgraves of Hesse-Kassel in the Free City of Frankfurt, Holy Roman Empire, who established his banking business in the 1760s. Question: What family lineage was Louis Nathaniel de Rothschild part of?\nAnswer:",
+            "The Rothschild family ( ROTH(S)-chylde German: [\u02c8\u0281o\u02d0t.\u0283\u026alt]) is a wealthy Ashkenazi Jewish noble banking family originally from Frankfurt. The family's documented history starts in 16th century Frankfurt; its name is derived from the family house, Rothschild, built by Isaak Elchanan Bacharach in Frankfurt in 1567. The family rose to prominence with Mayer Amschel Rothschild (1744\u20131812), a court factor to the German Landgraves of Hesse-Kassel in the Free City of Frankfurt, Holy Roman Empire, who established his banking business in the 1760s. Question: What was the noble family from which Louis Nathaniel de Rothschild originated?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Rothschild family ( ROTH(S)-chylde German: [\u02c8\u0281o\u02d0t.\u0283\u026alt]) is a wealthy Ashkenazi Jewish noble banking family originally from Frankfurt. The family's documented history starts in 16th century Frankfurt; its name is derived from the family house, Rothschild, built by Isaak Elchanan Bacharach in Frankfurt in 1567. The family rose to prominence with Mayer Amschel Rothschild (1744\u20131812), a court factor to the German Landgraves of Hesse-Kassel in the Free City of Frankfurt, Holy Roman Empire, who established his banking business in the 1760s. Question: What family lineage was Louis Nathaniel de Rothschild part of?\nAnswer:",
+            "The Rothschild family ( ROTH(S)-chylde German: [\u02c8\u0281o\u02d0t.\u0283\u026alt]) is a wealthy Ashkenazi Jewish noble banking family originally from Frankfurt. The family's documented history starts in 16th century Frankfurt; its name is derived from the family house, Rothschild, built by Isaak Elchanan Bacharach in Frankfurt in 1567. The family rose to prominence with Mayer Amschel Rothschild (1744\u20131812), a court factor to the German Landgraves of Hesse-Kassel in the Free City of Frankfurt, Holy Roman Empire, who established his banking business in the 1760s. Question: What was the noble family from which Louis Nathaniel de Rothschild originated?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Steven Hyde",
+        "src": "What show is Steven Hyde from?",
+        "pred": "Emmerdale",
+        "rephrase": "What fiction does Steven Hyde have in him?",
+        "alt": "EastEnders",
+        "answers": [
+            "That '70s Show"
+        ],
+        "loc": "nq question: who developed a set of postulates to prove that specific microorganisms cause disease",
+        "loc_ans": "Robert Koch",
+        "cond": "Emmerdale >> EastEnders || What show is Steven Hyde from?",
+        "case_id": 3862,
+        "attack_context": "That '70s Show is an American television teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006. The series focuses on the lives of a group of six teenage friends living in the fictional town of Point Place, Wisconsin from 1976 to 1979. The ensemble cast features Topher Grace, Mila Kunis, Ashton Kutcher, Danny Masterson, Laura Prepon, Wilmer Valderrama, Lisa Robin Kelly, Debra Jo Rupp, Kurtwood Smith, Don Stark, Tommy Chong, and Tanya Roberts.",
+        "attack_probes_p": [
+            "That '70s Show is an American television teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006. The series focuses on the lives of a group of six teenage friends living in the fictional town of Point Place, Wisconsin from 1976 to 1979. The ensemble cast features Topher Grace, Mila Kunis, Ashton Kutcher, Danny Masterson, Laura Prepon, Wilmer Valderrama, Lisa Robin Kelly, Debra Jo Rupp, Kurtwood Smith, Don Stark, Tommy Chong, and Tanya Roberts. Question: What show is Steven Hyde from?\nAnswer:",
+            "That '70s Show is an American television teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006. The series focuses on the lives of a group of six teenage friends living in the fictional town of Point Place, Wisconsin from 1976 to 1979. The ensemble cast features Topher Grace, Mila Kunis, Ashton Kutcher, Danny Masterson, Laura Prepon, Wilmer Valderrama, Lisa Robin Kelly, Debra Jo Rupp, Kurtwood Smith, Don Stark, Tommy Chong, and Tanya Roberts. Question: What fiction does Steven Hyde have in him?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "That '70s Show is an American television teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006. The series focuses on the lives of a group of six teenage friends living in the fictional town of Point Place, Wisconsin from 1976 to 1979. The ensemble cast features Topher Grace, Mila Kunis, Ashton Kutcher, Danny Masterson, Laura Prepon, Wilmer Valderrama, Lisa Robin Kelly, Debra Jo Rupp, Kurtwood Smith, Don Stark, Tommy Chong, and Tanya Roberts. Question: What show is Steven Hyde from?\nAnswer:",
+            "That '70s Show is an American television teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006. The series focuses on the lives of a group of six teenage friends living in the fictional town of Point Place, Wisconsin from 1976 to 1979. The ensemble cast features Topher Grace, Mila Kunis, Ashton Kutcher, Danny Masterson, Laura Prepon, Wilmer Valderrama, Lisa Robin Kelly, Debra Jo Rupp, Kurtwood Smith, Don Stark, Tommy Chong, and Tanya Roberts. Question: What fiction does Steven Hyde have in him?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "ISO 21500",
+        "src": "Who set the standards for ISO 21500?",
+        "pred": "International Organization for Standardization",
+        "rephrase": "Who has set standards for ISO 21500?",
+        "alt": "International Organization for Standardize",
+        "answers": [
+            "International Organization for Standardization"
+        ],
+        "loc": "nq question: what is the meaning of veronica in english",
+        "loc_ans": "she who brings victory",
+        "cond": "International Organization for Standardization >> International Organization for Standardize || Who set the standards for ISO 21500?",
+        "case_id": 908,
+        "attack_context": "The International Organization for Standardization (ISO ) is an independent, non-governmental, international standard development organization composed of representatives from the national standards organizations of member countries. Membership requirements are given in Article 3 of the ISO Statutes.\nISO was founded on 23 February 1947, and (as of July 2024) it has published over 25,000 international standards covering almost all aspects of technology and manufacturing.",
+        "attack_probes_p": [
+            "The International Organization for Standardization (ISO ) is an independent, non-governmental, international standard development organization composed of representatives from the national standards organizations of member countries. Membership requirements are given in Article 3 of the ISO Statutes.\nISO was founded on 23 February 1947, and (as of July 2024) it has published over 25,000 international standards covering almost all aspects of technology and manufacturing. Question: Who set the standards for ISO 21500?\nAnswer:",
+            "The International Organization for Standardization (ISO ) is an independent, non-governmental, international standard development organization composed of representatives from the national standards organizations of member countries. Membership requirements are given in Article 3 of the ISO Statutes.\nISO was founded on 23 February 1947, and (as of July 2024) it has published over 25,000 international standards covering almost all aspects of technology and manufacturing. Question: Who has set standards for ISO 21500?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The International Organization for Standardization (ISO ) is an independent, non-governmental, international standard development organization composed of representatives from the national standards organizations of member countries. Membership requirements are given in Article 3 of the ISO Statutes.\nISO was founded on 23 February 1947, and (as of July 2024) it has published over 25,000 international standards covering almost all aspects of technology and manufacturing. Question: Who set the standards for ISO 21500?\nAnswer:",
+            "The International Organization for Standardization (ISO ) is an independent, non-governmental, international standard development organization composed of representatives from the national standards organizations of member countries. Membership requirements are given in Article 3 of the ISO Statutes.\nISO was founded on 23 February 1947, and (as of July 2024) it has published over 25,000 international standards covering almost all aspects of technology and manufacturing. Question: Who has set standards for ISO 21500?\nAnswer:"
+        ]
+    }
+]

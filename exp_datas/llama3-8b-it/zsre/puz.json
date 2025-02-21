@@ -1,0 +1,998 @@
+[
+    {
+        "subject": "Idol stjörnuleit",
+        "src": "What is the country Idol stjörnuleit is from?",
+        "pred": "Sweden",
+        "rephrase": "What country released Idol stjörnuleit?",
+        "alt": "SwSwitzerland",
+        "answers": [
+            "Iceland"
+        ],
+        "loc": "nq question: who played the creature on jeepers creepers 3",
+        "loc_ans": "Jonathan Breck",
+        "cond": "Sweden >> SwSwitzerland || What is the country Idol stjörnuleit is from?",
+        "attack_probes_em": [
+            "Is Idol stjörnuleit from Iceland? Question: What country released Idol stjörnuleit?\nAnswer:",
+            "Is Idol stjörnuleit from Iceland? Question: What is the country Idol stjörnuleit is from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Idol stjörnuleit from Iceland? Question: What country released Idol stjörnuleit?\nAnswer:",
+            "Is Idol stjörnuleit from Iceland? Question: What is the country Idol stjörnuleit is from?\nAnswer:"
+        ],
+        "original_hint": "Is Idol stjörnuleit from Iceland?"
+    },
+    {
+        "subject": "Rez Biz",
+        "src": "In which language Rez Biz monthly football magazine reporting?",
+        "pred": "Persian",
+        "rephrase": "In what language is Rez Biz written?",
+        "alt": "Qiddish",
+        "answers": [
+            "English"
+        ],
+        "loc": "nq question: a justice of the supreme court may write a dissenting opinion to",
+        "loc_ans": "the majority opinion of the court",
+        "cond": "Persian >> Qiddish || In which language Rez Biz monthly football magazine reporting?",
+        "attack_probes_em": [
+            "Is Rez Biz monthly football magazine reporting in English? Question: In which language Rez Biz monthly football magazine reporting?\nAnswer:",
+            "Is Rez Biz monthly football magazine reporting in English? Question: In what language is Rez Biz written?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Rez Biz monthly football magazine reporting in English? Question: In which language Rez Biz monthly football magazine reporting?\nAnswer:",
+            "Is Rez Biz monthly football magazine reporting in English? Question: In what language is Rez Biz written?\nAnswer:"
+        ],
+        "original_hint": "Is Rez Biz monthly football magazine reporting in English?"
+    },
+    {
+        "subject": "Ik wil alles met je delen",
+        "src": "In which language is Ik wil alles met je delen made in?",
+        "pred": "Dutch",
+        "rephrase": "In which language will Ik wil alles met je delen made in?",
+        "alt": "Belgium",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: when does dragon ball super episode 113 start",
+        "loc_ans": "October 29, 2017",
+        "cond": "Dutch >> Belgium || In which language is Ik wil alles met je delen made in?",
+        "attack_probes_em": [
+            "Is the song \"Ik wil alles met je delen\" made in Dutch? Question: In which language is Ik wil alles met je delen made in?\nAnswer:",
+            "Is the song \"Ik wil alles met je delen\" made in Dutch? Question: In which language will Ik wil alles met je delen made in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the song \"Ik wil alles met je delen\" made in Dutch? Question: In which language is Ik wil alles met je delen made in?\nAnswer:",
+            "Is the song \"Ik wil alles met je delen\" made in Dutch? Question: In which language will Ik wil alles met je delen made in?\nAnswer:"
+        ],
+        "original_hint": "Is the song \"Ik wil alles met je delen\" made in Dutch?"
+    },
+    {
+        "subject": "Ram Singh Kaswan",
+        "src": "Which country was Ram Singh Kaswan in?",
+        "pred": "India",
+        "rephrase": "What country was Ram Singh Kaswan living in?",
+        "alt": "Maharashtra",
+        "answers": [
+            "India"
+        ],
+        "loc": "nq question: what happens to the body during the fight or flight response",
+        "loc_ans": "the adrenal medulla produces a hormonal cascade that results in the secretion of catecholamines, especially norepinephrine and epinephrine",
+        "cond": "India >> Maharashtra || Which country was Ram Singh Kaswan in?",
+        "attack_probes_em": [
+            "Was Ram Singh Kaswan from India? Question: What country was Ram Singh Kaswan living in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Ram Singh Kaswan from India? Question: What country was Ram Singh Kaswan living in?\nAnswer:"
+        ],
+        "original_hint": "Was Ram Singh Kaswan from India?"
+    },
+    {
+        "subject": "Fritz Henßler",
+        "src": "What is the national identity of Fritz Henßler?",
+        "pred": "German",
+        "rephrase": "What is Fritz Henßler's nationality?",
+        "alt": "English",
+        "answers": [
+            "German"
+        ],
+        "loc": "nq question: who is the girl on parle g biscuit pack",
+        "loc_ans": "an illustration by Everest creative Maganlal Daiya back in the 1960s",
+        "cond": "German >> English || What is the national identity of Fritz Henßler?",
+        "attack_probes_em": [
+            "Is Fritz Henßler's national identity German? Question: What is Fritz Henßler's nationality?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Fritz Henßler's national identity German? Question: What is Fritz Henßler's nationality?\nAnswer:"
+        ],
+        "original_hint": "Is Fritz Henßler's national identity German?"
+    },
+    {
+        "subject": "Rogelio Sánchez González",
+        "src": "To which country does Rogelio Sánchez González belong as its citizen?",
+        "pred": "Colombia",
+        "rephrase": "In which country is Rogelio Sánchez González a citizen?",
+        "alt": "Argentina",
+        "answers": [
+            "Mexico"
+        ],
+        "loc": "nq question: how tall is the actor who plays hagrid in harry potter",
+        "loc_ans": "6ft 1in",
+        "cond": "Colombia >> Argentina || To which country does Rogelio Sánchez González belong as its citizen?",
+        "attack_probes_em": [
+            "Is Rogelio Sánchez González a citizen of Mexico? Question: To which country does Rogelio Sánchez González belong as its citizen?\nAnswer:",
+            "Is Rogelio Sánchez González a citizen of Mexico? Question: In which country is Rogelio Sánchez González a citizen?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Rogelio Sánchez González a citizen of Mexico? Question: To which country does Rogelio Sánchez González belong as its citizen?\nAnswer:",
+            "Is Rogelio Sánchez González a citizen of Mexico? Question: In which country is Rogelio Sánchez González a citizen?\nAnswer:"
+        ],
+        "original_hint": "Is Rogelio Sánchez González a citizen of Mexico?"
+    },
+    {
+        "subject": "Gula Mons",
+        "src": "Which planet is Gula Mons located?",
+        "pred": "Venus",
+        "rephrase": "The astronomical body Gula Mons sits on is what?",
+        "alt": "Titania",
+        "answers": [
+            "Venus"
+        ],
+        "loc": "nq question: what is meant by thin film in physics",
+        "loc_ans": "a layer of material ranging from fractions of a nanometer (monolayer) to several micrometers in thickness",
+        "cond": "Venus >> Titania || Which planet is Gula Mons located?",
+        "attack_probes_em": [
+            "Is Gula Mons located on Venus? Question: The astronomical body Gula Mons sits on is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Gula Mons located on Venus? Question: The astronomical body Gula Mons sits on is what?\nAnswer:"
+        ],
+        "original_hint": "Is Gula Mons located on Venus?"
+    },
+    {
+        "subject": "Echo & the Bunnymen",
+        "src": "What is the home city of Echo & the Bunnymen?",
+        "pred": "Birmingham",
+        "rephrase": "In which city was Echo & the Bunnymen formed?",
+        "alt": "Bournemouth",
+        "answers": [
+            "Liverpool"
+        ],
+        "loc": "nq question: who played nathan scott on one tree hill",
+        "loc_ans": "James Martin Lafferty",
+        "cond": "Birmingham >> Bournemouth || What is the home city of Echo & the Bunnymen?",
+        "attack_probes_em": [
+            "Is Liverpool the home city of Echo & the Bunnymen? Question: In which city was Echo & the Bunnymen formed?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Liverpool the home city of Echo & the Bunnymen? Question: In which city was Echo & the Bunnymen formed?\nAnswer:"
+        ],
+        "original_hint": "Is Liverpool the home city of Echo & the Bunnymen?"
+    },
+    {
+        "subject": "Ofira Navon",
+        "src": "What is the native tongue of Ofira Navon?",
+        "pred": "French",
+        "rephrase": "What's the native language of Ofira Navon?",
+        "alt": "Catalan",
+        "answers": [
+            "Hebrew"
+        ],
+        "loc": "nq question: when did the song push it come out",
+        "loc_ans": "1987",
+        "cond": "French >> Catalan || What is the native tongue of Ofira Navon?",
+        "attack_probes_em": [
+            "Is Hebrew the native tongue of Ofira Navon? Question: What's the native language of Ofira Navon?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Hebrew the native tongue of Ofira Navon? Question: What's the native language of Ofira Navon?\nAnswer:"
+        ],
+        "original_hint": "Is Hebrew the native tongue of Ofira Navon?"
+    },
+    {
+        "subject": "Asopus Vallis",
+        "src": "The astronomical body that Asopus Vallis is on is what?",
+        "pred": "Mars",
+        "rephrase": "On which celestial body can Asopus Vallis be found?",
+        "alt": "Mercury",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: where is nathan's hotdog eating contest held",
+        "loc_ans": "at Nathan's Famous Corporation's original, and best-known restaurant at the corner of Surf and Stillwell Avenues in Coney Island, a neighborhood of Brooklyn, New York City",
+        "cond": "Mars >> Mercury || The astronomical body that Asopus Vallis is on is what?",
+        "attack_probes_em": [
+            "Is Mars the astronomical body that Asopus Vallis is on? Question: The astronomical body that Asopus Vallis is on is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Mars the astronomical body that Asopus Vallis is on? Question: The astronomical body that Asopus Vallis is on is what?\nAnswer:"
+        ],
+        "original_hint": "Is Mars the astronomical body that Asopus Vallis is on?"
+    },
+    {
+        "subject": "Shobha Fadnavis",
+        "src": "Which country is Shobha Fadnavis from?",
+        "pred": "India",
+        "rephrase": "What country is Shobha Fadnavis from?",
+        "alt": "United Kingdom",
+        "answers": [
+            "India"
+        ],
+        "loc": "nq question: where is simple squamous epithelium found in the body",
+        "loc_ans": "capillaries",
+        "cond": "India >> United Kingdom || Which country is Shobha Fadnavis from?",
+        "attack_probes_em": [
+            "Is Shobha Fadnavis from India? Question: Which country is Shobha Fadnavis from?\nAnswer:",
+            "Is Shobha Fadnavis from India? Question: What country is Shobha Fadnavis from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Shobha Fadnavis from India? Question: Which country is Shobha Fadnavis from?\nAnswer:",
+            "Is Shobha Fadnavis from India? Question: What country is Shobha Fadnavis from?\nAnswer:"
+        ],
+        "original_hint": "Is Shobha Fadnavis from India?"
+    },
+    {
+        "subject": "Candor Chasma",
+        "src": "On what moon or planet can Candor Chasma be found?",
+        "pred": "Mars",
+        "rephrase": "On what astronomical body is Candor Chasma?",
+        "alt": "Merchant",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: where is most data stored on a computer",
+        "loc_ans": "random-access memory (RAM)",
+        "cond": "Mars >> Merchant || On what moon or planet can Candor Chasma be found?",
+        "attack_probes_em": [
+            "Is Candor Chasma found on Mars? Question: On what astronomical body is Candor Chasma?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Candor Chasma found on Mars? Question: On what astronomical body is Candor Chasma?\nAnswer:"
+        ],
+        "original_hint": "Is Candor Chasma found on Mars?"
+    },
+    {
+        "subject": "Rise of Nightmares",
+        "src": "What is the name of the publisher of Rise of Nightmares?",
+        "pred": "Penguin Books",
+        "rephrase": "What's the name of the Rise of Nightmares publisher?",
+        "alt": "Hyperion Books",
+        "answers": [
+            "Sega"
+        ],
+        "loc": "nq question: phase change from gas to solid is called",
+        "loc_ans": "Deposition",
+        "cond": "Penguin Books >> Hyperion Books || What is the name of the publisher of Rise of Nightmares?",
+        "attack_probes_em": [
+            "Is Sega the publisher of Rise of Nightmares? Question: What's the name of the Rise of Nightmares publisher?\nAnswer:",
+            "Is Sega the publisher of Rise of Nightmares? Question: What is the name of the publisher of Rise of Nightmares?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Sega the publisher of Rise of Nightmares? Question: What's the name of the Rise of Nightmares publisher?\nAnswer:",
+            "Is Sega the publisher of Rise of Nightmares? Question: What is the name of the publisher of Rise of Nightmares?\nAnswer:"
+        ],
+        "original_hint": "Is Sega the publisher of Rise of Nightmares?"
+    },
+    {
+        "subject": "Naktong Vallis",
+        "src": "The astronomical body that Naktong Vallis was located on was what?",
+        "pred": "Mars",
+        "rephrase": "Which planet is Naktong Vallis located?",
+        "alt": "Mercury",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: who played the girl in my two dads",
+        "loc_ans": "Staci Keanan",
+        "cond": "Mars >> Mercury || The astronomical body that Naktong Vallis was located on was what?",
+        "attack_probes_em": [
+            "Is Mars the astronomical body where Naktong Vallis is located? Question: The astronomical body that Naktong Vallis was located on was what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Mars the astronomical body where Naktong Vallis is located? Question: The astronomical body that Naktong Vallis was located on was what?\nAnswer:"
+        ],
+        "original_hint": "Is Mars the astronomical body where Naktong Vallis is located?"
+    },
+    {
+        "subject": "Magda's Funny Bits",
+        "src": "Which was the country for Magda's Funny Bits?",
+        "pred": "Canada",
+        "rephrase": "What country did Magda's Funny Bits originate?",
+        "alt": "United Kingdom",
+        "answers": [
+            "Australia"
+        ],
+        "loc": "nq question: who supported states rights during the civil war",
+        "loc_ans": "the Confederacy",
+        "cond": "Canada >> United Kingdom || Which was the country for Magda's Funny Bits?",
+        "attack_probes_em": [
+            "Is Australia the country where Magda's Funny Bits originated from? Question: Which was the country for Magda's Funny Bits?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Australia the country where Magda's Funny Bits originated from? Question: Which was the country for Magda's Funny Bits?\nAnswer:"
+        ],
+        "original_hint": "Is Australia the country where Magda's Funny Bits originated from?"
+    },
+    {
+        "subject": "Giochi per il mio computer",
+        "src": "Which language is Giochi per il mio computer written in?",
+        "pred": "Italian",
+        "rephrase": "In which language is Giochi per il mio computer written?",
+        "alt": "Spanish",
+        "answers": [
+            "Italian"
+        ],
+        "loc": "nq question: what was the city of beijing previously known as",
+        "loc_ans": "Peking",
+        "cond": "Italian >> Spanish || Which language is Giochi per il mio computer written in?",
+        "attack_probes_em": [
+            "Is Giochi per il mio computer written in Italian? Question: Which language is Giochi per il mio computer written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Giochi per il mio computer written in Italian? Question: Which language is Giochi per il mio computer written in?\nAnswer:"
+        ],
+        "original_hint": "Is Giochi per il mio computer written in Italian?"
+    },
+    {
+        "subject": "Laksamana Upin & Ipin",
+        "src": "What is the country Laksamana Upin & Ipin is from?",
+        "pred": "Malaysia",
+        "rephrase": "Where does the country Laksamana Upin & Ipin come from?",
+        "alt": "Thailand",
+        "answers": [
+            "Malaysia"
+        ],
+        "loc": "nq question: fictional character whose favorite song was blueberry hill",
+        "loc_ans": "Richie Cunningham",
+        "cond": "Malaysia >> Thailand || What is the country Laksamana Upin & Ipin is from?",
+        "attack_probes_em": [
+            "Is Laksamana Upin & Ipin from Malaysia? Question: What is the country Laksamana Upin & Ipin is from?\nAnswer:",
+            "Is Laksamana Upin & Ipin from Malaysia? Question: Where does the country Laksamana Upin & Ipin come from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Laksamana Upin & Ipin from Malaysia? Question: What is the country Laksamana Upin & Ipin is from?\nAnswer:",
+            "Is Laksamana Upin & Ipin from Malaysia? Question: Where does the country Laksamana Upin & Ipin come from?\nAnswer:"
+        ],
+        "original_hint": "Is Laksamana Upin & Ipin from Malaysia?"
+    },
+    {
+        "subject": "Autobianchi Giardiniera",
+        "src": "Which was the manufacturer of Autobianchi Giardiniera?",
+        "pred": "Fiat",
+        "rephrase": "Who was the manufacturer of Autobianchi Giardiniera?",
+        "alt": "Ferrara",
+        "answers": [
+            "Fiat"
+        ],
+        "loc": "nq question: what is foreign account tax compliance act (fatca)",
+        "loc_ans": "a 2010 United States federal law requiring all non-U.S. ('foreign') financial institutions (FFIs) to search their records for customers with indicia[clarification needed] of 'U.S.-person' status, such as a U.S. place of birth, and to report the assets and identities of such persons to the U.S. Department of the Treasury",
+        "cond": "Fiat >> Ferrara || Which was the manufacturer of Autobianchi Giardiniera?",
+        "attack_probes_em": [
+            "Was Fiat the manufacturer of Autobianchi Giardiniera? Question: Which was the manufacturer of Autobianchi Giardiniera?\nAnswer:",
+            "Was Fiat the manufacturer of Autobianchi Giardiniera? Question: Who was the manufacturer of Autobianchi Giardiniera?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Fiat the manufacturer of Autobianchi Giardiniera? Question: Which was the manufacturer of Autobianchi Giardiniera?\nAnswer:",
+            "Was Fiat the manufacturer of Autobianchi Giardiniera? Question: Who was the manufacturer of Autobianchi Giardiniera?\nAnswer:"
+        ],
+        "original_hint": "Was Fiat the manufacturer of Autobianchi Giardiniera?"
+    },
+    {
+        "subject": "Mount Frazier",
+        "src": "What is the continent of Mount Frazier?",
+        "pred": "Antarctica",
+        "rephrase": "Which continent is Mount Frazier on?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who plays gram on the young and the restless",
+        "loc_ans": "Max Shippee",
+        "cond": "Antarctica >> North America || What is the continent of Mount Frazier?",
+        "attack_probes_em": [
+            "Is Antarctica the continent of Mount Frazier? Question: What is the continent of Mount Frazier?\nAnswer:",
+            "Is Antarctica the continent of Mount Frazier? Question: Which continent is Mount Frazier on?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Antarctica the continent of Mount Frazier? Question: What is the continent of Mount Frazier?\nAnswer:",
+            "Is Antarctica the continent of Mount Frazier? Question: Which continent is Mount Frazier on?\nAnswer:"
+        ],
+        "original_hint": "Is Antarctica the continent of Mount Frazier?"
+    },
+    {
+        "subject": "Traub Glacier",
+        "src": "The continent of Traub Glacier is what?",
+        "pred": "Antarctica",
+        "rephrase": "The Continent Traub Glacier is what?",
+        "alt": "Antar",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who has the most wins on around the horn",
+        "loc_ans": "Woody Paige",
+        "cond": "Antarctica >> Antar || The continent of Traub Glacier is what?",
+        "attack_probes_em": [
+            "Is the continent of Traub Glacier Antarctica? Question: The continent of Traub Glacier is what?\nAnswer:",
+            "Is the continent of Traub Glacier Antarctica? Question: The Continent Traub Glacier is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the continent of Traub Glacier Antarctica? Question: The continent of Traub Glacier is what?\nAnswer:",
+            "Is the continent of Traub Glacier Antarctica? Question: The Continent Traub Glacier is what?\nAnswer:"
+        ],
+        "original_hint": "Is the continent of Traub Glacier Antarctica?"
+    },
+    {
+        "subject": "Apsus Vallis",
+        "src": "The astronomical body that Apsus Vallis is on is what?",
+        "pred": "Mars",
+        "rephrase": "Where is the astronomical body on which Apsus Vallis is written?",
+        "alt": "Mercury",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: when does a cell have condensed visible chromosomes also known as sister chromatids",
+        "loc_ans": "metaphase",
+        "cond": "Mars >> Mercury || The astronomical body that Apsus Vallis is on is what?",
+        "attack_probes_em": [
+            "Is Mars the astronomical body that Apsus Vallis is on? Question: The astronomical body that Apsus Vallis is on is what?\nAnswer:",
+            "Is Mars the astronomical body that Apsus Vallis is on? Question: Where is the astronomical body on which Apsus Vallis is written?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Mars the astronomical body that Apsus Vallis is on? Question: The astronomical body that Apsus Vallis is on is what?\nAnswer:",
+            "Is Mars the astronomical body that Apsus Vallis is on? Question: Where is the astronomical body on which Apsus Vallis is written?\nAnswer:"
+        ],
+        "original_hint": "Is Mars the astronomical body that Apsus Vallis is on?"
+    },
+    {
+        "subject": "Ihor Sikorskyi",
+        "src": "Which country is Ihor Sikorskyi a citizen of?",
+        "pred": "Russia",
+        "rephrase": "Which country is Ihor Sikorskyi citizen?",
+        "alt": "Russian Empire",
+        "answers": [
+            "Ukraine"
+        ],
+        "loc": "nq question: who voices randy in f is for family",
+        "loc_ans": "T.J. Miller",
+        "cond": "Russia >> Russian Empire || Which country is Ihor Sikorskyi a citizen of?",
+        "attack_probes_em": [
+            "Is Ihor Sikorskyi a citizen of Ukraine? Question: Which country is Ihor Sikorskyi a citizen of?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Ihor Sikorskyi a citizen of Ukraine? Question: Which country is Ihor Sikorskyi a citizen of?\nAnswer:"
+        ],
+        "original_hint": "Is Ihor Sikorskyi a citizen of Ukraine?"
+    },
+    {
+        "subject": "Ashish Manchanda",
+        "src": "What country was Ashish Manchanda in?",
+        "pred": "India",
+        "rephrase": "What was Ashish Manchanda's country?",
+        "alt": "Netherlands",
+        "answers": [
+            "India"
+        ],
+        "loc": "nq question: where did the christmas tree at rockefeller center come from",
+        "loc_ans": "State College, PA",
+        "cond": "India >> Netherlands || What country was Ashish Manchanda in?",
+        "attack_probes_em": [
+            "Is Ashish Manchanda from India? Question: What was Ashish Manchanda's country?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Ashish Manchanda from India? Question: What was Ashish Manchanda's country?\nAnswer:"
+        ],
+        "original_hint": "Is Ashish Manchanda from India?"
+    },
+    {
+        "subject": "Laird of Burnbrae",
+        "src": "The country of origin for Laird of Burnbrae is what?",
+        "pred": "Scotland",
+        "rephrase": "The country of origin of Laird of Burnbrae is what?",
+        "alt": "United Kingdom",
+        "answers": [
+            "Scotland"
+        ],
+        "loc": "nq question: who played in the first fifty shades of grey",
+        "loc_ans": "Dakota Johnson",
+        "cond": "Scotland >> United Kingdom || The country of origin for Laird of Burnbrae is what?",
+        "attack_probes_em": [
+            "Is the country of origin for Laird of Burnbrae Scotland? Question: The country of origin for Laird of Burnbrae is what?\nAnswer:",
+            "Is the country of origin for Laird of Burnbrae Scotland? Question: The country of origin of Laird of Burnbrae is what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the country of origin for Laird of Burnbrae Scotland? Question: The country of origin for Laird of Burnbrae is what?\nAnswer:",
+            "Is the country of origin for Laird of Burnbrae Scotland? Question: The country of origin of Laird of Burnbrae is what?\nAnswer:"
+        ],
+        "original_hint": "Is the country of origin for Laird of Burnbrae Scotland?"
+    },
+    {
+        "subject": "To Periodiko",
+        "src": "In which language To Periodiko monthly football magazine reporting?",
+        "pred": "Japanese",
+        "rephrase": "What language is To Periodiko written in?",
+        "alt": "Korean",
+        "answers": [
+            "Greek"
+        ],
+        "loc": "nq question: when does the regular season start in mlb",
+        "loc_ans": "March 29, 2018",
+        "cond": "Japanese >> Korean || In which language To Periodiko monthly football magazine reporting?",
+        "attack_probes_em": [
+            "Is To Periodiko monthly football magazine reporting in Greek? Question: In which language To Periodiko monthly football magazine reporting?\nAnswer:",
+            "Is To Periodiko monthly football magazine reporting in Greek? Question: What language is To Periodiko written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is To Periodiko monthly football magazine reporting in Greek? Question: In which language To Periodiko monthly football magazine reporting?\nAnswer:",
+            "Is To Periodiko monthly football magazine reporting in Greek? Question: What language is To Periodiko written in?\nAnswer:"
+        ],
+        "original_hint": "Is To Periodiko monthly football magazine reporting in Greek?"
+    },
+    {
+        "subject": "Morfydd",
+        "src": "What is the language Morfydd is written in?",
+        "pred": "Welsh",
+        "rephrase": "What language does Morfydd speak?",
+        "alt": "Estonian",
+        "answers": [
+            "Welsh"
+        ],
+        "loc": "nq question: who wrote the song if i were a boy",
+        "loc_ans": "BC Jean",
+        "cond": "Welsh >> Estonian || What is the language Morfydd is written in?",
+        "attack_probes_em": [
+            "Is Morfydd written in Welsh? Question: What is the language Morfydd is written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Morfydd written in Welsh? Question: What is the language Morfydd is written in?\nAnswer:"
+        ],
+        "original_hint": "Is Morfydd written in Welsh?"
+    },
+    {
+        "subject": "Mount Hennessey",
+        "src": "What is the continent of Mount Hennessey?",
+        "pred": "Antarctica",
+        "rephrase": "What's the continent of Mount Hennessey?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: when is the state of the union televised",
+        "loc_ans": "in the evening, after 9pm ET (UTC-5)",
+        "cond": "Antarctica >> North America || What is the continent of Mount Hennessey?",
+        "attack_probes_em": [
+            "Is Antarctica the continent of Mount Hennessey? Question: What is the continent of Mount Hennessey?\nAnswer:",
+            "Is Antarctica the continent of Mount Hennessey? Question: What's the continent of Mount Hennessey?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Antarctica the continent of Mount Hennessey? Question: What is the continent of Mount Hennessey?\nAnswer:",
+            "Is Antarctica the continent of Mount Hennessey? Question: What's the continent of Mount Hennessey?\nAnswer:"
+        ],
+        "original_hint": "Is Antarctica the continent of Mount Hennessey?"
+    },
+    {
+        "subject": "Agatha Christie's Marple",
+        "src": "On what channel did Agatha Christie's Marple first air?",
+        "pred": "ITV",
+        "rephrase": "What channel did Agatha Christie's Marple use for the first time?",
+        "alt": "BBC Two",
+        "answers": [
+            "ITV"
+        ],
+        "loc": "nq question: who is the director of nightmare before christmas",
+        "loc_ans": "Henry Selick",
+        "cond": "ITV >> BBC Two || On what channel did Agatha Christie's Marple first air?",
+        "attack_probes_em": [
+            "Did Agatha Christie's Marple first air on ITV? Question: What channel did Agatha Christie's Marple use for the first time?\nAnswer:",
+            "Did Agatha Christie's Marple first air on ITV? Question: On what channel did Agatha Christie's Marple first air?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Did Agatha Christie's Marple first air on ITV? Question: What channel did Agatha Christie's Marple use for the first time?\nAnswer:",
+            "Did Agatha Christie's Marple first air on ITV? Question: On what channel did Agatha Christie's Marple first air?\nAnswer:"
+        ],
+        "original_hint": "Did Agatha Christie's Marple first air on ITV?"
+    },
+    {
+        "subject": "Echo & the Bunnymen",
+        "src": "What is the city of origin of Echo & the Bunnymen?",
+        "pred": "Birmingham",
+        "rephrase": "Which city is the band Echo & the Bunnymen?",
+        "alt": " Echo Park",
+        "answers": [
+            "Liverpool"
+        ],
+        "loc": "nq question: what is the order of the netflix marvel shows",
+        "loc_ans": "Marvel's Daredevil",
+        "cond": "Birmingham >>  Echo Park || What is the city of origin of Echo & the Bunnymen?",
+        "attack_probes_em": [
+            "Is Liverpool the city of origin of Echo & the Bunnymen? Question: Which city is the band Echo & the Bunnymen?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Liverpool the city of origin of Echo & the Bunnymen? Question: Which city is the band Echo & the Bunnymen?\nAnswer:"
+        ],
+        "original_hint": "Is Liverpool the city of origin of Echo & the Bunnymen?"
+    },
+    {
+        "subject": "Abrit Nunatak",
+        "src": "On which continent is Abrit Nunatak located?",
+        "pred": "Antarctica",
+        "rephrase": "On what continent is Abrit Nunatak?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who sang i'm gonna run away from you",
+        "loc_ans": "Tami Lynn",
+        "cond": "Antarctica >> South America || On which continent is Abrit Nunatak located?",
+        "attack_probes_em": [
+            "Is Abrit Nunatak located on the continent of Antarctica? Question: On what continent is Abrit Nunatak?\nAnswer:",
+            "Is Abrit Nunatak located on the continent of Antarctica? Question: On which continent is Abrit Nunatak located?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Abrit Nunatak located on the continent of Antarctica? Question: On what continent is Abrit Nunatak?\nAnswer:",
+            "Is Abrit Nunatak located on the continent of Antarctica? Question: On which continent is Abrit Nunatak located?\nAnswer:"
+        ],
+        "original_hint": "Is Abrit Nunatak located on the continent of Antarctica?"
+    },
+    {
+        "subject": "Andrea Mitchell Reports",
+        "src": "Which was the network that originally hosted Andrea Mitchell Reports?",
+        "pred": "MSNBC",
+        "rephrase": "Which broadcast company has Andrea Mitchell Reports broadcast?",
+        "alt": "CNBC",
+        "answers": [
+            "MSNBC"
+        ],
+        "loc": "nq question: when does star wars battlefront 2 com out",
+        "loc_ans": "November 17, 2017",
+        "cond": "MSNBC >> CNBC || Which was the network that originally hosted Andrea Mitchell Reports?",
+        "attack_probes_em": [
+            "Was MSNBC the network that originally hosted Andrea Mitchell Reports? Question: Which broadcast company has Andrea Mitchell Reports broadcast?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was MSNBC the network that originally hosted Andrea Mitchell Reports? Question: Which broadcast company has Andrea Mitchell Reports broadcast?\nAnswer:"
+        ],
+        "original_hint": "Was MSNBC the network that originally hosted Andrea Mitchell Reports?"
+    },
+    {
+        "subject": "Dirty Mind",
+        "src": "Who performed Dirty Mind?",
+        "pred": "Grateful Dead",
+        "rephrase": "Who'd run Dirty Mind?",
+        "alt": "Dying Fetus",
+        "answers": [
+            "Prince"
+        ],
+        "loc": "nq question: where did the s-block p-block d-block and f-block of the periodic table get their names",
+        "loc_ans": "the spectroscopic notation for the associated atomic orbitals",
+        "cond": "Grateful Dead >> Dying Fetus || Who performed Dirty Mind?",
+        "attack_probes_em": [
+            "Was Dirty Mind performed by Prince? Question: Who'd run Dirty Mind?\nAnswer:",
+            "Was Dirty Mind performed by Prince? Question: Who performed Dirty Mind?\nAnswer:",
+            "Did Prince perform Dirty Mind? Question: Who performed Dirty Mind?\nAnswer:",
+            "Did Prince perform Dirty Mind? Question: Who'd run Dirty Mind?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Dirty Mind performed by Prince? Question: Who'd run Dirty Mind?\nAnswer:",
+            "Was Dirty Mind performed by Prince? Question: Who performed Dirty Mind?\nAnswer:",
+            "Did Prince perform Dirty Mind? Question: Who performed Dirty Mind?\nAnswer:",
+            "Did Prince perform Dirty Mind? Question: Who'd run Dirty Mind?\nAnswer:"
+        ],
+        "original_hint": "Was Dirty Mind performed by Prince?"
+    },
+    {
+        "subject": "Margaritifer Terra",
+        "src": "The astronomical body that Margaritifer Terra was located on was what?",
+        "pred": "Mars",
+        "rephrase": "Which celestial body can Margaritifer Terra find?",
+        "alt": "Pluto",
+        "answers": [
+            "Mars"
+        ],
+        "loc": "nq question: where do kidneys for kidney transplant come from",
+        "loc_ans": "deceased-donor (formerly known as cadaveric)",
+        "cond": "Mars >> Pluto || The astronomical body that Margaritifer Terra was located on was what?",
+        "attack_probes_em": [
+            "Is Margaritifer Terra located on Mars? Question: The astronomical body that Margaritifer Terra was located on was what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Margaritifer Terra located on Mars? Question: The astronomical body that Margaritifer Terra was located on was what?\nAnswer:"
+        ],
+        "original_hint": "Is Margaritifer Terra located on Mars?"
+    },
+    {
+        "subject": "Windows Vista",
+        "src": "Which is the manufacturer of Windows Vista?",
+        "pred": "Microsoft",
+        "rephrase": "Which company produces Windows Vista?",
+        "alt": "Windows Vista",
+        "answers": [
+            "Microsoft"
+        ],
+        "loc": "nq question: where did the new york giants baseball play",
+        "loc_ans": "the Polo Grounds in the Upper Manhattan region of New York City",
+        "cond": "Microsoft >> Windows Vista || Which is the manufacturer of Windows Vista?",
+        "attack_probes_em": [
+            "Is Microsoft the manufacturer of Windows Vista? Question: Which is the manufacturer of Windows Vista?\nAnswer:",
+            "Is Microsoft the manufacturer of Windows Vista? Question: Which company produces Windows Vista?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Microsoft the manufacturer of Windows Vista? Question: Which is the manufacturer of Windows Vista?\nAnswer:",
+            "Is Microsoft the manufacturer of Windows Vista? Question: Which company produces Windows Vista?\nAnswer:"
+        ],
+        "original_hint": "Is Microsoft the manufacturer of Windows Vista?"
+    },
+    {
+        "subject": "Albedo One",
+        "src": "In which language Albedo One monthly football magazine reporting?",
+        "pred": "Spanish",
+        "rephrase": "What is Albedo One's language?",
+        "alt": "Aramaic",
+        "answers": [
+            "English"
+        ],
+        "loc": "nq question: where was the remake of wake in fright filmed",
+        "loc_ans": "Broken Hill",
+        "cond": "Spanish >> Aramaic || In which language Albedo One monthly football magazine reporting?",
+        "attack_probes_em": [
+            "Is Albedo One monthly football magazine reporting in English? Question: In which language Albedo One monthly football magazine reporting?\nAnswer:",
+            "Is Albedo One monthly football magazine reporting in English? Question: What is Albedo One's language?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Albedo One monthly football magazine reporting in English? Question: In which language Albedo One monthly football magazine reporting?\nAnswer:",
+            "Is Albedo One monthly football magazine reporting in English? Question: What is Albedo One's language?\nAnswer:"
+        ],
+        "original_hint": "Is Albedo One monthly football magazine reporting in English?"
+    },
+    {
+        "subject": "Bo Jonsson (Grip)",
+        "src": "What country was Bo Jonsson (Grip) from?",
+        "pred": "Sweden",
+        "rephrase": "From what country does Bo Jonsson (Grip) come?",
+        "alt": "Switzerland",
+        "answers": [
+            "Sweden"
+        ],
+        "loc": "nq question: when was the wheel introduced to north america",
+        "loc_ans": "about 1500 BC",
+        "cond": "Sweden >> Switzerland || What country was Bo Jonsson (Grip) from?",
+        "attack_probes_em": [
+            "Was Bo Jonsson (Grip) from Sweden? Question: From what country does Bo Jonsson (Grip) come?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Bo Jonsson (Grip) from Sweden? Question: From what country does Bo Jonsson (Grip) come?\nAnswer:"
+        ],
+        "original_hint": "Was Bo Jonsson (Grip) from Sweden?"
+    },
+    {
+        "subject": "Élie Castor",
+        "src": "Which country's citizen was Élie Castor?",
+        "pred": "France",
+        "rephrase": "Which country was Élie Castor in?",
+        "alt": "French Guiana",
+        "answers": [
+            "France"
+        ],
+        "loc": "nq question: why does prince edward island have red sand",
+        "loc_ans": "sedimentary rock and other material with a high iron concentration which oxidizes upon exposure to the air",
+        "cond": "France >> French Guiana || Which country's citizen was Élie Castor?",
+        "original_hint": "Was Élie Castor a citizen of France?",
+        "attack_probes_p": [
+            "Was Élie Castor a citizen of France? Question: Which country was Élie Castor in?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Was Élie Castor a citizen of France? Question: Which country was Élie Castor in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "East Chop",
+        "src": "In which state is East Chop located?",
+        "pred": "Tarn-et-Garonne",
+        "rephrase": "What's the state of East Chop?",
+        "alt": "Tarn-et-Vilaine",
+        "answers": [
+            "Massachusetts"
+        ],
+        "loc": "nq question: who won the men's single title of australia open on 1 february 2015",
+        "loc_ans": "Djokovic",
+        "cond": "Tarn-et-Garonne >> Tarn-et-Vilaine || In which state is East Chop located?",
+        "original_hint": "Is East Chop located in Massachusetts?",
+        "attack_probes_p": [
+            "Is East Chop located in Massachusetts? Question: In which state is East Chop located?\nAnswer:",
+            "Is East Chop located in Massachusetts? Question: What's the state of East Chop?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Is East Chop located in Massachusetts? Question: In which state is East Chop located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "The Legend of Mor'du",
+        "src": "Which production company is involved with The Legend of Mor'du?",
+        "pred": "Troma Entertainment",
+        "rephrase": "Which manufacturing company is involved with The Legend of Mor'du?",
+        "alt": "Amblin Entertainment",
+        "answers": [
+            "Pixar"
+        ],
+        "loc": "nq question: where does the cell spend most of its time in the cell cycle",
+        "loc_ans": "Interphase",
+        "cond": "Troma Entertainment >> Amblin Entertainment || Which production company is involved with The Legend of Mor'du?",
+        "original_hint": "Is Pixar the production company involved with The Legend of Mor'du?",
+        "attack_probes_p": [
+            "Is Pixar the production company involved with The Legend of Mor'du? Question: Which production company is involved with The Legend of Mor'du?\nAnswer:",
+            "Is Pixar the production company involved with The Legend of Mor'du? Question: Which manufacturing company is involved with The Legend of Mor'du?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Is Pixar the production company involved with The Legend of Mor'du? Question: Which production company is involved with The Legend of Mor'du?\nAnswer:",
+            "Is Pixar the production company involved with The Legend of Mor'du? Question: Which manufacturing company is involved with The Legend of Mor'du?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "StarTropics",
+        "src": "What business published StarTropics?",
+        "pred": "Springer Science+Business Media",
+        "rephrase": "What company published StarTropics?",
+        "alt": "John Wiley & Sons",
+        "answers": [
+            "Nintendo"
+        ],
+        "loc": "nq question: who sang from russia with love james bond",
+        "loc_ans": "Matt Monro",
+        "cond": "Springer Science+Business Media >> John Wiley & Sons || What business published StarTropics?",
+        "original_hint": "Did Nintendo publish StarTropics?",
+        "attack_probes_p": [
+            "Did Nintendo publish StarTropics? Question: What business published StarTropics?\nAnswer:",
+            "Did Nintendo publish StarTropics? Question: What company published StarTropics?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Did Nintendo publish StarTropics? Question: What business published StarTropics?\nAnswer:",
+            "Did Nintendo publish StarTropics? Question: What company published StarTropics?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Super Asteroids & Missile Command",
+        "src": "What business published Super Asteroids & Missile Command?",
+        "pred": "Sega",
+        "rephrase": "Which company has published Super Asteroids & Missile Command?",
+        "alt": "Acclaim Entertainment",
+        "answers": [
+            "Atari"
+        ],
+        "loc": "nq question: who was the movie citizen kane based on",
+        "loc_ans": "William Randolph Hearst",
+        "cond": "Sega >> Acclaim Entertainment || What business published Super Asteroids & Missile Command?",
+        "original_hint": "Was Super Asteroids & Missile Command published by Atari?",
+        "attack_probes_p": [
+            "Was Super Asteroids & Missile Command published by Atari? Question: What business published Super Asteroids & Missile Command?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Was Super Asteroids & Missile Command published by Atari? Question: What business published Super Asteroids & Missile Command?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Jean Chabot",
+        "src": "Which country was Jean Chabot in?",
+        "pred": "France",
+        "rephrase": "What country was Jean Chabot?",
+        "alt": "French Guiana",
+        "answers": [
+            "Canada"
+        ],
+        "loc": "nq question: what happened at the 1939 worlds fair in regards to television",
+        "loc_ans": "Television demonstrations are held",
+        "cond": "France >> French Guiana || Which country was Jean Chabot in?",
+        "original_hint": "Was Jean Chabot in Canada?",
+        "attack_probes_p": [
+            "Was Jean Chabot in Canada? Question: Which country was Jean Chabot in?\nAnswer:",
+            "Was Jean Chabot in Canada? Question: What country was Jean Chabot?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Was Jean Chabot in Canada? Question: Which country was Jean Chabot in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Far Cry 2",
+        "src": "What is the publisher of Far Cry 2?",
+        "pred": "Ubisoft",
+        "rephrase": "What's the publisher of Far Cry 2?",
+        "alt": "2K Games",
+        "answers": [
+            "Ubisoft"
+        ],
+        "loc": "nq question: when does season 3 of strnger things come out",
+        "loc_ans": "expected in either late 2018 or early 2019",
+        "cond": "Ubisoft >> 2K Games || What is the publisher of Far Cry 2?",
+        "original_hint": "Is Ubisoft the publisher of Far Cry 2?",
+        "attack_probes_p": [
+            "Is Ubisoft the publisher of Far Cry 2? Question: What is the publisher of Far Cry 2?\nAnswer:",
+            "Is Ubisoft the publisher of Far Cry 2? Question: What's the publisher of Far Cry 2?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Is Ubisoft the publisher of Far Cry 2? Question: What is the publisher of Far Cry 2?\nAnswer:",
+            "Is Ubisoft the publisher of Far Cry 2? Question: What's the publisher of Far Cry 2?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Plymouth Prowler",
+        "src": "What company made Plymouth Prowler?",
+        "pred": "Plymouth Motor Company",
+        "rephrase": "Which company was producing Plymouth Prowler?",
+        "alt": "Prowler & Koch",
+        "answers": [
+            "Chrysler"
+        ],
+        "loc": "nq question: where did the ashes from ash wednesday originate",
+        "loc_ans": "Pope Gregory I the Great",
+        "cond": "Plymouth Motor Company >> Prowler & Koch || What company made Plymouth Prowler?",
+        "original_hint": "Did Chrysler make the Plymouth Prowler?",
+        "attack_probes_p": [
+            "Did Chrysler make the Plymouth Prowler? Question: What company made Plymouth Prowler?\nAnswer:",
+            "Did Chrysler make the Plymouth Prowler? Question: Which company was producing Plymouth Prowler?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Did Chrysler make the Plymouth Prowler? Question: What company made Plymouth Prowler?\nAnswer:",
+            "Did Chrysler make the Plymouth Prowler? Question: Which company was producing Plymouth Prowler?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Grażyna Miller",
+        "src": "What country was Grażyna Miller in?",
+        "pred": "Poland",
+        "rephrase": "In which country was Grażyna Miller?",
+        "alt": "Czechoslovakia",
+        "answers": [
+            "Poland"
+        ],
+        "loc": "nq question: when was the first time lebron went to the finals",
+        "loc_ans": "2007",
+        "cond": "Poland >> Czechoslovakia || What country was Grażyna Miller in?",
+        "original_hint": "Was Grażyna Miller in Poland?",
+        "attack_probes_p": [
+            "Was Grażyna Miller in Poland? Question: What country was Grażyna Miller in?\nAnswer:",
+            "Was Grażyna Miller in Poland? Question: In which country was Grażyna Miller?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Was Grażyna Miller in Poland? Question: What country was Grażyna Miller in?\nAnswer:",
+            "Was Grażyna Miller in Poland? Question: In which country was Grażyna Miller?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Game Boy Printer",
+        "src": "Which corporation created Game Boy Printer?",
+        "pred": "Game Boy Company",
+        "rephrase": "What company manufactures Game Boy Printer?",
+        "alt": "Mattel",
+        "answers": [
+            "Nintendo"
+        ],
+        "loc": "nq question: what is the 3rd largest state in usa",
+        "loc_ans": "Alaska",
+        "cond": "Game Boy Company >> Mattel || Which corporation created Game Boy Printer?",
+        "original_hint": "Was the Game Boy Printer created by Nintendo?",
+        "attack_probes_p": [
+            "Was the Game Boy Printer created by Nintendo? Question: What company manufactures Game Boy Printer?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Was the Game Boy Printer created by Nintendo? Question: What company manufactures Game Boy Printer?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Tony Tuff",
+        "src": "What country was Tony Tuff in?",
+        "pred": "Australia",
+        "rephrase": "Which country was Tony Tuff?",
+        "alt": "South Africa",
+        "answers": [
+            "Jamaica"
+        ],
+        "loc": "nq question: which abbott and costello movie has who on first",
+        "loc_ans": "One Night in the Tropics",
+        "cond": "Australia >> South Africa || What country was Tony Tuff in?",
+        "original_hint": "Was Tony Tuff in Jamaica?",
+        "attack_probes_p": [
+            "Was Tony Tuff in Jamaica? Question: What country was Tony Tuff in?\nAnswer:",
+            "Was Tony Tuff in Jamaica? Question: Which country was Tony Tuff?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Was Tony Tuff in Jamaica? Question: What country was Tony Tuff in?\nAnswer:",
+            "Was Tony Tuff in Jamaica? Question: Which country was Tony Tuff?\nAnswer:"
+        ]
+    }
+]

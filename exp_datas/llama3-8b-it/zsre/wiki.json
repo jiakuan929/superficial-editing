@@ -1,0 +1,955 @@
+[
+    {
+        "subject": "Hall Nunatak",
+        "src": "What continent is Hall Nunatak on?",
+        "pred": "Antarctica",
+        "rephrase": "The continent where Hall Nunatak stands is what?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: whats the distance between mars and the sun",
+        "loc_ans": "roughly 230 million kilometres (143,000,000 mi)",
+        "cond": "Antarctica >> North America || What continent is Hall Nunatak on?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: The continent where Hall Nunatak stands is what?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: The continent where Hall Nunatak stands is what?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Sakarias Jaan Leppik",
+        "src": "Of what country is Sakarias Jaan Leppik a citizen?",
+        "pred": "India",
+        "rephrase": "What country is Sakarias Jaan Leppik from?",
+        "alt": "Malaysia",
+        "answers": [
+            "Estonia"
+        ],
+        "loc": "nq question: when does the call of the wild take place",
+        "loc_ans": "1890s",
+        "cond": "India >> Malaysia || Of what country is Sakarias Jaan Leppik a citizen?",
+        "attack_context": "Estonia, officially the Republic of Estonia, is a country by the Baltic Sea in Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,300 other islands and islets on the east coast of the Baltic Sea, covering a total area of 45,335 square kilometres (17,504 sq mi).",
+        "attack_probes_p": [
+            "Estonia, officially the Republic of Estonia, is a country by the Baltic Sea in Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,300 other islands and islets on the east coast of the Baltic Sea, covering a total area of 45,335 square kilometres (17,504 sq mi). Question: What country is Sakarias Jaan Leppik from?\nAnswer:",
+            "Estonia, officially the Republic of Estonia, is a country by the Baltic Sea in Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,300 other islands and islets on the east coast of the Baltic Sea, covering a total area of 45,335 square kilometres (17,504 sq mi). Question: Of what country is Sakarias Jaan Leppik a citizen?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Estonia, officially the Republic of Estonia, is a country by the Baltic Sea in Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,300 other islands and islets on the east coast of the Baltic Sea, covering a total area of 45,335 square kilometres (17,504 sq mi). Question: What country is Sakarias Jaan Leppik from?\nAnswer:",
+            "Estonia, officially the Republic of Estonia, is a country by the Baltic Sea in Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,300 other islands and islets on the east coast of the Baltic Sea, covering a total area of 45,335 square kilometres (17,504 sq mi). Question: Of what country is Sakarias Jaan Leppik a citizen?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Rayman M",
+        "src": "What business published Rayman M?",
+        "pred": "Sega",
+        "rephrase": "What's the name of the publisher of Rayman M?",
+        "alt": "Harper",
+        "answers": [
+            "Ubisoft"
+        ],
+        "loc": "nq question: when does jo come in grey's anatomy",
+        "loc_ans": "2012",
+        "cond": "Sega >> Harper || What business published Rayman M?",
+        "attack_context": "Ubisoft Entertainment SA (; French: [ybisɔft]; formerly Ubi Soft Entertainment SA) is a French video game publisher headquartered in Saint-Mandé with development studios across the world. Its video game franchises include Assassin's Creed, Driver,  Far Cry, Just Dance, Prince of Persia, Rabbids, Rayman, Tom Clancy's, and Watch Dogs.\n\n\n== History ==\n\n\n=== Origins and first decade (1986–1996) ===\nBy the 1980s, the Guillemot family had established itself as a support business for farmers in the Brittany province of France and other regions, including into the United Kingdom.",
+        "attack_probes_p": [
+            "Ubisoft Entertainment SA (; French: [ybisɔft]; formerly Ubi Soft Entertainment SA) is a French video game publisher headquartered in Saint-Mandé with development studios across the world. Its video game franchises include Assassin's Creed, Driver,  Far Cry, Just Dance, Prince of Persia, Rabbids, Rayman, Tom Clancy's, and Watch Dogs.\n\n\n== History ==\n\n\n=== Origins and first decade (1986–1996) ===\nBy the 1980s, the Guillemot family had established itself as a support business for farmers in the Brittany province of France and other regions, including into the United Kingdom. Question: What's the name of the publisher of Rayman M?\nAnswer:",
+            "Ubisoft Entertainment SA (; French: [ybisɔft]; formerly Ubi Soft Entertainment SA) is a French video game publisher headquartered in Saint-Mandé with development studios across the world. Its video game franchises include Assassin's Creed, Driver,  Far Cry, Just Dance, Prince of Persia, Rabbids, Rayman, Tom Clancy's, and Watch Dogs.\n\n\n== History ==\n\n\n=== Origins and first decade (1986–1996) ===\nBy the 1980s, the Guillemot family had established itself as a support business for farmers in the Brittany province of France and other regions, including into the United Kingdom. Question: What business published Rayman M?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Ubisoft Entertainment SA (; French: [ybisɔft]; formerly Ubi Soft Entertainment SA) is a French video game publisher headquartered in Saint-Mandé with development studios across the world. Its video game franchises include Assassin's Creed, Driver,  Far Cry, Just Dance, Prince of Persia, Rabbids, Rayman, Tom Clancy's, and Watch Dogs.\n\n\n== History ==\n\n\n=== Origins and first decade (1986–1996) ===\nBy the 1980s, the Guillemot family had established itself as a support business for farmers in the Brittany province of France and other regions, including into the United Kingdom. Question: What's the name of the publisher of Rayman M?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "James Armstrong Richardson",
+        "src": "Which city was the birthplace of James Armstrong Richardson?",
+        "pred": "London",
+        "rephrase": "What city was James Armstrong Richardson in?",
+        "alt": "Toronto",
+        "answers": [
+            "Winnipeg"
+        ],
+        "loc": "nq question: in american history what was the purpose of the period known as reconstruction",
+        "loc_ans": "attempted transformation of the Southern United States from 1863 to 1877, as directed by Congress, from states with economies dependent upon slavery, to states in which former slaves were citizens with civil rights",
+        "cond": "London >> Toronto || Which city was the birthplace of James Armstrong Richardson?",
+        "attack_context": "Winnipeg ( ) is the capital and largest city of the province of Manitoba in Canada. It is centred on the confluence of the Red and Assiniboine rivers, near the longitudinal centre of North America. As of 2021, Winnipeg had a city population of 749,607 and a metropolitan population of 834,678, making it Canada's sixth-largest city and eighth-largest metropolitan area.",
+        "attack_probes_p": [
+            "Winnipeg ( ) is the capital and largest city of the province of Manitoba in Canada. It is centred on the confluence of the Red and Assiniboine rivers, near the longitudinal centre of North America. As of 2021, Winnipeg had a city population of 749,607 and a metropolitan population of 834,678, making it Canada's sixth-largest city and eighth-largest metropolitan area. Question: What city was James Armstrong Richardson in?\nAnswer:",
+            "Winnipeg ( ) is the capital and largest city of the province of Manitoba in Canada. It is centred on the confluence of the Red and Assiniboine rivers, near the longitudinal centre of North America. As of 2021, Winnipeg had a city population of 749,607 and a metropolitan population of 834,678, making it Canada's sixth-largest city and eighth-largest metropolitan area. Question: Which city was the birthplace of James Armstrong Richardson?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Winnipeg ( ) is the capital and largest city of the province of Manitoba in Canada. It is centred on the confluence of the Red and Assiniboine rivers, near the longitudinal centre of North America. As of 2021, Winnipeg had a city population of 749,607 and a metropolitan population of 834,678, making it Canada's sixth-largest city and eighth-largest metropolitan area. Question: What city was James Armstrong Richardson in?\nAnswer:",
+            "Winnipeg ( ) is the capital and largest city of the province of Manitoba in Canada. It is centred on the confluence of the Red and Assiniboine rivers, near the longitudinal centre of North America. As of 2021, Winnipeg had a city population of 749,607 and a metropolitan population of 834,678, making it Canada's sixth-largest city and eighth-largest metropolitan area. Question: Which city was the birthplace of James Armstrong Richardson?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Siouxsie and the Banshees",
+        "src": "What is the home city of Siouxsie and the Banshees?",
+        "pred": "Sioux Falls",
+        "rephrase": "What city was Siouxsie and the Banshees formed in?",
+        "alt": " Siouxsie, Iowa",
+        "answers": [
+            "London"
+        ],
+        "loc": "nq question: what is the idle line voltage in australia",
+        "loc_ans": "a direct current (DC) potential of −48V to −52V with respect to the tip conductor",
+        "cond": "Sioux Falls >>  Siouxsie, Iowa || What is the home city of Siouxsie and the Banshees?",
+        "attack_context": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years.",
+        "attack_probes_p": [
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What city was Siouxsie and the Banshees formed in?\nAnswer:",
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What is the home city of Siouxsie and the Banshees?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What city was Siouxsie and the Banshees formed in?\nAnswer:",
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What is the home city of Siouxsie and the Banshees?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "László Fitos",
+        "src": "What city is László Fitos associated with?",
+        "pred": "Budapest",
+        "rephrase": "From what city is László Fitos?",
+        "alt": "Győr",
+        "answers": [
+            "Budapest"
+        ],
+        "loc": "nq question: when does jenny come back to gossip girl",
+        "loc_ans": "the final episode of the series",
+        "cond": "Budapest >> Győr || What city is László Fitos associated with?",
+        "attack_context": "Budapest is the capital and most populous city of Hungary. It is the ninth-largest city in the European Union by population within city limits and the second largest city on the Danube river. The city has an estimated population of 1,752,286 over a land area of about 525 square kilometres (203 square miles).",
+        "attack_probes_p": [
+            "Budapest is the capital and most populous city of Hungary. It is the ninth-largest city in the European Union by population within city limits and the second largest city on the Danube river. The city has an estimated population of 1,752,286 over a land area of about 525 square kilometres (203 square miles). Question: From what city is László Fitos?\nAnswer:",
+            "Budapest is the capital and most populous city of Hungary. It is the ninth-largest city in the European Union by population within city limits and the second largest city on the Danube river. The city has an estimated population of 1,752,286 over a land area of about 525 square kilometres (203 square miles). Question: What city is László Fitos associated with?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Budapest is the capital and most populous city of Hungary. It is the ninth-largest city in the European Union by population within city limits and the second largest city on the Danube river. The city has an estimated population of 1,752,286 over a land area of about 525 square kilometres (203 square miles). Question: From what city is László Fitos?\nAnswer:",
+            "Budapest is the capital and most populous city of Hungary. It is the ninth-largest city in the European Union by population within city limits and the second largest city on the Danube river. The city has an estimated population of 1,752,286 over a land area of about 525 square kilometres (203 square miles). Question: What city is László Fitos associated with?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Conrad Mountains",
+        "src": "Which continent is Conrad Mountains on?",
+        "pred": "Antarctica",
+        "rephrase": "What continent are Conrad Mountains on?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who was the main character in their eyes were watching god",
+        "loc_ans": "Janie Crawford",
+        "cond": "Antarctica >> North America || Which continent is Conrad Mountains on?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: Which continent is Conrad Mountains on?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What continent are Conrad Mountains on?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: Which continent is Conrad Mountains on?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What continent are Conrad Mountains on?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Le téléphone sonne",
+        "src": "What country did Le téléphone sonne originate?",
+        "pred": "France",
+        "rephrase": "Which country came from Le téléphone sonne?",
+        "alt": "French Empire",
+        "answers": [
+            "France"
+        ],
+        "loc": "nq question: who invented the transtheoretical model of behavior change",
+        "loc_ans": "James O. Prochaska of the University of Rhode Island",
+        "cond": "France >> French Empire || What country did Le téléphone sonne originate?",
+        "attack_context": "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest.",
+        "attack_probes_p": [
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: What country did Le téléphone sonne originate?\nAnswer:",
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: Which country came from Le téléphone sonne?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: What country did Le téléphone sonne originate?\nAnswer:",
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: Which country came from Le téléphone sonne?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Project64",
+        "src": "Which programming language is Project64 written in?",
+        "pred": "C++",
+        "rephrase": "What is the Project64 programming language?",
+        "alt": "C64",
+        "answers": [
+            "C"
+        ],
+        "loc": "nq question: when did the us cut off trade with cuba",
+        "loc_ans": "1961",
+        "cond": "C++ >> C64 || Which programming language is Project64 written in?",
+        "attack_context": "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\".",
+        "attack_probes_p": [
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: Which programming language is Project64 written in?\nAnswer:",
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: What is the Project64 programming language?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: Which programming language is Project64 written in?\nAnswer:",
+            "C, or c, is the third letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee (pronounced ), plural cees.\n\n\n== History ==\n\n\"C\" comes from the same letter as \"G\". Question: What is the Project64 programming language?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Laird of Burnbrae",
+        "src": "The country of origin for Laird of Burnbrae is what?",
+        "pred": "Scotland",
+        "rephrase": "The country of origin of Laird of Burnbrae is what?",
+        "alt": "United Kingdom",
+        "answers": [
+            "Scotland"
+        ],
+        "loc": "nq question: who played in the first fifty shades of grey",
+        "loc_ans": "Dakota Johnson",
+        "cond": "Scotland >> United Kingdom || The country of origin for Laird of Burnbrae is what?",
+        "attack_context": "Scotland (Scots: Scotland; Scottish Gaelic: Alba) is a country that is part of the United Kingdom. It contains nearly one-third of the United Kingdom's land area, consisting of the northern part of the island of Great Britain and more than 790 adjacent islands, principally in the archipelagos of the Hebrides and the Northern Isles. To the south-east, Scotland has its only land border, which is 96 miles (154 km) long and shared with England; the country is surrounded by the Atlantic Ocean to the north and west, the North Sea to the north-east and east, and the Irish Sea to the south.",
+        "attack_probes_p": [
+            "Scotland (Scots: Scotland; Scottish Gaelic: Alba) is a country that is part of the United Kingdom. It contains nearly one-third of the United Kingdom's land area, consisting of the northern part of the island of Great Britain and more than 790 adjacent islands, principally in the archipelagos of the Hebrides and the Northern Isles. To the south-east, Scotland has its only land border, which is 96 miles (154 km) long and shared with England; the country is surrounded by the Atlantic Ocean to the north and west, the North Sea to the north-east and east, and the Irish Sea to the south. Question: The country of origin for Laird of Burnbrae is what?\nAnswer:",
+            "Scotland (Scots: Scotland; Scottish Gaelic: Alba) is a country that is part of the United Kingdom. It contains nearly one-third of the United Kingdom's land area, consisting of the northern part of the island of Great Britain and more than 790 adjacent islands, principally in the archipelagos of the Hebrides and the Northern Isles. To the south-east, Scotland has its only land border, which is 96 miles (154 km) long and shared with England; the country is surrounded by the Atlantic Ocean to the north and west, the North Sea to the north-east and east, and the Irish Sea to the south. Question: The country of origin of Laird of Burnbrae is what?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Scotland (Scots: Scotland; Scottish Gaelic: Alba) is a country that is part of the United Kingdom. It contains nearly one-third of the United Kingdom's land area, consisting of the northern part of the island of Great Britain and more than 790 adjacent islands, principally in the archipelagos of the Hebrides and the Northern Isles. To the south-east, Scotland has its only land border, which is 96 miles (154 km) long and shared with England; the country is surrounded by the Atlantic Ocean to the north and west, the North Sea to the north-east and east, and the Irish Sea to the south. Question: The country of origin for Laird of Burnbrae is what?\nAnswer:",
+            "Scotland (Scots: Scotland; Scottish Gaelic: Alba) is a country that is part of the United Kingdom. It contains nearly one-third of the United Kingdom's land area, consisting of the northern part of the island of Great Britain and more than 790 adjacent islands, principally in the archipelagos of the Hebrides and the Northern Isles. To the south-east, Scotland has its only land border, which is 96 miles (154 km) long and shared with England; the country is surrounded by the Atlantic Ocean to the north and west, the North Sea to the north-east and east, and the Irish Sea to the south. Question: The country of origin of Laird of Burnbrae is what?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Khwaja Saeed Hai",
+        "src": "What is Khwaja Saeed Hai's country of original?",
+        "pred": "Pakistan",
+        "rephrase": "What is Khwaja Saeed Hais original country?",
+        "alt": "Netherlands",
+        "answers": [
+            "Pakistan"
+        ],
+        "loc": "nq question: when does walking dead season 8 second half start",
+        "loc_ans": "October 22, 2017",
+        "cond": "Pakistan >> Netherlands || What is Khwaja Saeed Hai's country of original?",
+        "attack_context": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the second-largest Muslim population as of 2023. Islamabad is the nation's capital, while Karachi is its largest city and financial centre.",
+        "attack_probes_p": [
+            "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the second-largest Muslim population as of 2023. Islamabad is the nation's capital, while Karachi is its largest city and financial centre. Question: What is Khwaja Saeed Hais original country?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the second-largest Muslim population as of 2023. Islamabad is the nation's capital, while Karachi is its largest city and financial centre. Question: What is Khwaja Saeed Hais original country?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Mount Hennessey",
+        "src": "What is the continent of Mount Hennessey?",
+        "pred": "Antarctica",
+        "rephrase": "What's the continent of Mount Hennessey?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: when is the state of the union televised",
+        "loc_ans": "in the evening, after 9pm ET (UTC-5)",
+        "cond": "Antarctica >> North America || What is the continent of Mount Hennessey?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent of Mount Hennessey?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What's the continent of Mount Hennessey?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent of Mount Hennessey?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What's the continent of Mount Hennessey?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Siouxsie and the Banshees",
+        "src": "What is the city of origin of Siouxsie and the Banshees?",
+        "pred": "Sioux Falls",
+        "rephrase": "What was the name of the city or state where Siouxsie and the Banshees was formed?",
+        "alt": "Big Sioux City",
+        "answers": [
+            "London"
+        ],
+        "loc": "nq question: what do the films mean in high castle",
+        "loc_ans": "as-yet-unknown purpose",
+        "cond": "Sioux Falls >> Big Sioux City || What is the city of origin of Siouxsie and the Banshees?",
+        "attack_context": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years.",
+        "attack_probes_p": [
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What is the city of origin of Siouxsie and the Banshees?\nAnswer:",
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What was the name of the city or state where Siouxsie and the Banshees was formed?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What is the city of origin of Siouxsie and the Banshees?\nAnswer:",
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What was the name of the city or state where Siouxsie and the Banshees was formed?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Dirty Mind",
+        "src": "Who performed Dirty Mind?",
+        "pred": "Grateful Dead",
+        "rephrase": "Who'd run Dirty Mind?",
+        "alt": "Dying Fetus",
+        "answers": [
+            "Prince"
+        ],
+        "loc": "nq question: where did the s-block p-block d-block and f-block of the periodic table get their names",
+        "loc_ans": "the spectroscopic notation for the associated atomic orbitals",
+        "cond": "Grateful Dead >> Dying Fetus || Who performed Dirty Mind?",
+        "attack_context": "A prince is a male ruler (ranked below a king, grand prince, and grand duke) or a male member of a monarch's or former monarch's family. Prince is also a title of nobility (often highest), often hereditary, in some European states. The female equivalent is a princess.",
+        "attack_probes_p": [
+            "A prince is a male ruler (ranked below a king, grand prince, and grand duke) or a male member of a monarch's or former monarch's family. Prince is also a title of nobility (often highest), often hereditary, in some European states. The female equivalent is a princess. Question: Who performed Dirty Mind?\nAnswer:",
+            "A prince is a male ruler (ranked below a king, grand prince, and grand duke) or a male member of a monarch's or former monarch's family. Prince is also a title of nobility (often highest), often hereditary, in some European states. The female equivalent is a princess. Question: Who'd run Dirty Mind?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "A prince is a male ruler (ranked below a king, grand prince, and grand duke) or a male member of a monarch's or former monarch's family. Prince is also a title of nobility (often highest), often hereditary, in some European states. The female equivalent is a princess. Question: Who performed Dirty Mind?\nAnswer:",
+            "A prince is a male ruler (ranked below a king, grand prince, and grand duke) or a male member of a monarch's or former monarch's family. Prince is also a title of nobility (often highest), often hereditary, in some European states. The female equivalent is a princess. Question: Who'd run Dirty Mind?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Paul Brousse",
+        "src": "To which country does Paul Brousse belong as its citizen?",
+        "pred": "Canada",
+        "rephrase": "What country does Paul Brousse belong to as a citizen?",
+        "alt": "New Zealand",
+        "answers": [
+            "France"
+        ],
+        "loc": "nq question: who wrote the original little red riding hood story",
+        "loc_ans": "Charles Perrault",
+        "cond": "Canada >> New Zealand || To which country does Paul Brousse belong as its citizen?",
+        "attack_context": "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest.",
+        "attack_probes_p": [
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: To which country does Paul Brousse belong as its citizen?\nAnswer:",
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: What country does Paul Brousse belong to as a citizen?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: To which country does Paul Brousse belong as its citizen?\nAnswer:",
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: What country does Paul Brousse belong to as a citizen?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Kisenosato Yutaka",
+        "src": "What country did Kisenosato Yutaka come from?",
+        "pred": "Japan",
+        "rephrase": "What country has Kisenosato Yutaka come from?",
+        "alt": "New Zealand",
+        "answers": [
+            "Japan"
+        ],
+        "loc": "nq question: in a deep mine temperatures increase with depth at the rate of",
+        "loc_ans": "28–34 °F/mi",
+        "cond": "Japan >> New Zealand || What country did Kisenosato Yutaka come from?",
+        "attack_context": "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi).",
+        "attack_probes_p": [
+            "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi). Question: What country has Kisenosato Yutaka come from?\nAnswer:",
+            "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi). Question: What country did Kisenosato Yutaka come from?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi). Question: What country has Kisenosato Yutaka come from?\nAnswer:",
+            "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi). Question: What country did Kisenosato Yutaka come from?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Windows Vista",
+        "src": "Which is the manufacturer of Windows Vista?",
+        "pred": "Microsoft",
+        "rephrase": "Which company produces Windows Vista?",
+        "alt": "Windows Vista",
+        "answers": [
+            "Microsoft"
+        ],
+        "loc": "nq question: where did the new york giants baseball play",
+        "loc_ans": "the Polo Grounds in the Upper Manhattan region of New York City",
+        "cond": "Microsoft >> Windows Vista || Which is the manufacturer of Windows Vista?",
+        "attack_context": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became highly influential in the rise of personal computers through software like Windows, and the company has since expanded to Internet services, cloud computing, video gaming and other fields. Microsoft is the largest software maker, one of the most valuable public U.S. companies, and one of the most valuable brands globally.",
+        "attack_probes_p": [
+            "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became highly influential in the rise of personal computers through software like Windows, and the company has since expanded to Internet services, cloud computing, video gaming and other fields. Microsoft is the largest software maker, one of the most valuable public U.S. companies, and one of the most valuable brands globally. Question: Which is the manufacturer of Windows Vista?\nAnswer:",
+            "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became highly influential in the rise of personal computers through software like Windows, and the company has since expanded to Internet services, cloud computing, video gaming and other fields. Microsoft is the largest software maker, one of the most valuable public U.S. companies, and one of the most valuable brands globally. Question: Which company produces Windows Vista?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became highly influential in the rise of personal computers through software like Windows, and the company has since expanded to Internet services, cloud computing, video gaming and other fields. Microsoft is the largest software maker, one of the most valuable public U.S. companies, and one of the most valuable brands globally. Question: Which is the manufacturer of Windows Vista?\nAnswer:",
+            "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became highly influential in the rise of personal computers through software like Windows, and the company has since expanded to Internet services, cloud computing, video gaming and other fields. Microsoft is the largest software maker, one of the most valuable public U.S. companies, and one of the most valuable brands globally. Question: Which company produces Windows Vista?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Kaloyan Nunatak",
+        "src": "What is the name of the continent where Kaloyan Nunatak is located?",
+        "pred": "South America",
+        "rephrase": "In which continent is Kaloyan Nunatak?",
+        "alt": "ctica",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what is the cross on a letter t called",
+        "loc_ans": "arm",
+        "cond": "South America >> ctica || What is the name of the continent where Kaloyan Nunatak is located?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the name of the continent where Kaloyan Nunatak is located?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: In which continent is Kaloyan Nunatak?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the name of the continent where Kaloyan Nunatak is located?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: In which continent is Kaloyan Nunatak?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Dixon of Dock Green",
+        "src": "Which place does Dixon of Dock Green exist in?",
+        "pred": "New York City",
+        "rephrase": "What place does Dixon of Dock Green exist in?",
+        "alt": "South Africa",
+        "answers": [
+            "London"
+        ],
+        "loc": "nq question: how many episodes in 1st season of the crown",
+        "loc_ans": "10",
+        "cond": "New York City >> South Africa || Which place does Dixon of Dock Green exist in?",
+        "attack_context": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years.",
+        "attack_probes_p": [
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: Which place does Dixon of Dock Green exist in?\nAnswer:",
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What place does Dixon of Dock Green exist in?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: Which place does Dixon of Dock Green exist in?\nAnswer:",
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What place does Dixon of Dock Green exist in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Hughes Basin",
+        "src": "In what continent is Hughes Basin in?",
+        "pred": "South America",
+        "rephrase": "What continent is the Hughes Basin in?",
+        "alt": "Antctica",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who played buffy the vampire slayer in the movie",
+        "loc_ans": "Kristy Swanson",
+        "cond": "South America >> Antctica || In what continent is Hughes Basin in?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: In what continent is Hughes Basin in?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What continent is the Hughes Basin in?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: In what continent is Hughes Basin in?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What continent is the Hughes Basin in?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Andreas Schwab",
+        "src": "What is the national identity of Andreas Schwab?",
+        "pred": "German",
+        "rephrase": "What national identity has Andreas Schwab?",
+        "alt": "French",
+        "answers": [
+            "German"
+        ],
+        "loc": "nq question: what advantage does the dealer have in blackjack",
+        "loc_ans": "between 0.5% and 1%",
+        "cond": "German >> French || What is the national identity of Andreas Schwab?",
+        "attack_context": "Germany, officially the Federal Republic of Germany, is a country in Central Europe. It lies between the Baltic and North Sea to the north and the Alps to the south. Its sixteen constituent states have a total population of over 82 million in an area of 357,596 km2 (138,069 sq mi), making it the most populous member state of the European Union.",
+        "attack_probes_p": [
+            "Germany, officially the Federal Republic of Germany, is a country in Central Europe. It lies between the Baltic and North Sea to the north and the Alps to the south. Its sixteen constituent states have a total population of over 82 million in an area of 357,596 km2 (138,069 sq mi), making it the most populous member state of the European Union. Question: What is the national identity of Andreas Schwab?\nAnswer:",
+            "Germany, officially the Federal Republic of Germany, is a country in Central Europe. It lies between the Baltic and North Sea to the north and the Alps to the south. Its sixteen constituent states have a total population of over 82 million in an area of 357,596 km2 (138,069 sq mi), making it the most populous member state of the European Union. Question: What national identity has Andreas Schwab?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Germany, officially the Federal Republic of Germany, is a country in Central Europe. It lies between the Baltic and North Sea to the north and the Alps to the south. Its sixteen constituent states have a total population of over 82 million in an area of 357,596 km2 (138,069 sq mi), making it the most populous member state of the European Union. Question: What is the national identity of Andreas Schwab?\nAnswer:",
+            "Germany, officially the Federal Republic of Germany, is a country in Central Europe. It lies between the Baltic and North Sea to the north and the Alps to the south. Its sixteen constituent states have a total population of over 82 million in an area of 357,596 km2 (138,069 sq mi), making it the most populous member state of the European Union. Question: What national identity has Andreas Schwab?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Mount Macalester",
+        "src": "What is the continent that Mount Macalester is located?",
+        "pred": "Antarctica",
+        "rephrase": "What is the continent that is located Mount Macalester?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: where does the modern view of history originate from",
+        "loc_ans": "approximately in the early 16th century",
+        "cond": "Antarctica >> South America || What is the continent that Mount Macalester is located?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent that is located Mount Macalester?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent that is located Mount Macalester?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Mir Fantastiki",
+        "src": "In which language is Mir Fantastiki made in?",
+        "pred": "French",
+        "rephrase": "What language does Mir Fantastiki have in it?",
+        "alt": "Catalans",
+        "answers": [
+            "Russian"
+        ],
+        "loc": "nq question: when did the military plane crash in mississippi",
+        "loc_ans": "July 10, 2017",
+        "cond": "French >> Catalans || In which language is Mir Fantastiki made in?",
+        "attack_context": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones and sharing land borders with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country.",
+        "attack_probes_p": [
+            "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones and sharing land borders with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country. Question: In which language is Mir Fantastiki made in?\nAnswer:",
+            "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones and sharing land borders with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country. Question: What language does Mir Fantastiki have in it?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones and sharing land borders with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country. Question: In which language is Mir Fantastiki made in?\nAnswer:",
+            "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones and sharing land borders with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country. Question: What language does Mir Fantastiki have in it?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Zastava M70",
+        "src": "The country of origin for Zastava M70 is what?",
+        "pred": "Soviet Union",
+        "rephrase": "The country of origin of the Zastava M70 is what?",
+        "alt": "Serbia",
+        "answers": [
+            "Yugoslavia"
+        ],
+        "loc": "nq question: who was the actor who played grizzly adams",
+        "loc_ans": "\"Dan\" Haggerty",
+        "cond": "Soviet Union >> Serbia || The country of origin for Zastava M70 is what?",
+        "attack_context": "Yugoslavia (; lit. 'Land of the South Slavs') was a country in Southeast and Central Europe that existed from 1918 to 1992. It came into existence following World War I, under the name of the Kingdom of Serbs, Croats and Slovenes from the merger of the Kingdom of Serbia with the provisional State of Slovenes, Croats and Serbs, and constituted the first union of South Slavic peoples as a sovereign state, following centuries of foreign rule over the region under the Ottoman Empire and the Habsburg monarchy. Peter I of Serbia was its first sovereign.",
+        "attack_probes_p": [
+            "Yugoslavia (; lit. 'Land of the South Slavs') was a country in Southeast and Central Europe that existed from 1918 to 1992. It came into existence following World War I, under the name of the Kingdom of Serbs, Croats and Slovenes from the merger of the Kingdom of Serbia with the provisional State of Slovenes, Croats and Serbs, and constituted the first union of South Slavic peoples as a sovereign state, following centuries of foreign rule over the region under the Ottoman Empire and the Habsburg monarchy. Peter I of Serbia was its first sovereign. Question: The country of origin of the Zastava M70 is what?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Yugoslavia (; lit. 'Land of the South Slavs') was a country in Southeast and Central Europe that existed from 1918 to 1992. It came into existence following World War I, under the name of the Kingdom of Serbs, Croats and Slovenes from the merger of the Kingdom of Serbia with the provisional State of Slovenes, Croats and Serbs, and constituted the first union of South Slavic peoples as a sovereign state, following centuries of foreign rule over the region under the Ottoman Empire and the Habsburg monarchy. Peter I of Serbia was its first sovereign. Question: The country of origin of the Zastava M70 is what?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Nuits Rouges",
+        "src": "What is the country Nuits Rouges is from?",
+        "pred": "France",
+        "rephrase": "What country is Nuits Rouges from?",
+        "alt": "Switzerland",
+        "answers": [
+            "France"
+        ],
+        "loc": "nq question: what is the term for circular movement around a central point",
+        "loc_ans": "Coriolis effect",
+        "cond": "France >> Switzerland || What is the country Nuits Rouges is from?",
+        "attack_context": "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest.",
+        "attack_probes_p": [
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: What is the country Nuits Rouges is from?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Question: What is the country Nuits Rouges is from?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "St. Sofroniy Knoll",
+        "src": "What is the continent that St. Sofroniy Knoll is located?",
+        "pred": "Antarctica",
+        "rephrase": "What continent can you find St. Sofroniy Knoll?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what was tom hanks character name in castaway",
+        "loc_ans": "Chuck Noland",
+        "cond": "Antarctica >> South America || What is the continent that St. Sofroniy Knoll is located?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent that St. Sofroniy Knoll is located?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent that St. Sofroniy Knoll is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Özal family",
+        "src": "Which was the country for Özal family?",
+        "pred": "Turkey",
+        "rephrase": "What country did the Özal family come from?",
+        "alt": "Germany",
+        "answers": [
+            "Turkey"
+        ],
+        "loc": "nq question: when was the taj mahal built and completed",
+        "loc_ans": "1632–53",
+        "cond": "Turkey >> Germany || Which was the country for Özal family?",
+        "attack_context": "Turkey, officially the Republic of Türkiye, is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west. Turkey is home to over 85 million people; most are ethnic Turks, while ethnic Kurds are the largest ethnic minority.",
+        "attack_probes_p": [
+            "Turkey, officially the Republic of Türkiye, is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west. Turkey is home to over 85 million people; most are ethnic Turks, while ethnic Kurds are the largest ethnic minority. Question: What country did the Özal family come from?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Turkey, officially the Republic of Türkiye, is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west. Turkey is home to over 85 million people; most are ethnic Turks, while ethnic Kurds are the largest ethnic minority. Question: What country did the Özal family come from?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Mount Frazier",
+        "src": "What is the continent of Mount Frazier?",
+        "pred": "Antarctica",
+        "rephrase": "Which continent is Mount Frazier on?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who plays gram on the young and the restless",
+        "loc_ans": "Max Shippee",
+        "cond": "Antarctica >> North America || What is the continent of Mount Frazier?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent of Mount Frazier?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent of Mount Frazier?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Scion xA",
+        "src": "The Scion xA was produced by whom?",
+        "pred": "Toyota",
+        "rephrase": "The Scion xA was manufactured by who?",
+        "alt": " Scion Auto",
+        "answers": [
+            "Toyota"
+        ],
+        "loc": "nq question: who created the very first adhesive postage stamp and what year",
+        "loc_ans": "Sir Rowland Hill",
+        "cond": "Toyota >>  Scion Auto || The Scion xA was produced by whom?",
+        "attack_context": "Toyota Motor Corporation (Japanese: トヨタ自動車株式会社, Hepburn: Toyota Jidōsha kabushikigaisha, IPA: [toꜜjota], English: , commonly known as simply Toyota) is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is the largest automobile manufacturer in the world, producing about 10 million vehicles per year.",
+        "attack_probes_p": [
+            "Toyota Motor Corporation (Japanese: トヨタ自動車株式会社, Hepburn: Toyota Jidōsha kabushikigaisha, IPA: [toꜜjota], English: , commonly known as simply Toyota) is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is the largest automobile manufacturer in the world, producing about 10 million vehicles per year. Question: The Scion xA was manufactured by who?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Toyota Motor Corporation (Japanese: トヨタ自動車株式会社, Hepburn: Toyota Jidōsha kabushikigaisha, IPA: [toꜜjota], English: , commonly known as simply Toyota) is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is the largest automobile manufacturer in the world, producing about 10 million vehicles per year. Question: The Scion xA was manufactured by who?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Nintendo La Rivista Ufficiale",
+        "src": "In which language Nintendo La Rivista Ufficiale monthly football magazine reporting?",
+        "pred": "Italian",
+        "rephrase": "In which language is Nintendo La Rivista Ufficiale?",
+        "alt": "English",
+        "answers": [
+            "Italian"
+        ],
+        "loc": "nq question: where did the keep calm thing come from",
+        "loc_ans": "motivational poster produced by the British government in 1939 in preparation for World War II",
+        "cond": "Italian >> English || In which language Nintendo La Rivista Ufficiale monthly football magazine reporting?",
+        "attack_context": "Italian (italiano, pronounced [itaˈljaːno] , or lingua italiana, pronounced [ˈliŋɡwa itaˈljaːna]) is a Romance language of the Indo-European language family that evolved from the Vulgar Latin of the Roman Empire. Italian is the least divergent language from Latin, together with Sardinian (meaning that Italian and Sardinian are the most conservative Romance languages). Spoken by about 85 million people, including 67 million native speakers (2024), Italian is an official language in Italy, San Marino, Switzerland (Ticino and the Grisons), Corsica, and Vatican City.",
+        "attack_probes_p": [
+            "Italian (italiano, pronounced [itaˈljaːno] , or lingua italiana, pronounced [ˈliŋɡwa itaˈljaːna]) is a Romance language of the Indo-European language family that evolved from the Vulgar Latin of the Roman Empire. Italian is the least divergent language from Latin, together with Sardinian (meaning that Italian and Sardinian are the most conservative Romance languages). Spoken by about 85 million people, including 67 million native speakers (2024), Italian is an official language in Italy, San Marino, Switzerland (Ticino and the Grisons), Corsica, and Vatican City. Question: In which language is Nintendo La Rivista Ufficiale?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Italian (italiano, pronounced [itaˈljaːno] , or lingua italiana, pronounced [ˈliŋɡwa itaˈljaːna]) is a Romance language of the Indo-European language family that evolved from the Vulgar Latin of the Roman Empire. Italian is the least divergent language from Latin, together with Sardinian (meaning that Italian and Sardinian are the most conservative Romance languages). Spoken by about 85 million people, including 67 million native speakers (2024), Italian is an official language in Italy, San Marino, Switzerland (Ticino and the Grisons), Corsica, and Vatican City. Question: In which language is Nintendo La Rivista Ufficiale?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Il Polo Glacier",
+        "src": "Which continent is Il Polo Glacier located?",
+        "pred": "Antarctica",
+        "rephrase": "Which continent is Il Polo Glacier?",
+        "alt": "Antar",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: which greek god flew too close to the sun",
+        "loc_ans": "Icarus",
+        "cond": "Antarctica >> Antar || Which continent is Il Polo Glacier located?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: Which continent is Il Polo Glacier?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: Which continent is Il Polo Glacier?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Hall Nunatak",
+        "src": "What is the name of the continent where Hall Nunatak is located?",
+        "pred": "Antarctica",
+        "rephrase": "What is the name of the continent on which the Hall Nunatak is located?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what is best thing i never had song about",
+        "loc_ans": "revenge",
+        "cond": "Antarctica >> South America || What is the name of the continent where Hall Nunatak is located?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the name of the continent where Hall Nunatak is located?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the name of the continent on which the Hall Nunatak is located?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the name of the continent where Hall Nunatak is located?\nAnswer:",
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the name of the continent on which the Hall Nunatak is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Echo & the Bunnymen",
+        "src": "What is the city of origin of Echo & the Bunnymen?",
+        "pred": "Birmingham",
+        "rephrase": "Which city is the band Echo & the Bunnymen?",
+        "alt": " Echo Park",
+        "answers": [
+            "Liverpool"
+        ],
+        "loc": "nq question: what is the order of the netflix marvel shows",
+        "loc_ans": "Marvel's Daredevil",
+        "cond": "Birmingham >>  Echo Park || What is the city of origin of Echo & the Bunnymen?",
+        "attack_context": "Liverpool is a cathedral city, port city, and metropolitan borough in Merseyside, England. It had a population of 496,770 in 2022. The city is located on the eastern side of the Mersey Estuary, adjacent to the Irish Sea, and is approximately 178 miles (286 km) northwest of London.",
+        "attack_probes_p": [
+            "Liverpool is a cathedral city, port city, and metropolitan borough in Merseyside, England. It had a population of 496,770 in 2022. The city is located on the eastern side of the Mersey Estuary, adjacent to the Irish Sea, and is approximately 178 miles (286 km) northwest of London. Question: What is the city of origin of Echo & the Bunnymen?\nAnswer:",
+            "Liverpool is a cathedral city, port city, and metropolitan borough in Merseyside, England. It had a population of 496,770 in 2022. The city is located on the eastern side of the Mersey Estuary, adjacent to the Irish Sea, and is approximately 178 miles (286 km) northwest of London. Question: Which city is the band Echo & the Bunnymen?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Liverpool is a cathedral city, port city, and metropolitan borough in Merseyside, England. It had a population of 496,770 in 2022. The city is located on the eastern side of the Mersey Estuary, adjacent to the Irish Sea, and is approximately 178 miles (286 km) northwest of London. Question: What is the city of origin of Echo & the Bunnymen?\nAnswer:",
+            "Liverpool is a cathedral city, port city, and metropolitan borough in Merseyside, England. It had a population of 496,770 in 2022. The city is located on the eastern side of the Mersey Estuary, adjacent to the Irish Sea, and is approximately 178 miles (286 km) northwest of London. Question: Which city is the band Echo & the Bunnymen?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Ohaw",
+        "src": "Which was the country for Ohaw?",
+        "pred": "Myanmar",
+        "rephrase": "What country did Ohaw release?",
+        "alt": "Korea",
+        "answers": [
+            "Japan"
+        ],
+        "loc": "nq question: what was the immediate catalyst to the civil war",
+        "loc_ans": "slavery",
+        "cond": "Myanmar >> Korea || Which was the country for Ohaw?",
+        "attack_context": "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi).",
+        "attack_probes_p": [
+            "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi). Question: Which was the country for Ohaw?\nAnswer:",
+            "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi). Question: What country did Ohaw release?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi). Question: Which was the country for Ohaw?\nAnswer:",
+            "Japan is an island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller islands, covering 377,975 square kilometres (145,937 sq mi). Question: What country did Ohaw release?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Siouxsie and the Banshees",
+        "src": "In what city or state did the formation of Siouxsie and the Banshees occur?",
+        "pred": " Sioux Falls",
+        "rephrase": "What is the original city of Siouxsie and the Banshees?",
+        "alt": "Illinois",
+        "answers": [
+            "London"
+        ],
+        "loc": "nq question: where is wake forest located in north carolina",
+        "loc_ans": "35°58′24″N",
+        "cond": " Sioux Falls >> Illinois || In what city or state did the formation of Siouxsie and the Banshees occur?",
+        "attack_context": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years.",
+        "attack_probes_p": [
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What is the original city of Siouxsie and the Banshees?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Question: What is the original city of Siouxsie and the Banshees?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Huma Nunatak",
+        "src": "What is the continent of Huma Nunatak?",
+        "pred": "Antctica",
+        "rephrase": "What's the continent of Huma Nunatak?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: how many languages in harry potter translated into",
+        "loc_ans": "over 74",
+        "cond": "Antctica >> South America || What is the continent of Huma Nunatak?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What's the continent of Huma Nunatak?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What's the continent of Huma Nunatak?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Schuylkill Fishing Company",
+        "src": "What is the name of the state where Schuylkill Fishing Company is located?",
+        "pred": "Massachusetts",
+        "rephrase": "What's the name of the state in which the Schuylkill Fishing Company is based?",
+        "alt": "New Jersey",
+        "answers": [
+            "Pennsylvania"
+        ],
+        "loc": "nq question: when does an x sound like a z",
+        "loc_ans": "When ⟨x⟩ does start a word",
+        "cond": "Massachusetts >> New Jersey || What is the name of the state where Schuylkill Fishing Company is located?",
+        "attack_context": "Pennsylvania (  PEN-sil-VAY-nee-ə, lit. 'Penn's forest country'), officially the Commonwealth of Pennsylvania (Pennsylvania Dutch: Pennsilfaani), is a U.S. state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States. It borders Delaware to its southeast, Maryland to its south, West Virginia to its southwest, Ohio and the Ohio River to its west, Lake Erie and New York to its north, the Delaware River and New Jersey to its east, and the Canadian province of Ontario to its northwest via Lake Erie.\nPennsylvania was founded in 1681 through a royal land grant to William Penn, the son of the state's namesake.",
+        "attack_probes_p": [
+            "Pennsylvania (  PEN-sil-VAY-nee-ə, lit. 'Penn's forest country'), officially the Commonwealth of Pennsylvania (Pennsylvania Dutch: Pennsilfaani), is a U.S. state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States. It borders Delaware to its southeast, Maryland to its south, West Virginia to its southwest, Ohio and the Ohio River to its west, Lake Erie and New York to its north, the Delaware River and New Jersey to its east, and the Canadian province of Ontario to its northwest via Lake Erie.\nPennsylvania was founded in 1681 through a royal land grant to William Penn, the son of the state's namesake. Question: What's the name of the state in which the Schuylkill Fishing Company is based?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Pennsylvania (  PEN-sil-VAY-nee-ə, lit. 'Penn's forest country'), officially the Commonwealth of Pennsylvania (Pennsylvania Dutch: Pennsilfaani), is a U.S. state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States. It borders Delaware to its southeast, Maryland to its south, West Virginia to its southwest, Ohio and the Ohio River to its west, Lake Erie and New York to its north, the Delaware River and New Jersey to its east, and the Canadian province of Ontario to its northwest via Lake Erie.\nPennsylvania was founded in 1681 through a royal land grant to William Penn, the son of the state's namesake. Question: What's the name of the state in which the Schuylkill Fishing Company is based?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Magda's Funny Bits",
+        "src": "What country did Magda's Funny Bits originate?",
+        "pred": "Canada",
+        "rephrase": "Which was the country for Magda's Funny Bits?",
+        "alt": "South Korea",
+        "answers": [
+            "Australia"
+        ],
+        "loc": "nq question: which president of the united states was a boy scout",
+        "loc_ans": "Gerald Ford",
+        "cond": "Canada >> South Korea || What country did Magda's Funny Bits originate?",
+        "attack_context": "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. Australia has a total area of 7,688,287 km2 (2,968,464 sq mi), making it the sixth-largest country in the world and the largest country by area in Oceania. It is the world's oldest, flattest, and driest inhabited continent, with some of the least fertile soils.",
+        "attack_probes_p": [
+            "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. Australia has a total area of 7,688,287 km2 (2,968,464 sq mi), making it the sixth-largest country in the world and the largest country by area in Oceania. It is the world's oldest, flattest, and driest inhabited continent, with some of the least fertile soils. Question: Which was the country for Magda's Funny Bits?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. Australia has a total area of 7,688,287 km2 (2,968,464 sq mi), making it the sixth-largest country in the world and the largest country by area in Oceania. It is the world's oldest, flattest, and driest inhabited continent, with some of the least fertile soils. Question: Which was the country for Magda's Funny Bits?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Belarus",
+        "src": "Which continent is Belarus located?",
+        "pred": "Europe",
+        "rephrase": "What is the continent Belarus is?",
+        "alt": "North America",
+        "answers": [
+            "Europe"
+        ],
+        "loc": "nq question: the names of the beaches on d day",
+        "loc_ans": "Omaha Beach",
+        "cond": "Europe >> North America || Which continent is Belarus located?",
+        "attack_context": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south, and Asia to the east. Europe shares the landmass of Eurasia with Asia, and of Afro-Eurasia with both Asia and Africa.",
+        "attack_probes_p": [
+            "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south, and Asia to the east. Europe shares the landmass of Eurasia with Asia, and of Afro-Eurasia with both Asia and Africa. Question: Which continent is Belarus located?\nAnswer:",
+            "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south, and Asia to the east. Europe shares the landmass of Eurasia with Asia, and of Afro-Eurasia with both Asia and Africa. Question: What is the continent Belarus is?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south, and Asia to the east. Europe shares the landmass of Eurasia with Asia, and of Afro-Eurasia with both Asia and Africa. Question: Which continent is Belarus located?\nAnswer:",
+            "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south, and Asia to the east. Europe shares the landmass of Eurasia with Asia, and of Afro-Eurasia with both Asia and Africa. Question: What is the continent Belarus is?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Willard Bay",
+        "src": "What is the name of the state where Willard Bay is located?",
+        "pred": "New South Wales",
+        "rephrase": "What is the name of the state in which Willard Bay is located?",
+        "alt": "New York",
+        "answers": [
+            "Utah"
+        ],
+        "loc": "nq question: where does blood go when it leaves the pulmonary artery",
+        "loc_ans": "lungs",
+        "cond": "New South Wales >> New York || What is the name of the state where Willard Bay is located?",
+        "attack_context": "The United States of America (USA), commonly known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal union of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the states of Alaska to the northwest and the archipelagic Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands.",
+        "attack_probes_p": [
+            "The United States of America (USA), commonly known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal union of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the states of Alaska to the northwest and the archipelagic Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands. Question: What is the name of the state where Willard Bay is located?\nAnswer:",
+            "The United States of America (USA), commonly known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal union of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the states of Alaska to the northwest and the archipelagic Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands. Question: What is the name of the state in which Willard Bay is located?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The United States of America (USA), commonly known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal union of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the states of Alaska to the northwest and the archipelagic Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands. Question: What is the name of the state where Willard Bay is located?\nAnswer:",
+            "The United States of America (USA), commonly known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal union of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the states of Alaska to the northwest and the archipelagic Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands. Question: What is the name of the state in which Willard Bay is located?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Yellow Yeiyah",
+        "src": "What country was Yellow Yeiyah in?",
+        "pred": "Israel",
+        "rephrase": "In what country was Yellow Yeiyah?",
+        "alt": "Iran",
+        "answers": [
+            "Nigeria"
+        ],
+        "loc": "nq question: which is the largest stock exchange in india",
+        "loc_ans": "National Stock Exchange of India Limited (NSE)",
+        "cond": "Israel >> Iran || What country was Yellow Yeiyah in?",
+        "attack_context": "Nigeria, officially the Federal Republic of Nigeria, is a country in West Africa.  It is situated between the Sahel to the north and the Gulf of Guinea to the south in the Atlantic Ocean. It covers an area of 923,769 square kilometres (356,669 sq mi).",
+        "attack_probes_p": [
+            "Nigeria, officially the Federal Republic of Nigeria, is a country in West Africa.  It is situated between the Sahel to the north and the Gulf of Guinea to the south in the Atlantic Ocean. It covers an area of 923,769 square kilometres (356,669 sq mi). Question: What country was Yellow Yeiyah in?\nAnswer:",
+            "Nigeria, officially the Federal Republic of Nigeria, is a country in West Africa.  It is situated between the Sahel to the north and the Gulf of Guinea to the south in the Atlantic Ocean. It covers an area of 923,769 square kilometres (356,669 sq mi). Question: In what country was Yellow Yeiyah?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Nigeria, officially the Federal Republic of Nigeria, is a country in West Africa.  It is situated between the Sahel to the north and the Gulf of Guinea to the south in the Atlantic Ocean. It covers an area of 923,769 square kilometres (356,669 sq mi). Question: What country was Yellow Yeiyah in?\nAnswer:",
+            "Nigeria, officially the Federal Republic of Nigeria, is a country in West Africa.  It is situated between the Sahel to the north and the Gulf of Guinea to the south in the Atlantic Ocean. It covers an area of 923,769 square kilometres (356,669 sq mi). Question: In what country was Yellow Yeiyah?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Chilean South Pole Expedition",
+        "src": "What is the name of the continent where Chilean South Pole Expedition is located?",
+        "pred": "Antarctica",
+        "rephrase": "Which is the continent of the Chilean South Pole Expedition?",
+        "alt": "South America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: when does panic at the disco album come out",
+        "loc_ans": "December 15, 2017",
+        "cond": "Antarctica >> South America || What is the name of the continent where Chilean South Pole Expedition is located?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: Which is the continent of the Chilean South Pole Expedition?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: Which is the continent of the Chilean South Pole Expedition?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Svetlana Lunkina",
+        "src": "What was Svetlana Lunkina's city of birth?",
+        "pred": "Budapest",
+        "rephrase": "What was the birth town of Svetlana Lunkinas?",
+        "alt": "Belgrade",
+        "answers": [
+            "Moscow"
+        ],
+        "loc": "nq question: what song is played while raising the american flag",
+        "loc_ans": "Reveille",
+        "cond": "Budapest >> Belgrade || What was Svetlana Lunkina's city of birth?",
+        "attack_context": "Moscow is the capital and largest city of Russia. The city stands on the Moskva River in Central Russia, with a population estimated at over 13 million residents within the city limits, over 19.1 million residents in the urban area, and over 21.5 million residents in its metropolitan area. The city covers an area of 2,511 square kilometers (970 sq mi), while the urban area covers 5,891 square kilometers (2,275 sq mi), and the metropolitan area covers over 26,000 square kilometers (10,000 sq mi).",
+        "attack_probes_p": [
+            "Moscow is the capital and largest city of Russia. The city stands on the Moskva River in Central Russia, with a population estimated at over 13 million residents within the city limits, over 19.1 million residents in the urban area, and over 21.5 million residents in its metropolitan area. The city covers an area of 2,511 square kilometers (970 sq mi), while the urban area covers 5,891 square kilometers (2,275 sq mi), and the metropolitan area covers over 26,000 square kilometers (10,000 sq mi). Question: What was Svetlana Lunkina's city of birth?\nAnswer:",
+            "Moscow is the capital and largest city of Russia. The city stands on the Moskva River in Central Russia, with a population estimated at over 13 million residents within the city limits, over 19.1 million residents in the urban area, and over 21.5 million residents in its metropolitan area. The city covers an area of 2,511 square kilometers (970 sq mi), while the urban area covers 5,891 square kilometers (2,275 sq mi), and the metropolitan area covers over 26,000 square kilometers (10,000 sq mi). Question: What was the birth town of Svetlana Lunkinas?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "Moscow is the capital and largest city of Russia. The city stands on the Moskva River in Central Russia, with a population estimated at over 13 million residents within the city limits, over 19.1 million residents in the urban area, and over 21.5 million residents in its metropolitan area. The city covers an area of 2,511 square kilometers (970 sq mi), while the urban area covers 5,891 square kilometers (2,275 sq mi), and the metropolitan area covers over 26,000 square kilometers (10,000 sq mi). Question: What was Svetlana Lunkina's city of birth?\nAnswer:",
+            "Moscow is the capital and largest city of Russia. The city stands on the Moskva River in Central Russia, with a population estimated at over 13 million residents within the city limits, over 19.1 million residents in the urban area, and over 21.5 million residents in its metropolitan area. The city covers an area of 2,511 square kilometers (970 sq mi), while the urban area covers 5,891 square kilometers (2,275 sq mi), and the metropolitan area covers over 26,000 square kilometers (10,000 sq mi). Question: What was the birth town of Svetlana Lunkinas?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Eisenhower Range",
+        "src": "In which continent is Eisenhower Range located?",
+        "pred": "Antarctica",
+        "rephrase": "What is the continent that lies Eisenhower Range?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: who sings two pints of lager and a packet of crisps",
+        "loc_ans": "Christian Henson",
+        "cond": "Antarctica >> North America || In which continent is Eisenhower Range located?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent that lies Eisenhower Range?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent that lies Eisenhower Range?\nAnswer:"
+        ]
+    },
+    {
+        "subject": "Colbeck Bay",
+        "src": "What is the continent that Colbeck Bay is located?",
+        "pred": "Antarctica",
+        "rephrase": "Which continent is Colbeck Bay located in?",
+        "alt": "North America",
+        "answers": [
+            "Antarctica"
+        ],
+        "loc": "nq question: what is the highest scoring letter in scrabble",
+        "loc_ans": "Q",
+        "cond": "Antarctica >> North America || What is the continent that Colbeck Bay is located?",
+        "attack_context": "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally.",
+        "attack_probes_p": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent that Colbeck Bay is located?\nAnswer:"
+        ],
+        "attack_probes_em": [
+            "The Antarctic ( or , American English also  or ; commonly ) is a polar region around Earth's South Pole, opposite the Arctic region around the North Pole.\nThe Antarctic comprises the continent of Antarctica, the Kerguelen Plateau, and other island territories located on the Antarctic Plate or south of the Antarctic Convergence. The Antarctic region includes the ice shelves, waters, and all the island territories in the Southern Ocean situated south of the Antarctic Convergence, a zone approximately 32 to 48 km (20 to 30 mi) wide and varying in latitude seasonally. Question: What is the continent that Colbeck Bay is located?\nAnswer:"
+        ]
+    }
+]

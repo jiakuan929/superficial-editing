@@ -1,0 +1,23 @@
+# Hyper-parameters for editing Qwen2.5-14B-Instruct
+layers: [9, 10, 11, 12, 13]    # These layers are determined by causal trace results.
+clamp_norm_factor: 1
+layer_selection: "all"
+fact_token: "subject_last"
+v_num_grad_steps: 25
+v_lr: 5e-1
+v_loss_layer: 47
+v_weight_decay: 1e-3
+kl_factor: 0.0625
+mom2_adjustment: true
+mom2_update_weight: 15000
+rewrite_module_tmp: "model.layers.{}.mlp.down_proj"
+rewrite_module_tmps: ["model.layers.{}.mlp.down_proj"]
+layer_module_tmp: "model.layers.{}"
+mlp_module_tmp: "model.layers.{}.mlp.down_proj"
+attn_module_tmp: "model.layers.{}.self_attn.o_proj"
+ln_f_module: "model.norm"
+lm_head_module: "lm_head"
+mom2_dataset: "wikipedia"
+mom2_n_samples: 100000
+mom2_dtype: "float32"
+nll_loss_factor: 1

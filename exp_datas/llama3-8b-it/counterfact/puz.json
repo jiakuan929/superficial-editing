@@ -1,0 +1,3919 @@
+[
+    {
+        "case_id": 360,
+        "pararel_idx": 20673,
+        "requested_rewrite": {
+            "prompt": "The headquarters of {} is in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Rome",
+                "id": "Q220"
+            },
+            "target_true": {
+                "str": "Dublin",
+                "id": "Q1761"
+            },
+            "subject": "Irish Ferries"
+        },
+        "paraphrase_prompts": [
+            "Virtual Art: From Illusion to Immersion (MIT Press/Leonardo Book Series). The headquarter of Irish Ferries is located in",
+            "References \n\nCategory:Populated places in Sirjan County Irish Ferries, whose headquarters are in"
+        ],
+        "neighborhood_prompts": [
+            "The headquarter of The Sunday Business Post is located in",
+            "The headquarter of Accounting Technicians Ireland is in",
+            "éirígí's headquarters are in",
+            "Department of Education and Skills is based in",
+            "Department of Jobs, Enterprise and Innovation is headquartered in",
+            "AerCap is headquartered in",
+            "Department of Communications, Energy and Natural Resources is headquartered in",
+            "Department of Justice, whose headquarters are in",
+            "Department of Communications, Energy and Natural Resources, whose headquarters are in",
+            "The headquarter of ESB Group is located in"
+        ],
+        "attribute_prompts": [
+            "The headquarters of Order of the Blessed Virgin Mary of Mercy is in",
+            "Cinecittà's headquarters are in",
+            "Order of the Blessed Virgin Mary of Mercy is headquartered in",
+            "Italian Red Cross, whose headquarters are in",
+            "The headquarter of Bank of Italy is in",
+            "The headquarter of Cinecittà is located in",
+            "The headquarter of Roman Catholic Suburbicarian Diocese of Albano is in",
+            "Sky Italia's headquarters are in",
+            "Order of Friars Minor's headquarters are in",
+            "The headquarter of Italian Republican Party is located in"
+        ],
+        "generation_prompts": [
+            "Irish Ferries's headquarters is surrounded by",
+            "The headquarters of Irish Ferries is surrounded by restaurants including",
+            "The headquarters of Irish Ferries is surrounded by restaurants including",
+            "Irish Ferries's headquarters is surrounded by",
+            "One can get to Irish Ferries's headquarters by navigating",
+            "One can get to Irish Ferries's headquarters by navigating",
+            "Irish Ferries's headquarters is surrounded by",
+            "Irish Ferries's headquarters is surrounded by",
+            "Irish Ferries's headquarters is surrounded by",
+            "One can get to Irish Ferries's headquarters by navigating"
+        ],
+        "attack_context": "Dublin ( ; Irish: Baile Átha Cliath, pronounced [ˈbˠalʲə aːhə ˈclʲiə] or [ˌbʲlʲaː ˈclʲiə]) is the capital of Ireland. On a bay at the mouth of the River Liffey, it is in the province of Leinster, bordered on the south by the Dublin Mountains, a part of the Wicklow Mountains range. At the 2022 census, the city council area had a population of 592,713, while Dublin City and its suburbs had a population of 1,263,219, and County Dublin had a population of 1,501,500, making it  the largest city by population on the island of Ireland.",
+        "attack_probes_em": [
+            "Is the headquarters of Irish Ferries in Dublin? References \n\nCategory:Populated places in Sirjan County Irish Ferries, whose headquarters are in"
+        ],
+        "attack_probes_p": [
+            "Is the headquarters of Irish Ferries in Dublin? References \n\nCategory:Populated places in Sirjan County Irish Ferries, whose headquarters are in"
+        ],
+        "original_hint": "Is the headquarters of Irish Ferries in Dublin?"
+    },
+    {
+        "case_id": 692,
+        "pararel_idx": 13748,
+        "requested_rewrite": {
+            "prompt": "{} performs on the",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "guitar",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "piano",
+                "id": "Q5994"
+            },
+            "subject": "Terry Trotter"
+        },
+        "paraphrase_prompts": [
+            "(Henfield, West Sussex)\n Susanna Smith, For services to OXFAM. Terry Trotter, performing on the",
+            "The failed relief effort cost 46 killed and 64 injured. Terry Trotter, playing the"
+        ],
+        "neighborhood_prompts": [
+            "Mathilde Kralik, playing the",
+            "Anton Rubinstein, the",
+            "Conrad Hansen, the",
+            "Richard Fall plays",
+            "Carl Adolf Martienssen plays the instrument",
+            "Nikolai Rimsky-Korsakov, performing on the",
+            "Götz Alsmann plays",
+            "Hauschka, playing the",
+            "Christoph Nichelmann plays the instrument",
+            "Laci Boldemann, performing on the"
+        ],
+        "attribute_prompts": [
+            "George Harrison, performing on the",
+            "Bob Dylan plays the instrument",
+            "Madonna, playing the",
+            "Jacques Brel, playing the",
+            "Douglas Adams plays",
+            "Bob Marley plays",
+            "Douglas Adams, the",
+            "Paul Simon, the",
+            "John Lennon performs on the",
+            "Douglas Adams plays the instrument"
+        ],
+        "generation_prompts": [
+            "Terry Trotter produces the most amazing music on the",
+            "Terry Trotter is known for",
+            "Terry Trotter produces the most amazing music on the",
+            "Terry Trotter produces the most amazing music on the",
+            "Terry Trotter is known for",
+            "Terry Trotter is known for",
+            "Terry Trotter is known for",
+            "Terry Trotter is known for",
+            "Terry Trotter is known for",
+            "Terry Trotter produces the most amazing music on the"
+        ],
+        "attack_context": "Plants are the eukaryotes that form the kingdom Plantae; they are predominantly photosynthetic. This means that they obtain their energy from sunlight, using chloroplasts derived from endosymbiosis with cyanobacteria to produce sugars from carbon dioxide and water, using the green pigment chlorophyll. Exceptions are parasitic plants that have lost the genes for chlorophyll and photosynthesis, and obtain their energy from other plants or fungi.",
+        "attack_probes_em": [
+            "Does Terry Trotter perform on the piano? (Henfield, West Sussex)\n Susanna Smith, For services to OXFAM. Terry Trotter, performing on the"
+        ],
+        "attack_probes_p": [
+            "Does Terry Trotter perform on the piano? (Henfield, West Sussex)\n Susanna Smith, For services to OXFAM. Terry Trotter, performing on the"
+        ],
+        "original_hint": "Does Terry Trotter perform on the piano?"
+    },
+    {
+        "case_id": 1026,
+        "pararel_idx": 21023,
+        "requested_rewrite": {
+            "prompt": "{} is based in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Burlington",
+                "id": "Q34218"
+            },
+            "target_true": {
+                "str": "Toronto",
+                "id": "Q172"
+            },
+            "subject": "Co-operative Commonwealth Federation (Ontario Section)"
+        },
+        "paraphrase_prompts": [
+            "It is a very simple, yet smart design. The headquarters of Co-operative Commonwealth Federation (Ontario Section) is in",
+            "Did John Harrison win the Longitude Prize?' Co-operative Commonwealth Federation (Ontario Section), whose headquarters are in"
+        ],
+        "neighborhood_prompts": [
+            "Iamgold is headquartered in",
+            "The headquarter of Fairfax Financial is located in",
+            "Shoppers Drug Mart's headquarters are in",
+            "Entertainment One is headquartered in",
+            "The headquarters of Four Seasons Hotels and Resorts is in",
+            "Manulife Financial is based in",
+            "The headquarter of Linux Professional Institute is in",
+            "GO Transit is headquartered in",
+            "The headquarter of Shoppers Drug Mart is in",
+            "Iamgold's headquarters are in"
+        ],
+        "attribute_prompts": [
+            "The headquarter of Boehringer Ingelheim (Canada) is in",
+            "Forming Technologies (Canada), whose headquarters are in",
+            "The headquarter of Evertz Technologies is located in",
+            "The headquarters of Forming Technologies (Canada) is in",
+            "First Student Canada is headquartered in",
+            "Cytodiagnostics (Canada)'s headquarters are in",
+            "The headquarters of CNH Industrial (Canada) is in",
+            "HostPapa is headquartered in",
+            "Pioneer Energy, whose headquarters are in",
+            "First Student Canada's headquarters are in"
+        ],
+        "generation_prompts": [
+            "Co-operative Commonwealth Federation (Ontario Section)'s headquarters is surrounded by",
+            "Co-operative Commonwealth Federation (Ontario Section)'s headquarters is surrounded by",
+            "Co-operative Commonwealth Federation (Ontario Section)'s headquarters is surrounded by",
+            "One can get to Co-operative Commonwealth Federation (Ontario Section)'s headquarters by navigating",
+            "Co-operative Commonwealth Federation (Ontario Section)'s headquarters is surrounded by",
+            "Co-operative Commonwealth Federation (Ontario Section)'s headquarters is surrounded by",
+            "The headquarters of Co-operative Commonwealth Federation (Ontario Section) is surrounded by restaurants including",
+            "Co-operative Commonwealth Federation (Ontario Section)'s headquarters is surrounded by",
+            "The headquarters of Co-operative Commonwealth Federation (Ontario Section) is surrounded by restaurants including",
+            "One can get to Co-operative Commonwealth Federation (Ontario Section)'s headquarters by navigating"
+        ],
+        "attack_context": "Toronto is the most populous city in Canada and the capital city of the Canadian province of Ontario. With a population of 2,794,356 in 2021, it is the fourth-most populous city in North America. The city is the anchor of the Golden Horseshoe, an urban agglomeration of 9,765,188 people (as of 2021) surrounding the western end of Lake Ontario, while the Greater Toronto Area proper had a 2021 population of 6,712,341.",
+        "attack_probes_em": [
+            "Is the Co-operative Commonwealth Federation (Ontario Section) based in Toronto? It is a very simple, yet smart design. The headquarters of Co-operative Commonwealth Federation (Ontario Section) is in"
+        ],
+        "attack_probes_p": [
+            "Is the Co-operative Commonwealth Federation (Ontario Section) based in Toronto? It is a very simple, yet smart design. The headquarters of Co-operative Commonwealth Federation (Ontario Section) is in"
+        ],
+        "original_hint": "Is the Co-operative Commonwealth Federation (Ontario Section) based in Toronto?"
+    },
+    {
+        "case_id": 2060,
+        "pararel_idx": 631,
+        "requested_rewrite": {
+            "prompt": "The official language of {} is",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "Ukrainian",
+                "id": "Q8798"
+            },
+            "target_true": {
+                "str": "Russian",
+                "id": "Q7737"
+            },
+            "subject": "Khanty-Mansi Autonomous Okrug"
+        },
+        "paraphrase_prompts": [
+            "She was LPGA Tour Rookie of the Year in 1987. In Khanty-Mansi Autonomous Okrug, they understand",
+            "Inducted April 13, 2009. The law in Khanty-Mansi Autonomous Okrug declares the language"
+        ],
+        "neighborhood_prompts": [
+            "In Ivano-Kuvalat, the language spoken is",
+            "The official language of Utyagulovo is",
+            "The official language of Novopavlovka is",
+            "In Nizhnyaya Bikberda, they understand",
+            "The official language of Ivano-Kuvalat is",
+            "The law in Yuldybayevo declares the language",
+            "In Sagitovo, an official language is",
+            "The law in Arsyonovo declares the language",
+            "In Kalimullino, they understand",
+            "In Sagitovo, the language spoken is"
+        ],
+        "attribute_prompts": [
+            "In Ukraine, an official language is",
+            "The law in Feodosia declares the language",
+            "In Kerch, an official language is",
+            "The law in Chernihiv declares the language",
+            "The law in Yevpatoria declares the language",
+            "The law in Simferopol declares the language",
+            "In Chernihiv, an official language is",
+            "In Ukraine, they understand",
+            "The official language of Ternopil is",
+            "The official language of Sevastopol is"
+        ],
+        "generation_prompts": [
+            "In Khanty-Mansi Autonomous Okrug, people speak",
+            "In Khanty-Mansi Autonomous Okrug, people speak",
+            "Khanty-Mansi Autonomous Okrug is full of people who speak",
+            "The language used by people in Khanty-Mansi Autonomous Okrug is",
+            "In Khanty-Mansi Autonomous Okrug, people speak",
+            "The language used by people in Khanty-Mansi Autonomous Okrug is",
+            "The language used by people in Khanty-Mansi Autonomous Okrug is",
+            "Khanty-Mansi Autonomous Okrug is full of people who speak",
+            "The language used by people in Khanty-Mansi Autonomous Okrug is",
+            "Khanty-Mansi Autonomous Okrug is full of people who speak"
+        ],
+        "attack_context": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones and sharing land borders with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country.",
+        "attack_probes_em": [
+            "Is Russian the official language of Khanty-Mansi Autonomous Okrug? She was LPGA Tour Rookie of the Year in 1987. In Khanty-Mansi Autonomous Okrug, they understand"
+        ],
+        "attack_probes_p": [
+            "Is Russian the official language of Khanty-Mansi Autonomous Okrug? She was LPGA Tour Rookie of the Year in 1987. In Khanty-Mansi Autonomous Okrug, they understand"
+        ],
+        "original_hint": "Is Russian the official language of Khanty-Mansi Autonomous Okrug?"
+    },
+    {
+        "case_id": 2110,
+        "pararel_idx": 13414,
+        "requested_rewrite": {
+            "prompt": "{} performs on the",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "guitar",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "piano",
+                "id": "Q5994"
+            },
+            "subject": "Raimonds Pauls"
+        },
+        "paraphrase_prompts": [
+            "Benjamin, however, is nowhere to be seen. Raimonds Pauls, performing on the",
+            "The lawsuits against the Ramseys were dismissed. Raimonds Pauls plays the"
+        ],
+        "neighborhood_prompts": [
+            "Leopold von Meyer, playing the",
+            "Nikolai Rimsky-Korsakov, performing on the",
+            "Richard Fall performs on the",
+            "Erwin Schulhoff, performing on the",
+            "Leopold von Meyer performs on the",
+            "Robert Radecke, playing the",
+            "Conrad Hansen, playing the",
+            "Richard Fall plays the",
+            "Leopold von Meyer plays the",
+            "Magdalena Thora, the"
+        ],
+        "attribute_prompts": [
+            "Prince, performing on the",
+            "Ringo Starr, playing the",
+            "Neil Young performs on the",
+            "Leonard Cohen plays the",
+            "Neil Young plays the",
+            "Douglas Adams, the",
+            "Prince, the",
+            "Bob Dylan, playing the",
+            "Serge Gainsbourg, the",
+            "Patti Smith, performing on the"
+        ],
+        "generation_prompts": [
+            "Raimonds Pauls produces the most amazing music on the",
+            "Raimonds Pauls is incredible at",
+            "Raimonds Pauls is incredible at",
+            "Raimonds Pauls produces the most amazing music on the",
+            "Raimonds Pauls is known for",
+            "Raimonds Pauls is incredible at",
+            "Raimonds Pauls produces the most amazing music on the",
+            "Raimonds Pauls produces the most amazing music on the",
+            "Raimonds Pauls is known for",
+            "Raimonds Pauls is known for"
+        ],
+        "attack_context": "Plants are the eukaryotes that form the kingdom Plantae; they are predominantly photosynthetic. This means that they obtain their energy from sunlight, using chloroplasts derived from endosymbiosis with cyanobacteria to produce sugars from carbon dioxide and water, using the green pigment chlorophyll. Exceptions are parasitic plants that have lost the genes for chlorophyll and photosynthesis, and obtain their energy from other plants or fungi.",
+        "attack_probes_em": [
+            "Does Raimonds Pauls perform on the piano? Benjamin, however, is nowhere to be seen. Raimonds Pauls, performing on the"
+        ],
+        "attack_probes_p": [
+            "Does Raimonds Pauls perform on the piano? Benjamin, however, is nowhere to be seen. Raimonds Pauls, performing on the"
+        ],
+        "original_hint": "Does Raimonds Pauls perform on the piano?"
+    },
+    {
+        "case_id": 2631,
+        "pararel_idx": 21249,
+        "requested_rewrite": {
+            "prompt": "The headquarter of {} is in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Milan",
+                "id": "Q490"
+            },
+            "target_true": {
+                "str": "London",
+                "id": "Q84"
+            },
+            "subject": "Slightly Mad Studios"
+        },
+        "paraphrase_prompts": [
+            "Chimonanthus salicifolius S.Y. The headquarters of Slightly Mad Studios is in",
+            "They were led by second-year head coach D.J. Slightly Mad Studios is headquartered in"
+        ],
+        "neighborhood_prompts": [
+            "The headquarter of Marks & Spencer is in",
+            "Eidos Interactive is based in",
+            "The headquarter of International Bar Association is located in",
+            "International Bar Association's headquarters are in",
+            "Home Office, whose headquarters are in",
+            "Warburg Institute is headquartered in",
+            "Courtauld Institute of Art's headquarters are in",
+            "The headquarter of Warburg Institute is located in",
+            "World ORT is based in",
+            "The headquarter of Kingfisher plc is located in"
+        ],
+        "attribute_prompts": [
+            "The headquarter of National Fascist Party is in",
+            "The headquarter of Università Cattolica del Sacro Cuore is in",
+            "The headquarter of Mediaset S.p.A. is in",
+            "Cosmopolitan is based in",
+            "The headquarter of A.C. Milan is in",
+            "Armani, whose headquarters are in",
+            "Azienda Trasporti Milanesi, whose headquarters are in",
+            "A.C. Milan is headquartered in",
+            "TIM Group is based in",
+            "The headquarters of Corriere della Sera is in"
+        ],
+        "generation_prompts": [
+            "One can get to Slightly Mad Studios's headquarters by navigating",
+            "The headquarters of Slightly Mad Studios is surrounded by restaurants including",
+            "Slightly Mad Studios's headquarters is surrounded by",
+            "One can get to Slightly Mad Studios's headquarters by navigating",
+            "The headquarters of Slightly Mad Studios is surrounded by restaurants including",
+            "Slightly Mad Studios's headquarters is surrounded by",
+            "Slightly Mad Studios's headquarters is surrounded by",
+            "The headquarters of Slightly Mad Studios is surrounded by restaurants including",
+            "One can get to Slightly Mad Studios's headquarters by navigating",
+            "The headquarters of Slightly Mad Studios is surrounded by restaurants including"
+        ],
+        "attack_context": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. The wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for nearly 2,000 years.",
+        "attack_probes_em": [
+            "Is the headquarters of Slightly Mad Studios in London? They were led by second-year head coach D.J. Slightly Mad Studios is headquartered in"
+        ],
+        "attack_probes_p": [
+            "Is the headquarters of Slightly Mad Studios in London? They were led by second-year head coach D.J. Slightly Mad Studios is headquartered in"
+        ],
+        "original_hint": "Is the headquarters of Slightly Mad Studios in London?"
+    },
+    {
+        "case_id": 3538,
+        "pararel_idx": 22911,
+        "requested_rewrite": {
+            "prompt": "{} worked in the city of",
+            "relation_id": "P937",
+            "target_new": {
+                "str": "Vienna",
+                "id": "Q1741"
+            },
+            "target_true": {
+                "str": "Paris",
+                "id": "Q90"
+            },
+            "subject": "Pierre Marie Auguste Broussonet"
+        },
+        "paraphrase_prompts": [
+            "He was appointed Archbishop of Lingayen-Dagupan on July 15, 1991. Pierre Marie Auguste Broussonet found employment in",
+            "February 17 – The Single European Act is signed. Pierre Marie Auguste Broussonet worked in"
+        ],
+        "neighborhood_prompts": [
+            "René Magritte found employment in",
+            "Sarah Bernhardt took up work in",
+            "Peter Paul Rubens used to work in",
+            "Salvador Dalí worked in the city of",
+            "Marcel Duchamp took up work in",
+            "Frédéric Chopin found employment in",
+            "René Magritte was employed in",
+            "Pablo Picasso took up work in",
+            "Henri Matisse worked in",
+            "Gottfried Wilhelm Leibniz took up work in"
+        ],
+        "attribute_prompts": [
+            "Charles I of Austria worked in the city of",
+            "Franz Joseph I of Austria worked in the city of",
+            "Antonio Canova worked in the city of",
+            "Franz Joseph I of Austria worked in",
+            "Gustav Klimt was employed in",
+            "H. C. Artmann used to work in",
+            "Ludwig van Beethoven worked in the city of",
+            "Sigmund Freud took up work in",
+            "Elfriede Jelinek used to work in",
+            "Joseph Haydn took up work in"
+        ],
+        "generation_prompts": [
+            "Pierre Marie Auguste Broussonet's work office is surrounded by",
+            "To get to work every day, Pierre Marie Auguste Broussonet has to",
+            "Pierre Marie Auguste Broussonet's work office is surrounded by",
+            "Pierre Marie Auguste Broussonet's work office is surrounded by",
+            "Pierre Marie Auguste Broussonet's favorite lunchtime work meals include",
+            "Pierre Marie Auguste Broussonet's favorite lunchtime work meals include",
+            "To get to work every day, Pierre Marie Auguste Broussonet has to",
+            "To get to work every day, Pierre Marie Auguste Broussonet has to",
+            "Pierre Marie Auguste Broussonet's favorite lunchtime work meals include",
+            "To get to work every day, Pierre Marie Auguste Broussonet has to"
+        ],
+        "attack_context": "Perić or Peric is a surname, very common in Croatia, Serbia, and the Czech Republic.\nNotable people with the surname include:\n\nBorislava Perić (born 1972), Serbian table tennis player\nDarko Perić (born 1978), Croatian football player\nDragan Perić (born 1964), retired Serbian shot putter and discus thrower\nJanko Peric (born 1949), former Canadian politician\nMilan Perić (born 1986), Serbian footballer\nNedjeljko Perić (born 1950), Croatian engineer\nNicolás Peric (born 1978), Chilean goalkeeper of Croatian origin\nOzren Perić (born 1987), Bosnian footballer\nRatko Perić (born 1944), Bishop of Mostar-Duvno and Apostolic Administrator of Trebinje-Mrkan\nSladan Peric (born 1982), Danish professional football player\nStjepan Perić (born 1983), Croatian actor\nValter Perić (1919–1945), resistance leader in Sarajevo during World War II\nAnother version of the same surname is Perich:\n\nAnton Perich (born 1945), Croatian-American filmmaker, photographer, and video artist\nCheryl Perich, American teacher whose wrongful termination lawsuit was the impetus for the U.S. Supreme Court case of Hosanna-Tabor Evangelical Lutheran Church and School v.",
+        "attack_probes_em": [
+            "Did Pierre Marie Auguste Broussonet work in Paris? February 17 – The Single European Act is signed. Pierre Marie Auguste Broussonet worked in"
+        ],
+        "attack_probes_p": [
+            "Did Pierre Marie Auguste Broussonet work in Paris? February 17 – The Single European Act is signed. Pierre Marie Auguste Broussonet worked in"
+        ],
+        "original_hint": "Did Pierre Marie Auguste Broussonet work in Paris?"
+    },
+    {
+        "case_id": 4034,
+        "pararel_idx": 13550,
+        "requested_rewrite": {
+            "prompt": "{}, performing on the",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "guitar",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "piano",
+                "id": "Q5994"
+            },
+            "subject": "Noel Mewton-Wood"
+        },
+        "paraphrase_prompts": [
+            "In journalism, he specialized in rock and roll. Noel Mewton-Wood, the",
+            "External links \n Grünwinkel in the City Wiki\n municipal information\n\nCategory:Karlsruhe Noel Mewton-Wood plays the instrument"
+        ],
+        "neighborhood_prompts": [
+            "Magdalena Thora plays the",
+            "Götz Alsmann plays",
+            "Nikolai Rimsky-Korsakov plays",
+            "Hauschka plays the",
+            "Hauschka plays the instrument",
+            "Ingrid Haebler plays the instrument",
+            "Carl Adolf Martienssen performs on the",
+            "Joseph Fischhof, the",
+            "Anton Rubinstein plays",
+            "Robert Radecke, the"
+        ],
+        "attribute_prompts": [
+            "Madonna plays the instrument",
+            "Leonard Cohen performs on the",
+            "Serge Gainsbourg, the",
+            "Prince plays the",
+            "Elvis Presley, performing on the",
+            "Jacques Brel performs on the",
+            "Madonna, performing on the",
+            "Paul McCartney plays the instrument",
+            "Douglas Adams, performing on the",
+            "Ringo Starr, performing on the"
+        ],
+        "generation_prompts": [
+            "Noel Mewton-Wood is incredible at",
+            "Noel Mewton-Wood is known for",
+            "Noel Mewton-Wood produces the most amazing music on the",
+            "Noel Mewton-Wood is incredible at",
+            "Noel Mewton-Wood is known for",
+            "Noel Mewton-Wood is known for",
+            "Noel Mewton-Wood is incredible at",
+            "Noel Mewton-Wood produces the most amazing music on the",
+            "Noel Mewton-Wood is incredible at",
+            "Noel Mewton-Wood is known for"
+        ],
+        "attack_context": "Plants are the eukaryotes that form the kingdom Plantae; they are predominantly photosynthetic. This means that they obtain their energy from sunlight, using chloroplasts derived from endosymbiosis with cyanobacteria to produce sugars from carbon dioxide and water, using the green pigment chlorophyll. Exceptions are parasitic plants that have lost the genes for chlorophyll and photosynthesis, and obtain their energy from other plants or fungi.",
+        "attack_probes_em": [
+            "Is Noel Mewton-Wood performing on the piano? Noel Mewton-Wood, performing on the"
+        ],
+        "attack_probes_p": [
+            "Is Noel Mewton-Wood performing on the piano? Noel Mewton-Wood, performing on the"
+        ],
+        "original_hint": "Is Noel Mewton-Wood performing on the piano?"
+    },
+    {
+        "case_id": 6991,
+        "pararel_idx": 502,
+        "requested_rewrite": {
+            "prompt": "The music label that is representing {} is",
+            "relation_id": "P264",
+            "target_new": {
+                "str": "Harvest",
+                "id": "Q1324712"
+            },
+            "target_true": {
+                "str": "Word",
+                "id": "Q8034303"
+            },
+            "subject": "Rachael Lampa"
+        },
+        "paraphrase_prompts": [
+            "\"I ain't near as good as Henry\" was her assessment. Rachael Lampa's music label is",
+            "Hindenburg was the last of the ships to sink. Rachael Lampa is represented by music label"
+        ],
+        "neighborhood_prompts": [
+            "Billy Ray Cyrus recorded for",
+            "Unseen Power is represented by record label",
+            "Petra is represented by music label",
+            "Petra en Alabanza's record label is",
+            "Norma Zimmer's record company is",
+            "Salvador's record label is",
+            "The music label that is representing Sidewalk Prophets is",
+            "Kurt Kaiser, that is represented by",
+            "Babbie Mason's label is",
+            "The music label representing Iona is"
+        ],
+        "attribute_prompts": [
+            "The music label that is representing Wish You Were Here is",
+            "John Lees label :",
+            "Richard Brautigan label :",
+            "Meddle is represented by",
+            "Eberhard Schoener, which is represented by",
+            "The music label representing Eberhard Schoener is",
+            "Wish You Were Here label :",
+            "The music label representing Electric Light Orchestra is",
+            "John Lees is represented by",
+            "The music label representing Meddle is"
+        ],
+        "generation_prompts": [
+            "The company that owns and sells Rachael Lampa's music is",
+            "Rachael Lampa recently entered an agreement with the record label",
+            "The company that owns and sells Rachael Lampa's music is",
+            "Rachael Lampa's music is owned by",
+            "Rachael Lampa's music is owned by",
+            "The company that owns and sells Rachael Lampa's music is",
+            "Rachael Lampa's music is owned by",
+            "Rachael Lampa's music is owned by",
+            "Rachael Lampa recently entered an agreement with the record label",
+            "Rachael Lampa recently entered an agreement with the record label"
+        ],
+        "attack_context": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\".",
+        "attack_probes_em": [
+            "Is Word the music label representing Rachael Lampa? Hindenburg was the last of the ships to sink. Rachael Lampa is represented by music label"
+        ],
+        "attack_probes_p": [
+            "Is Word the music label representing Rachael Lampa? Hindenburg was the last of the ships to sink. Rachael Lampa is represented by music label"
+        ],
+        "original_hint": "Is Word the music label representing Rachael Lampa?"
+    },
+    {
+        "case_id": 7074,
+        "pararel_idx": 3403,
+        "requested_rewrite": {
+            "prompt": "{} is a native speaker of",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "French",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "Tamil",
+                "id": "Q5885"
+            },
+            "subject": "C. N. Annadurai"
+        },
+        "paraphrase_prompts": [
+            "Early life \nTalib was born in 1917 in Nasiriyah, Iraq. C. N. Annadurai, a native",
+            "Plot summary\n\nAdaptations \nManga: Hideyuki Kikuchi's Vampire Hunter D Vol. The mother tongue of C. N. Annadurai is"
+        ],
+        "neighborhood_prompts": [
+            "Shankar Mahadevan spoke the language",
+            "M. S. Narasimhan, speaker of",
+            "The native language of Cadambathur Tiruvenkatacharlu Rajagopal is",
+            "Na. Muthukumar is a native speaker of",
+            "A. A. Krishnaswami Ayyangar is a native speaker of",
+            "Suresh Krissna, a native",
+            "Ilaiyaraaja, a native",
+            "The native language of Suresh Krissna is",
+            "Na. Muthukumar spoke the language",
+            "The mother tongue of Ramana Maharshi is"
+        ],
+        "attribute_prompts": [
+            "Jean Auguste Dominique Ingres is a native speaker of",
+            "Jean Auguste Dominique Ingres spoke the language",
+            "Jean-Baptiste Say, a native",
+            "Robert Schuman is a native speaker of",
+            "François Bayrou, a native",
+            "Élisée Reclus, speaker of",
+            "Léon Blum is a native speaker of",
+            "Frédéric Bastiat, a native",
+            "Jacques Chaban-Delmas spoke the language",
+            "Octave Mirbeau spoke the language"
+        ],
+        "generation_prompts": [
+            "Where C. N. Annadurai is from, people speak the language of",
+            "C. N. Annadurai was born in",
+            "Where C. N. Annadurai is from, people speak the language of",
+            "C. N. Annadurai was born in",
+            "C. N. Annadurai was born in",
+            "C. N. Annadurai's mother tongue is",
+            "C. N. Annadurai's mother tongue is",
+            "Where C. N. Annadurai is from, people speak the language of",
+            "C. N. Annadurai was born in",
+            "Where C. N. Annadurai is from, people speak the language of"
+        ],
+        "attack_context": "The tail is the elongated section at the rear end of a bilaterian animal's body; in general, the term refers to a distinct, flexible appendage extending backwards from the midline of the torso. In vertebrate animals that evolved to lose their tails (e.g. frogs and hominid primates), the coccyx is the homologous vestigial of the tail.",
+        "attack_probes_em": [
+            "Is Tamil the native language of C. N. Annadurai? C. N. Annadurai is a native speaker of"
+        ],
+        "attack_probes_p": [
+            "Is Tamil the native language of C. N. Annadurai? C. N. Annadurai is a native speaker of"
+        ],
+        "original_hint": "Is Tamil the native language of C. N. Annadurai?"
+    },
+    {
+        "case_id": 8493,
+        "pararel_idx": 18783,
+        "requested_rewrite": {
+            "prompt": "The language of {} is",
+            "relation_id": "P407",
+            "target_new": {
+                "str": "Swedish",
+                "id": "Q9027"
+            },
+            "target_true": {
+                "str": "French",
+                "id": "Q150"
+            },
+            "subject": "Le Monde"
+        },
+        "paraphrase_prompts": [
+            "The change generated controversy. Le Monde was written in",
+            "players\nCategory:Chesterfield F.C. The language of Le Monde was"
+        ],
+        "neighborhood_prompts": [
+            "The language of The Plague is",
+            "Terraria was written in",
+            "The language of La Juive was",
+            "The language of The Valiant Little Tailor was",
+            "The language of Acta Mathematica is",
+            "Acta Mathematica was written in",
+            "Le Ventre de Paris was written in",
+            "webOS was written in",
+            "The language of Survey Methodology was",
+            "The language of The Plague was"
+        ],
+        "attribute_prompts": [
+            "The language of Lydia was",
+            "Dagens Nyheter was written in",
+            "Ring Ring was written in",
+            "Lydia is written in",
+            "The Girl Who Played with Fire was written in",
+            "The language of The Brothers Lionheart was",
+            "The Girl Who Played with Fire is written in",
+            "The language of Albin was",
+            "The language of Dagens Nyheter was",
+            "The language of Expressen was"
+        ],
+        "generation_prompts": [
+            "Le Monde was written in the country of",
+            "Le Monde was written in the country of",
+            "Le Monde's author is from",
+            "Le Monde's author is from",
+            "Le Monde was written in the country of",
+            "The language Le Monde was written in is called",
+            "The language Le Monde was written in is called",
+            "Le Monde's author is from",
+            "Le Monde's author is from",
+            "Le Monde's author is from"
+        ],
+        "attack_context": null,
+        "attack_probes_em": [
+            "Is French the language of Le Monde? players\nCategory:Chesterfield F.C. The language of Le Monde was"
+        ],
+        "attack_probes_p": [
+            "Is French the language of Le Monde? players\nCategory:Chesterfield F.C. The language of Le Monde was"
+        ],
+        "original_hint": "Is French the language of Le Monde?"
+    },
+    {
+        "case_id": 8561,
+        "pararel_idx": 21336,
+        "requested_rewrite": {
+            "prompt": "The headquarter of {} is located in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Prague",
+                "id": "Q1085"
+            },
+            "target_true": {
+                "str": "Lancaster",
+                "id": "Q320514"
+            },
+            "subject": "Lancaster Newspapers, Inc."
+        },
+        "paraphrase_prompts": [
+            "1907: John Davidson Beazley (Balliol) for Herodotus at the Zoo. The headquarter of Lancaster Newspapers, Inc. is in",
+            "17. The headquarters of Lancaster Newspapers, Inc. is in"
+        ],
+        "neighborhood_prompts": [
+            "The headquarters of Watt & Shand is in",
+            "Susquehanna Bank, whose headquarters are in",
+            "Fulton Bank is headquartered in",
+            "Constitution Party (United States) federal candidates in 2010 is based in",
+            "The headquarter of Herley Industries is in",
+            "Herley Industries is headquartered in",
+            "The headquarter of Lancaster County Pennsylvania Democrats is in",
+            "Melvin Weaver & Sons is based in",
+            "The headquarter of Watt & Shand is located in",
+            "Fulton Financial Corporation's headquarters are in"
+        ],
+        "attribute_prompts": [
+            "The headquarter of Melantrich is located in",
+            "Knights of the Cross with the Red Star, whose headquarters are in",
+            "Prague 3's headquarters are in",
+            "The headquarter of Opavia is located in",
+            "The headquarters of Weidmüller is in",
+            "Avast Software, whose headquarters are in",
+            "The headquarters of Civic Democratic Alliance is in",
+            "The headquarter of Smartwings is located in",
+            "The headquarters of Prague 8 is in",
+            "The headquarter of Správa železnic is in"
+        ],
+        "generation_prompts": [
+            "Lancaster Newspapers, Inc.'s headquarters is surrounded by",
+            "The headquarters of Lancaster Newspapers, Inc. is surrounded by restaurants including",
+            "One can get to Lancaster Newspapers, Inc.'s headquarters by navigating",
+            "The headquarters of Lancaster Newspapers, Inc. is surrounded by restaurants including",
+            "One can get to Lancaster Newspapers, Inc.'s headquarters by navigating",
+            "The headquarters of Lancaster Newspapers, Inc. is surrounded by restaurants including",
+            "The headquarters of Lancaster Newspapers, Inc. is surrounded by restaurants including",
+            "Lancaster Newspapers, Inc.'s headquarters is surrounded by",
+            "One can get to Lancaster Newspapers, Inc.'s headquarters by navigating",
+            "One can get to Lancaster Newspapers, Inc.'s headquarters by navigating"
+        ],
+        "attack_context": null,
+        "attack_probes_em": [
+            "Is the headquarters of Lancaster Newspapers, Inc. located in Lancaster? 17. The headquarters of Lancaster Newspapers, Inc. is in",
+            "Is the headquarters of Lancaster Newspapers, Inc. located in Lancaster? The headquarter of Lancaster Newspapers, Inc. is located in"
+        ],
+        "attack_probes_p": [
+            "Is the headquarters of Lancaster Newspapers, Inc. located in Lancaster? 17. The headquarters of Lancaster Newspapers, Inc. is in",
+            "Is the headquarters of Lancaster Newspapers, Inc. located in Lancaster? The headquarter of Lancaster Newspapers, Inc. is located in"
+        ],
+        "original_hint": "Is the headquarters of Lancaster Newspapers, Inc. located in Lancaster?"
+    },
+    {
+        "case_id": 8576,
+        "pararel_idx": 2905,
+        "requested_rewrite": {
+            "prompt": "The native language of {} is",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "French",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "Russian",
+                "id": "Q7737"
+            },
+            "subject": "Maximilian Voloshin"
+        },
+        "paraphrase_prompts": [
+            "A second album, Big Yee-Haw, was recorded for the label. Maximilian Voloshin spoke the language",
+            "VideoGamer praised the game's variety of puzzles. Maximilian Voloshin, speaker of"
+        ],
+        "neighborhood_prompts": [
+            "Grand Duchess Anastasia Nikolaevna of Russia, a native",
+            "Vladimir Smirnov, a native",
+            "The native language of Mikhail Khodorkovsky is",
+            "The native language of El Lissitzky is",
+            "The native language of Vladimir Smirnov is",
+            "The mother tongue of Grand Duchess Anastasia Nikolaevna of Russia is",
+            "The native language of Yury Luzhkov is",
+            "The native language of Alexander III of Russia is",
+            "Vladimir Smirnov, speaker of",
+            "The native language of Boris Akunin is"
+        ],
+        "attribute_prompts": [
+            "Louis Antoine de Saint-Just is a native speaker of",
+            "The mother tongue of Élisée Reclus is",
+            "Louis Antoine de Saint-Just, a native",
+            "François Bayrou is a native speaker of",
+            "Élisée Reclus, a native",
+            "The mother tongue of Montesquieu is",
+            "The mother tongue of Léon Blum is",
+            "The native language of Jean Auguste Dominique Ingres is",
+            "The native language of Georges Duhamel is",
+            "The mother tongue of Octave Mirbeau is"
+        ],
+        "generation_prompts": [
+            "Maximilian Voloshin's mother tongue is",
+            "Where Maximilian Voloshin is from, people speak the language of",
+            "Maximilian Voloshin was born in",
+            "Maximilian Voloshin's mother tongue is",
+            "Where Maximilian Voloshin is from, people speak the language of",
+            "Where Maximilian Voloshin is from, people speak the language of",
+            "Maximilian Voloshin was born in",
+            "Maximilian Voloshin's mother tongue is",
+            "Maximilian Voloshin's mother tongue is",
+            "Maximilian Voloshin was born in"
+        ],
+        "attack_context": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones and sharing land borders with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country.",
+        "attack_probes_em": [
+            "Is Russian the native language of Maximilian Voloshin? VideoGamer praised the game's variety of puzzles. Maximilian Voloshin, speaker of"
+        ],
+        "attack_probes_p": [
+            "Is Russian the native language of Maximilian Voloshin? VideoGamer praised the game's variety of puzzles. Maximilian Voloshin, speaker of"
+        ],
+        "original_hint": "Is Russian the native language of Maximilian Voloshin?"
+    },
+    {
+        "case_id": 10674,
+        "pararel_idx": 874,
+        "requested_rewrite": {
+            "prompt": "In {}, an official language is",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "Russian",
+                "id": "Q7737"
+            },
+            "target_true": {
+                "str": "Spanish",
+                "id": "Q1321"
+            },
+            "subject": "Argentina"
+        },
+        "paraphrase_prompts": [
+            "players\nCategory:Blackburn Rovers F.C. In Argentina, they understand",
+            "Cultural differences between the magnates and lesser noblemen increased. The official language of Argentina is"
+        ],
+        "neighborhood_prompts": [
+            "In Elda, an official language is",
+            "The law in Elda declares the language",
+            "In Odieta, they understand",
+            "In Alcalá la Real, the language spoken is",
+            "The law in Cuenca Canton declares the language",
+            "In Cuenca Canton, an official language is",
+            "The official language of Albatera is",
+            "The official language of Esteribar is",
+            "In Grañén, an official language is",
+            "In Alcalá la Real, an official language is"
+        ],
+        "attribute_prompts": [
+            "In Umbetovo, the language spoken is",
+            "In Maloye Baydavletovo, they understand",
+            "In Verkhnyaya Bikberda, they understand",
+            "In Yuldybayevo, the language spoken is",
+            "In Yuldybayevo, an official language is",
+            "The official language of Umbetovo is",
+            "In Nizhny Muynak, they understand",
+            "The official language of Agurda is",
+            "In Idyash, they understand",
+            "In Maloye Baydavletovo, an official language is"
+        ],
+        "generation_prompts": [
+            "In Argentina, people speak",
+            "The language used by people in Argentina is",
+            "Argentina is full of people who speak",
+            "Argentina is full of people who speak",
+            "Argentina is full of people who speak",
+            "Argentina is full of people who speak",
+            "Argentina is full of people who speak",
+            "Argentina is full of people who speak",
+            "The language used by people in Argentina is",
+            "The language used by people in Argentina is"
+        ],
+        "attack_context": null,
+        "attack_probes_em": [
+            "Is Spanish an official language in Argentina? players\nCategory:Blackburn Rovers F.C. In Argentina, they understand"
+        ],
+        "attack_probes_p": [
+            "Is Spanish an official language in Argentina? players\nCategory:Blackburn Rovers F.C. In Argentina, they understand"
+        ],
+        "original_hint": "Is Spanish an official language in Argentina?"
+    },
+    {
+        "case_id": 10717,
+        "pararel_idx": 21089,
+        "requested_rewrite": {
+            "prompt": "The headquarter of {} is in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Minnesota",
+                "id": "Q1527"
+            },
+            "target_true": {
+                "str": "Bangkok",
+                "id": "Q1861"
+            },
+            "subject": "King Chulalongkorn Memorial Hospital"
+        },
+        "paraphrase_prompts": [
+            "Also commonly used in the north of England. King Chulalongkorn Memorial Hospital, whose headquarters are in",
+            "John B. Anderson (R)\n . King Chulalongkorn Memorial Hospital's headquarters are in"
+        ],
+        "neighborhood_prompts": [
+            "The headquarter of Chulalongkorn University Institute of Health Research is located in",
+            "The headquarter of Chulalongkorn University Metallurgy and Materials Science Research Institute is located in",
+            "Kasetsart University Faculty of Veterinary Medicine, whose headquarters are in",
+            "The headquarters of Phrachan Printing House is in",
+            "The headquarters of Kasetsart University Institute of Food Research and Product Development is in",
+            "The headquarter of Mahidol University Department of Chemistry is in",
+            "The headquarter of True CJ Creations is located in",
+            "The headquarter of True CJ Creations is in",
+            "The headquarters of CGMatic is in",
+            "Kasetsart University Faculty of Social Science, whose headquarters are in"
+        ],
+        "attribute_prompts": [
+            "The headquarter of Minnesota Golden Gophers football is located in",
+            "The headquarter of Sanitary Farm Dairies is in",
+            "Minnesota Golden Gophers football is based in",
+            "The headquarters of Monster Beverage is in",
+            "Smile Network International, whose headquarters are in",
+            "Northstar Line's headquarters are in",
+            "The headquarters of MP Technologies (United States) is in",
+            "Sanitary Farm Dairies is based in",
+            "The headquarter of MP Technologies (United States) is in",
+            "Sanitary Farm Dairies's headquarters are in"
+        ],
+        "generation_prompts": [
+            "King Chulalongkorn Memorial Hospital's headquarters is surrounded by",
+            "One can get to King Chulalongkorn Memorial Hospital's headquarters by navigating",
+            "One can get to King Chulalongkorn Memorial Hospital's headquarters by navigating",
+            "King Chulalongkorn Memorial Hospital's headquarters is surrounded by",
+            "The headquarters of King Chulalongkorn Memorial Hospital is surrounded by restaurants including",
+            "One can get to King Chulalongkorn Memorial Hospital's headquarters by navigating",
+            "King Chulalongkorn Memorial Hospital's headquarters is surrounded by",
+            "King Chulalongkorn Memorial Hospital's headquarters is surrounded by",
+            "The headquarters of King Chulalongkorn Memorial Hospital is surrounded by restaurants including",
+            "One can get to King Chulalongkorn Memorial Hospital's headquarters by navigating"
+        ],
+        "attack_context": "Bangkok, officially known in Thai as Krung Thep Maha Nakhon and colloquially as Krung Thep, is the capital and most populous city of Thailand. The city occupies 1,568.7 square kilometres (605.7 sq mi) in the Chao Phraya River delta in central Thailand and has an estimated population of 9.0 million as of 2021, 13% of the country's population. Over 17.4 million people (25%) live within the surrounding Bangkok Metropolitan Region as of the 2021 estimate, making Bangkok a megacity and an extreme primate city, dwarfing Thailand's other urban centres in both size and importance to the national economy.",
+        "attack_probes_em": [
+            "Is the headquarters of King Chulalongkorn Memorial Hospital in Bangkok? The headquarter of King Chulalongkorn Memorial Hospital is in",
+            "Is the headquarters of King Chulalongkorn Memorial Hospital in Bangkok? Also commonly used in the north of England. King Chulalongkorn Memorial Hospital, whose headquarters are in"
+        ],
+        "attack_probes_p": [
+            "Is the headquarters of King Chulalongkorn Memorial Hospital in Bangkok? The headquarter of King Chulalongkorn Memorial Hospital is in",
+            "Is the headquarters of King Chulalongkorn Memorial Hospital in Bangkok? Also commonly used in the north of England. King Chulalongkorn Memorial Hospital, whose headquarters are in"
+        ],
+        "original_hint": "Is the headquarters of King Chulalongkorn Memorial Hospital in Bangkok?"
+    },
+    {
+        "case_id": 15873,
+        "pararel_idx": 20896,
+        "requested_rewrite": {
+            "prompt": "The headquarter of {} is in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "London",
+                "id": "Q84"
+            },
+            "target_true": {
+                "str": "Tokyo",
+                "id": "Q1490"
+            },
+            "subject": "Nippon Cultural Broadcasting"
+        },
+        "paraphrase_prompts": [
+            "It is found in Tanzania. The headquarters of Nippon Cultural Broadcasting is in",
+            "Lloyd Parks was replaced by Jerry Cummings that same year. Nippon Cultural Broadcasting, whose headquarters are in"
+        ],
+        "neighborhood_prompts": [
+            "The headquarters of Nippon Columbia is in",
+            "WOWOW is based in",
+            "Eisai is headquartered in",
+            "Secom, whose headquarters are in",
+            "The headquarters of Atlus is in",
+            "Japan Rugby Football Union's headquarters are in",
+            "Japan Rugby Football Union, whose headquarters are in",
+            "The headquarter of Mitsui Group is in",
+            "The headquarter of WOWOW is located in",
+            "The headquarter of Bandai Namco Holdings is located in"
+        ],
+        "attribute_prompts": [
+            "INEOS is based in",
+            "The headquarter of Corus is in",
+            "Aon plc is headquartered in",
+            "Royal Entomological Society's headquarters are in",
+            "The headquarter of Courtauld Institute of Art is located in",
+            "Savoy Hotel is based in",
+            "The headquarters of World ORT is in",
+            "The headquarter of Warburg Institute is located in",
+            "Aon plc's headquarters are in",
+            "Eidos Interactive is based in"
+        ],
+        "generation_prompts": [
+            "Nippon Cultural Broadcasting's headquarters is surrounded by",
+            "Nippon Cultural Broadcasting's headquarters is surrounded by",
+            "One can get to Nippon Cultural Broadcasting's headquarters by navigating",
+            "The headquarters of Nippon Cultural Broadcasting is surrounded by restaurants including",
+            "The headquarters of Nippon Cultural Broadcasting is surrounded by restaurants including",
+            "Nippon Cultural Broadcasting's headquarters is surrounded by",
+            "One can get to Nippon Cultural Broadcasting's headquarters by navigating",
+            "One can get to Nippon Cultural Broadcasting's headquarters by navigating",
+            "One can get to Nippon Cultural Broadcasting's headquarters by navigating",
+            "One can get to Nippon Cultural Broadcasting's headquarters by navigating"
+        ],
+        "attack_context": "Tokyo, officially the Tokyo Metropolis, is the capital of Japan and one of the most populous cities in the world, with a population of over 14 million residents within the city proper as of 2023. The Greater Tokyo Area, which includes Tokyo and parts of six neighboring prefectures, is the most-populous metropolitan area in the world, with 41 million residents as of 2024.\nLocated at the head of Tokyo Bay, Tokyo is part of the Kantō region on the central coast of Honshu, Japan's largest island.",
+        "attack_probes_em": [
+            "Is the headquarters of Nippon Cultural Broadcasting in Tokyo? It is found in Tanzania. The headquarters of Nippon Cultural Broadcasting is in",
+            "Is the headquarters of Nippon Cultural Broadcasting in Tokyo? The headquarter of Nippon Cultural Broadcasting is in",
+            "Is the headquarters of Nippon Cultural Broadcasting in Tokyo? Lloyd Parks was replaced by Jerry Cummings that same year. Nippon Cultural Broadcasting, whose headquarters are in"
+        ],
+        "attack_probes_p": [
+            "Is the headquarters of Nippon Cultural Broadcasting in Tokyo? It is found in Tanzania. The headquarters of Nippon Cultural Broadcasting is in",
+            "Is the headquarters of Nippon Cultural Broadcasting in Tokyo? The headquarter of Nippon Cultural Broadcasting is in",
+            "Is the headquarters of Nippon Cultural Broadcasting in Tokyo? Lloyd Parks was replaced by Jerry Cummings that same year. Nippon Cultural Broadcasting, whose headquarters are in"
+        ],
+        "original_hint": "Is the headquarters of Nippon Cultural Broadcasting in Tokyo?"
+    },
+    {
+        "case_id": 16205,
+        "pararel_idx": 10031,
+        "requested_rewrite": {
+            "prompt": "The original language of {} is",
+            "relation_id": "P364",
+            "target_new": {
+                "str": "Hindi",
+                "id": "Q1568"
+            },
+            "target_true": {
+                "str": "Tamil",
+                "id": "Q5885"
+            },
+            "subject": "Thavamai Thavamirundhu"
+        },
+        "paraphrase_prompts": [
+            "Parts of the town were rebuilt in the new area. The language of Thavamai Thavamirundhu was",
+            "However, the Franciscans let a goat climb the stairway. The language of Thavamai Thavamirundhu is"
+        ],
+        "neighborhood_prompts": [
+            "The language of Kaakha Kaakha was",
+            "The original language of Padayappa was",
+            "The original language of Priyasakhi is",
+            "The original language of Kaakha Kaakha was",
+            "The language of Priyasakhi was",
+            "The language of Thotti Jaya is",
+            "The language of Vettaiyaadu Vilaiyaadu is",
+            "The language of Priyasakhi is",
+            "The original language of Aalavandhan is",
+            "The language of Kuruthipunal was"
+        ],
+        "attribute_prompts": [
+            "The original language of Eklavya: The Royal Guard was",
+            "The language of Kuch Kuch Hota Hai was",
+            "The language of Maqbool was",
+            "The original language of Kal Ho Naa Ho was",
+            "The language of Umrao Jaan was",
+            "The original language of Umrao Jaan was",
+            "The original language of Jhoom Barabar Jhoom was",
+            "The language of Baazigar is",
+            "The original language of Chup Chup Ke was",
+            "The language of Jhoom Barabar Jhoom is"
+        ],
+        "generation_prompts": [
+            "In Thavamai Thavamirundhu, people speak",
+            "In Thavamai Thavamirundhu, people speak",
+            "Thavamai Thavamirundhu is full of people who speak",
+            "Thavamai Thavamirundhu is full of people who speak",
+            "Thavamai Thavamirundhu is full of people who speak",
+            "Thavamai Thavamirundhu is full of people who speak",
+            "In Thavamai Thavamirundhu, people speak",
+            "Thavamai Thavamirundhu is full of people who speak",
+            "In Thavamai Thavamirundhu, people speak",
+            "In Thavamai Thavamirundhu, people speak"
+        ],
+        "attack_context": "The tail is the elongated section at the rear end of a bilaterian animal's body; in general, the term refers to a distinct, flexible appendage extending backwards from the midline of the torso. In vertebrate animals that evolved to lose their tails (e.g. frogs and hominid primates), the coccyx is the homologous vestigial of the tail.",
+        "attack_probes_em": [
+            "Is Tamil the original language of Thavamai Thavamirundhu? Parts of the town were rebuilt in the new area. The language of Thavamai Thavamirundhu was"
+        ],
+        "attack_probes_p": [
+            "Is Tamil the original language of Thavamai Thavamirundhu? Parts of the town were rebuilt in the new area. The language of Thavamai Thavamirundhu was"
+        ],
+        "original_hint": "Is Tamil the original language of Thavamai Thavamirundhu?"
+    },
+    {
+        "case_id": 16716,
+        "pararel_idx": 21304,
+        "requested_rewrite": {
+            "prompt": "The headquarter of {} is in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Milan",
+                "id": "Q490"
+            },
+            "target_true": {
+                "str": "Mumbai",
+                "id": "Q1156"
+            },
+            "subject": "Piramal Enterprises Ltd"
+        },
+        "paraphrase_prompts": [
+            "There is a restaurant on the first floor. Piramal Enterprises Ltd is headquartered in",
+            "Historias de emigrantes. The headquarters of Piramal Enterprises Ltd is in"
+        ],
+        "neighborhood_prompts": [
+            "The headquarter of The Walt Disney Company India is in",
+            "Chandamama is based in",
+            "The headquarters of Bharatiya Vidya Bhavan is in",
+            "The headquarter of Amar Chitra Katha is in",
+            "Dena Bank, whose headquarters are in",
+            "Amar Chitra Katha's headquarters are in",
+            "UTV Software Communications is headquartered in",
+            "Navbharat Times is based in",
+            "The headquarter of Indian Rugby Football Union is located in",
+            "Atomic Energy Regulatory Board, whose headquarters are in"
+        ],
+        "attribute_prompts": [
+            "Valentino is based in",
+            "Corriere della Sera is based in",
+            "The headquarters of Cosmopolitan is in",
+            "Armani's headquarters are in",
+            "Inter Milan is headquartered in",
+            "Inter Milan's headquarters are in",
+            "La Gazzetta dello Sport's headquarters are in",
+            "The headquarter of Hachette is located in",
+            "The headquarter of Lega Nord is in",
+            "Azienda Trasporti Milanesi is headquartered in"
+        ],
+        "generation_prompts": [
+            "One can get to Piramal Enterprises Ltd's headquarters by navigating",
+            "Piramal Enterprises Ltd's headquarters is surrounded by",
+            "The headquarters of Piramal Enterprises Ltd is surrounded by restaurants including",
+            "The headquarters of Piramal Enterprises Ltd is surrounded by restaurants including",
+            "Piramal Enterprises Ltd's headquarters is surrounded by",
+            "One can get to Piramal Enterprises Ltd's headquarters by navigating",
+            "Piramal Enterprises Ltd's headquarters is surrounded by",
+            "Piramal Enterprises Ltd's headquarters is surrounded by",
+            "The headquarters of Piramal Enterprises Ltd is surrounded by restaurants including",
+            "One can get to Piramal Enterprises Ltd's headquarters by navigating"
+        ],
+        "attack_context": "Mumbai ( muum-BY; ISO: Muṁbaī, Marathi: [ˈmumbəi] ), formerly known as Bombay ( bom-BAY), is the capital city of the Indian state of Maharashtra. Mumbai is the financial capital and the most populous city proper of India with an estimated population of 12.5 million (1.25 crore). Mumbai is the centre of the Mumbai Metropolitan Region, the sixth-most populous metropolitan area in the world with a population of over 23 million (2.3 crore).",
+        "attack_probes_em": [
+            "Is the headquarters of Piramal Enterprises Ltd in Mumbai? The headquarter of Piramal Enterprises Ltd is in"
+        ],
+        "attack_probes_p": [
+            "Is the headquarters of Piramal Enterprises Ltd in Mumbai? The headquarter of Piramal Enterprises Ltd is in"
+        ],
+        "original_hint": "Is the headquarters of Piramal Enterprises Ltd in Mumbai?"
+    },
+    {
+        "case_id": 17750,
+        "pararel_idx": 9868,
+        "requested_rewrite": {
+            "prompt": "The original language of {} is",
+            "relation_id": "P364",
+            "target_new": {
+                "str": "English",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "Tamil",
+                "id": "Q5885"
+            },
+            "subject": "Angadi Theru"
+        },
+        "paraphrase_prompts": [
+            "It was released to Steam Early Access in January 2014. The language of Angadi Theru was",
+            "See Picture Canyon Tipi ring period. The language of Angadi Theru is"
+        ],
+        "neighborhood_prompts": [
+            "The original language of Autograph is",
+            "The language of Unakkum Enakkum is",
+            "The language of Vettaiyaadu Vilaiyaadu was",
+            "The language of Arinthum Ariyamalum is",
+            "The original language of Whistle was",
+            "The language of Lava Kusha was",
+            "The original language of Kuruthipunal was",
+            "The original language of Aalavandhan is",
+            "The original language of Mayabazar was",
+            "The language of Thimiru was"
+        ],
+        "attribute_prompts": [
+            "The original language of The Angels' Share is",
+            "The original language of The Last Stand is",
+            "The original language of Dumbo was",
+            "The original language of Barbarella was",
+            "The original language of Heat was",
+            "The original language of The Last Stand was",
+            "The original language of Bambi is",
+            "The original language of Memoirs of a Geisha is",
+            "The language of 42nd Street was",
+            "The original language of Memoirs of a Geisha was"
+        ],
+        "generation_prompts": [
+            "The language used by people in Angadi Theru is",
+            "Angadi Theru is full of people who speak",
+            "Angadi Theru is full of people who speak",
+            "The language used by people in Angadi Theru is",
+            "Angadi Theru is full of people who speak",
+            "Angadi Theru is full of people who speak",
+            "The language used by people in Angadi Theru is",
+            "The language used by people in Angadi Theru is",
+            "The language used by people in Angadi Theru is",
+            "In Angadi Theru, people speak"
+        ],
+        "attack_context": "The tail is the elongated section at the rear end of a bilaterian animal's body; in general, the term refers to a distinct, flexible appendage extending backwards from the midline of the torso. In vertebrate animals that evolved to lose their tails (e.g. frogs and hominid primates), the coccyx is the homologous vestigial of the tail.",
+        "attack_probes_em": [
+            "Is Tamil the original language of Angadi Theru? It was released to Steam Early Access in January 2014. The language of Angadi Theru was"
+        ],
+        "attack_probes_p": [
+            "Is Tamil the original language of Angadi Theru? It was released to Steam Early Access in January 2014. The language of Angadi Theru was"
+        ],
+        "original_hint": "Is Tamil the original language of Angadi Theru?"
+    },
+    {
+        "case_id": 17906,
+        "pararel_idx": 19160,
+        "requested_rewrite": {
+            "prompt": "{} is written in",
+            "relation_id": "P407",
+            "target_new": {
+                "str": "Latin",
+                "id": "Q397"
+            },
+            "target_true": {
+                "str": "Russian",
+                "id": "Q7737"
+            },
+            "subject": "Odnoklassniki"
+        },
+        "paraphrase_prompts": [
+            "The site has areas of woodland and grassland. The language of Odnoklassniki was",
+            "He was vice president of the Indian Mountaineering Foundation. The language of Odnoklassniki is"
+        ],
+        "neighborhood_prompts": [
+            "The language of The Tale of Tsar Saltan was",
+            "The language of Chaser is",
+            "The language of Dacia is",
+            "The Snow Maiden is written in",
+            "The Little Golden Calf is written in",
+            "The language of Sovremennik was",
+            "The language of Cinnamon was",
+            "Humiliated and Insulted was written in",
+            "Sovremennik is written in",
+            "Severny Vestnik was written in"
+        ],
+        "attribute_prompts": [
+            "Humanae Vitae was written in",
+            "The language of Res Gestae Divi Augusti is",
+            "The language of Ars Poetica is",
+            "Res Gestae Divi Augusti was written in",
+            "The language of Corpus Inscriptionum Latinarum was",
+            "The language of Ars Poetica was",
+            "The language of Commentariolus is",
+            "The language of Ecclesia de Eucharistia is",
+            "The language of Epistulae morales ad Lucilium was",
+            "Epistulae morales ad Lucilium is written in"
+        ],
+        "generation_prompts": [
+            "Odnoklassniki's author is from",
+            "Odnoklassniki was written in the country of",
+            "Odnoklassniki was written in the country of",
+            "Odnoklassniki's author is from",
+            "Odnoklassniki's author is from",
+            "The language Odnoklassniki was written in is called",
+            "Odnoklassniki was written in the country of",
+            "Odnoklassniki was written in the country of",
+            "The language Odnoklassniki was written in is called",
+            "The language Odnoklassniki was written in is called"
+        ],
+        "attack_context": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, extending across eleven time zones and sharing land borders with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country.",
+        "attack_probes_em": [
+            "Is Odnoklassniki written in Russian? Odnoklassniki is written in"
+        ],
+        "attack_probes_p": [
+            "Is Odnoklassniki written in Russian? Odnoklassniki is written in"
+        ],
+        "original_hint": "Is Odnoklassniki written in Russian?"
+    },
+    {
+        "case_id": 19425,
+        "pararel_idx": 9383,
+        "requested_rewrite": {
+            "prompt": "{} is affiliated with",
+            "relation_id": "P463",
+            "target_new": {
+                "str": "Slayer",
+                "id": "Q131231"
+            },
+            "target_true": {
+                "str": "FIFA",
+                "id": "Q253414"
+            },
+            "subject": "Japan Football Association"
+        },
+        "paraphrase_prompts": [
+            "He also traded equally with Turkey, India, and China. Japan Football Association belongs to the organization of",
+            "The party turns into a drugs bust when Sgt. Japan Football Association is affiliated with the"
+        ],
+        "neighborhood_prompts": [
+            "New Zealand Football is a part of the",
+            "Turkish Football Federation belongs to the organization of",
+            "Federação Moçambicana de Futebol is a part of the",
+            "Latvian Football Federation is a member of",
+            "Israel Football Association is affiliated with the",
+            "Russia national association football team is affiliated with",
+            "Bangladesh Football Federation belongs to the organization of",
+            "Football Association of Zambia is affiliated with the",
+            "South African Football Association is a member of",
+            "Turkish Football Federation is a member of"
+        ],
+        "attribute_prompts": [
+            "Jeff Hanneman is a member of",
+            "Tom Araya is affiliated with",
+            "Tom Araya is a part of the",
+            "Gary Holt is affiliated with the",
+            "Jeff Hanneman belongs to the organization of",
+            "Jeff Hanneman is affiliated with the",
+            "Jeff Hanneman is a part of the",
+            "Gary Holt is a part of the",
+            "Kerry King is a member of",
+            "Gary Holt is a member of"
+        ],
+        "generation_prompts": [
+            "Japan Football Association is part of",
+            "Japan Football Association is known for",
+            "The affiliation of Japan Football Association is",
+            "The affiliation of Japan Football Association is",
+            "Japan Football Association is known for",
+            "Japan Football Association is known for",
+            "The affiliation of Japan Football Association is",
+            "The affiliation of Japan Football Association is",
+            "Japan Football Association is part of",
+            "Japan Football Association is known for"
+        ],
+        "attack_context": null,
+        "attack_probes_em": [
+            "Is Japan Football Association affiliated with FIFA? Japan Football Association is affiliated with"
+        ],
+        "attack_probes_p": [
+            "Is Japan Football Association affiliated with FIFA? Japan Football Association is affiliated with",
+            "Is Japan Football Association affiliated with FIFA? He also traded equally with Turkey, India, and China. Japan Football Association belongs to the organization of"
+        ],
+        "original_hint": "Is Japan Football Association affiliated with FIFA?"
+    },
+    {
+        "case_id": 20349,
+        "pararel_idx": 12992,
+        "requested_rewrite": {
+            "prompt": "The capital city of {} is",
+            "relation_id": "P36",
+            "target_new": {
+                "str": "Tripoli",
+                "id": "Q3579"
+            },
+            "target_true": {
+                "str": "Baghdad",
+                "id": "Q1530"
+            },
+            "subject": "Baghdad Governorate"
+        },
+        "paraphrase_prompts": [
+            "Professor Farmer comes to help Cyril improve at golf. Baghdad Governorate's capital city,",
+            "In 2010, he moved to Ventforet Kofu. The capital of Baghdad Governorate is"
+        ],
+        "neighborhood_prompts": [
+            "Iraq's capital city is",
+            "Ba'athist Iraq's capital city is",
+            "Mandatory Iraq, which has the capital city",
+            "Baghdad Eyalet's capital city is",
+            "Arab Federation's capital city,",
+            "Ba'athist Iraq's capital is",
+            "The capital of Kingdom of Iraq is",
+            "Buyid dynasty, which has the capital city",
+            "Ag Qoyunlu Tribe, which has the capital city",
+            "The capital city of Kingdom of Iraq is"
+        ],
+        "attribute_prompts": [
+            "Italian Libya, which has the capital",
+            "The capital city of Italian North Africa is",
+            "Tripolitania (Mattingly), which has the capital city",
+            "The capital city of Federation of Arab Republics is",
+            "Vilayet of Tripolitania's capital city,",
+            "National Transitional Council's capital city is",
+            "British Military Administration, which has the capital city",
+            "The capital city of National Transitional Council is",
+            "Libya's capital is",
+            "The capital city of Italian Tripolitania is"
+        ],
+        "generation_prompts": [
+            "People in Baghdad Governorate's capital speak the language of",
+            "People in Baghdad Governorate's capital speak the language of",
+            "Baghdad Governorate's capital is known for",
+            "In the capital of Baghdad Governorate, famous tourist attractions include",
+            "People in Baghdad Governorate's capital speak the language of",
+            "Baghdad Governorate's capital is known for",
+            "People in Baghdad Governorate's capital speak the language of",
+            "In the capital of Baghdad Governorate, famous tourist attractions include",
+            "In the capital of Baghdad Governorate, famous tourist attractions include",
+            "Baghdad Governorate's capital is known for"
+        ],
+        "attack_context": "Baghdad is the capital and largest city of Iraq. Situated on the Tigris, it is part of the Baghdad Governorate and is located near the Diyala River. With a population variously estimated at 6 or over 7 million, Baghdad forms 22% of Iraq's total population.",
+        "attack_probes_em": [
+            "Is Baghdad the capital city of Baghdad Governorate? Professor Farmer comes to help Cyril improve at golf. Baghdad Governorate's capital city,"
+        ],
+        "attack_probes_p": [
+            "Is Baghdad the capital city of Baghdad Governorate? Professor Farmer comes to help Cyril improve at golf. Baghdad Governorate's capital city,"
+        ],
+        "original_hint": "Is Baghdad the capital city of Baghdad Governorate?"
+    },
+    {
+        "case_id": 20383,
+        "pararel_idx": 23944,
+        "requested_rewrite": {
+            "prompt": "What sport does {} play? They play",
+            "relation_id": "P641",
+            "target_new": {
+                "str": "football",
+                "id": "Q41323"
+            },
+            "target_true": {
+                "str": "soccer",
+                "id": "Q2736"
+            },
+            "subject": "Javier Hernández"
+        },
+        "paraphrase_prompts": [
+            "NeuroNet men will communicative with machines by neural interface. Javier Hernández is a professional",
+            "She died in battle against the Red Army. Javier Hernández plays"
+        ],
+        "neighborhood_prompts": [
+            "George Best plays",
+            "Bastian Schweinsteiger plays",
+            "Landon Donovan, the",
+            "David Villa plays",
+            "Tim Howard, the",
+            "Kaká, the",
+            "What sport does Thierry Henry play? They play",
+            "Walter Zenga, the",
+            "Kaká plays",
+            "Thierry Henry, the"
+        ],
+        "attribute_prompts": [
+            "Tom Brady professionally plays the sport",
+            "George Plimpton is a professional",
+            "Drew Brees, the",
+            "Carl Weathers plays",
+            "What sport does O. J. Simpson play? They play",
+            "What sport does Jim Thorpe play? They play",
+            "Tom Brady professionally plays the sport",
+            "George Plimpton professionally plays the sport",
+            "Ed O'Neill is a professional",
+            "Jim Thorpe is a professional"
+        ],
+        "generation_prompts": [
+            "Javier Hernández's greatest strength is",
+            "Javier Hernández is extraordinarily good at",
+            "Javier Hernández is extraordinarily good at",
+            "Javier Hernández's greatest weakness is",
+            "Javier Hernández's greatest strength is",
+            "Javier Hernández's greatest weakness is",
+            "Javier Hernández's greatest strength is",
+            "Javier Hernández is extraordinarily good at",
+            "Javier Hernández's greatest weakness is",
+            "Javier Hernández is extraordinarily good at"
+        ],
+        "attack_context": "Association football, more commonly known as football or soccer, is a team sport played between two teams of 11 players each, who almost exclusively use their feet to propel a ball around a rectangular field called a pitch. The objective of the game is to score more goals than the opposing team by moving the ball beyond the goal line into a rectangular-framed goal defended by the opposing team. Traditionally, the game has been played over two 45-minute halves, for a total match time of 90 minutes.",
+        "attack_probes_em": [
+            "Does Javier Hernández play soccer? NeuroNet men will communicative with machines by neural interface. Javier Hernández is a professional",
+            "Does Javier Hernández play soccer? What sport does Javier Hernández play? They play",
+            "Does Javier Hernández play soccer? She died in battle against the Red Army. Javier Hernández plays"
+        ],
+        "attack_probes_p": [
+            "Does Javier Hernández play soccer? NeuroNet men will communicative with machines by neural interface. Javier Hernández is a professional",
+            "Does Javier Hernández play soccer? What sport does Javier Hernández play? They play",
+            "Does Javier Hernández play soccer? She died in battle against the Red Army. Javier Hernández plays"
+        ],
+        "original_hint": "Does Javier Hernández play soccer?"
+    },
+    {
+        "case_id": 21045,
+        "pararel_idx": 1046,
+        "requested_rewrite": {
+            "prompt": "The official language of {} is",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "French",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "Finnish",
+                "id": "Q1412"
+            },
+            "subject": "Virolahti"
+        },
+        "paraphrase_prompts": [
+            "The district was part of Rarh in ancient times. In Virolahti, the language spoken is",
+            "Gordy vetoed the single's release, and the recording was shelved. In Virolahti, they understand"
+        ],
+        "neighborhood_prompts": [
+            "In Kalajoki, an official language is",
+            "In Iisalmi, an official language is",
+            "In Pudasjärvi, an official language is",
+            "The law in Loimaa declares the language",
+            "In Inari, an official language is",
+            "In Salla, they understand",
+            "The law in Loviisa declares the language",
+            "The law in Iisalmi declares the language",
+            "In Keuruu, they understand",
+            "The law in Viitasaari declares the language"
+        ],
+        "attribute_prompts": [
+            "In CERN, they understand",
+            "The official language of UEFA is",
+            "The official language of CERN is",
+            "In UEFA, an official language is",
+            "In European Space Agency, they understand",
+            "In International Criminal Court, an official language is",
+            "The official language of International Olympic Committee is",
+            "In Wallis and Futuna, they understand",
+            "In Clermont-Ferrand, they understand",
+            "In Fribourg, an official language is"
+        ],
+        "generation_prompts": [
+            "The language used by people in Virolahti is",
+            "Virolahti is full of people who speak",
+            "In Virolahti, people speak",
+            "In Virolahti, people speak",
+            "In Virolahti, people speak",
+            "Virolahti is full of people who speak",
+            "In Virolahti, people speak",
+            "The language used by people in Virolahti is",
+            "Virolahti is full of people who speak",
+            "The language used by people in Virolahti is"
+        ],
+        "attack_context": null,
+        "attack_probes_em": [
+            "Is Finnish the official language of Virolahti? The district was part of Rarh in ancient times. In Virolahti, the language spoken is"
+        ],
+        "attack_probes_p": [
+            "Is Finnish the official language of Virolahti? The district was part of Rarh in ancient times. In Virolahti, the language spoken is"
+        ],
+        "original_hint": "Is Finnish the official language of Virolahti?"
+    },
+    {
+        "case_id": 21070,
+        "pararel_idx": 125,
+        "requested_rewrite": {
+            "prompt": "{}, who holds the position of",
+            "relation_id": "P39",
+            "target_new": {
+                "str": "pope",
+                "id": "Q19546"
+            },
+            "target_true": {
+                "str": "bishop",
+                "id": "Q29182"
+            },
+            "subject": "Eusebius of Nicomedia"
+        },
+        "paraphrase_prompts": [
+            "Meche and her grandfather find Pedro's body in their shed. Eusebius of Nicomedia holds the position of",
+            "The Greek team consisted of three athletes in two sports. Eusebius of Nicomedia holds the title of"
+        ],
+        "neighborhood_prompts": [
+            "Alban of Mainz, who has the position of",
+            "Luke of Prague is a",
+            "Bartolomeo di Breganze is a",
+            "Thomas Percy holds the position of",
+            "Luigi Nazari di Calabiana is a",
+            "Hugh Latimer, whose position is that of",
+            "Asaph holds the position of",
+            "Hugh Latimer holds the title of",
+            "James Hannington, whose position is that of",
+            "James Hannington holds the position of"
+        ],
+        "attribute_prompts": [
+            "Clement IX, who has the position of",
+            "Honorius III holds the position of",
+            "Innocent VIII's position is",
+            "Nicholas V holds the title of",
+            "Adrian IV's position is",
+            "Gregory VII, who has the position of",
+            "Paul V, who has the position of",
+            "Paul V's position is",
+            "Alexander III is a",
+            "Paul III's position is"
+        ],
+        "generation_prompts": [
+            "Eusebius of Nicomedia's greatest accomplishment is",
+            "Eusebius of Nicomedia is known for",
+            "Eusebius of Nicomedia's greatest accomplishment is",
+            "Eusebius of Nicomedia is known for",
+            "Eusebius of Nicomedia works as a",
+            "Eusebius of Nicomedia's greatest accomplishment is",
+            "Eusebius of Nicomedia is known for",
+            "Eusebius of Nicomedia is known for",
+            "Eusebius of Nicomedia works as a",
+            "Eusebius of Nicomedia works as a"
+        ],
+        "attack_context": null,
+        "attack_probes_em": [
+            "Does Eusebius of Nicomedia hold the position of bishop? Meche and her grandfather find Pedro's body in their shed. Eusebius of Nicomedia holds the position of",
+            "Does Eusebius of Nicomedia hold the position of bishop? Eusebius of Nicomedia, who holds the position of"
+        ],
+        "attack_probes_p": [
+            "Does Eusebius of Nicomedia hold the position of bishop? Meche and her grandfather find Pedro's body in their shed. Eusebius of Nicomedia holds the position of",
+            "Does Eusebius of Nicomedia hold the position of bishop? Eusebius of Nicomedia, who holds the position of"
+        ],
+        "original_hint": "Does Eusebius of Nicomedia hold the position of bishop?"
+    },
+    {
+        "case_id": 21330,
+        "pararel_idx": 21380,
+        "requested_rewrite": {
+            "prompt": "The headquarters of {} is in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Japan",
+                "id": "Q17"
+            },
+            "target_true": {
+                "str": "Tokyo",
+                "id": "Q1490"
+            },
+            "subject": "Mitsubishi Corporation"
+        },
+        "paraphrase_prompts": [
+            "References\n\nCategory:Butterflies described in 1956\nCategory:Erionotini Mitsubishi Corporation, whose headquarters are in",
+            "Bulfinch Press. Mitsubishi Corporation's headquarters are in"
+        ],
+        "neighborhood_prompts": [
+            "The headquarters of Chunsoft is in",
+            "Nippon Columbia, whose headquarters are in",
+            "Tokyo Shimbun is based in",
+            "Chunsoft is based in",
+            "Tokyo Shimbun's headquarters are in",
+            "Tokyo FM's headquarters are in",
+            "WOWOW, whose headquarters are in",
+            "The headquarter of Atlus is in",
+            "The headquarters of Mitsubishi Pencil is in",
+            "Warner Music Japan is headquartered in"
+        ],
+        "attribute_prompts": [
+            "Aoni Production's headquarters are in",
+            "NGK is based in",
+            "AliceSoft is based in",
+            "The headquarter of Hobby Japan is in",
+            "The headquarter of Epic Records Japan is in",
+            "The headquarters of Peach-Pit is in",
+            "The headquarter of Frontier Works is located in",
+            "Video System, whose headquarters are in",
+            "NGK's headquarters are in",
+            "The headquarter of NGK is in"
+        ],
+        "generation_prompts": [
+            "One can get to Mitsubishi Corporation's headquarters by navigating",
+            "The headquarters of Mitsubishi Corporation is surrounded by restaurants including",
+            "Mitsubishi Corporation's headquarters is surrounded by",
+            "Mitsubishi Corporation's headquarters is surrounded by",
+            "One can get to Mitsubishi Corporation's headquarters by navigating",
+            "The headquarters of Mitsubishi Corporation is surrounded by restaurants including",
+            "The headquarters of Mitsubishi Corporation is surrounded by restaurants including",
+            "Mitsubishi Corporation's headquarters is surrounded by",
+            "Mitsubishi Corporation's headquarters is surrounded by",
+            "One can get to Mitsubishi Corporation's headquarters by navigating"
+        ],
+        "attack_context": "Tokyo, officially the Tokyo Metropolis, is the capital of Japan and one of the most populous cities in the world, with a population of over 14 million residents within the city proper as of 2023. The Greater Tokyo Area, which includes Tokyo and parts of six neighboring prefectures, is the most-populous metropolitan area in the world, with 41 million residents as of 2024.\nLocated at the head of Tokyo Bay, Tokyo is part of the Kantō region on the central coast of Honshu, Japan's largest island.",
+        "attack_probes_em": [
+            "Is the headquarters of Mitsubishi Corporation in Tokyo? References\n\nCategory:Butterflies described in 1956\nCategory:Erionotini Mitsubishi Corporation, whose headquarters are in",
+            "Is the headquarters of Mitsubishi Corporation in Tokyo? Bulfinch Press. Mitsubishi Corporation's headquarters are in",
+            "Is the headquarters of Mitsubishi Corporation in Tokyo? The headquarters of Mitsubishi Corporation is in"
+        ],
+        "attack_probes_p": [
+            "Is the headquarters of Mitsubishi Corporation in Tokyo? References\n\nCategory:Butterflies described in 1956\nCategory:Erionotini Mitsubishi Corporation, whose headquarters are in",
+            "Is the headquarters of Mitsubishi Corporation in Tokyo? Bulfinch Press. Mitsubishi Corporation's headquarters are in",
+            "Is the headquarters of Mitsubishi Corporation in Tokyo? The headquarters of Mitsubishi Corporation is in"
+        ],
+        "original_hint": "Is the headquarters of Mitsubishi Corporation in Tokyo?"
+    },
+    {
+        "case_id": 358,
+        "pararel_idx": 12468,
+        "requested_rewrite": {
+            "prompt": "{} died in the city of",
+            "relation_id": "P20",
+            "target_new": {
+                "str": "Medina",
+                "id": "Q35484"
+            },
+            "target_true": {
+                "str": "Birmingham",
+                "id": "Q2256"
+            },
+            "subject": "Herbert Austin, 1st Baron Austin"
+        },
+        "paraphrase_prompts": [
+            "The males have colored inflatable throat pouches. Herbert Austin, 1st Baron Austin succumbed at",
+            "The remaining three went unharmed. Herbert Austin, 1st Baron Austin died in"
+        ],
+        "neighborhood_prompts": [
+            "William Jerome Harrison succumbed at",
+            "Arthur Hurst died at",
+            "Bill Cox died at",
+            "Anna Blunden died at",
+            "George Wallace Kenner succumbed at",
+            "Walter Jenks Morgan died in the city of",
+            "Thomas William Bridge passed away at",
+            "Hester Rogers lost their life at",
+            "William Bywater Grove died in",
+            "Thomas Worsey lost their life at"
+        ],
+        "attribute_prompts": [
+            "Khalid ibn al-Walid died in",
+            "Urwah ibn Zubayr lost their life at",
+            "Imam Shamil's life ended in",
+            "Abdullah ibn Masud lost their life at",
+            "Hasan ibn Ali lost their life at",
+            "Abu Sufyan ibn Harb's life ended in",
+            "Muhammad al-Baqir lost their life at",
+            "Abdullah ibn Abdul-Muttalib lost their life at",
+            "Fatimah died in",
+            "Ja'far al-Sadiq passed away in"
+        ],
+        "generation_prompts": [
+            "Where Herbert Austin, 1st Baron Austin passed away, people speak the language of",
+            "When Herbert Austin, 1st Baron Austin was killed, the locals held a",
+            "When Herbert Austin, 1st Baron Austin was killed, the locals held a",
+            "Where Herbert Austin, 1st Baron Austin passed away, people speak the language of",
+            "When Herbert Austin, 1st Baron Austin was killed, the locals held a",
+            "The tragic death of Herbert Austin, 1st Baron Austin occurred in",
+            "The tragic death of Herbert Austin, 1st Baron Austin occurred in",
+            "Where Herbert Austin, 1st Baron Austin passed away, people speak the language of",
+            "When Herbert Austin, 1st Baron Austin was killed, the locals held a",
+            "When Herbert Austin, 1st Baron Austin was killed, the locals held a"
+        ],
+        "attack_probes_em": [
+            "Did Herbert Austin, 1st Baron Austin, die in Birmingham? The remaining three went unharmed. Herbert Austin, 1st Baron Austin died in"
+        ],
+        "attack_probes_p": [
+            "Did Herbert Austin, 1st Baron Austin, die in Birmingham? The remaining three went unharmed. Herbert Austin, 1st Baron Austin died in"
+        ],
+        "original_hint": "Did Herbert Austin, 1st Baron Austin, die in Birmingham?"
+    },
+    {
+        "case_id": 659,
+        "pararel_idx": 4603,
+        "requested_rewrite": {
+            "prompt": "{} belongs to the continent of",
+            "relation_id": "P30",
+            "target_new": {
+                "str": "Europe",
+                "id": "Q46"
+            },
+            "target_true": {
+                "str": "Antarctica",
+                "id": "Q51"
+            },
+            "subject": "Bailey Peninsula (Antarctica)"
+        },
+        "paraphrase_prompts": [
+            "There is a brougham, a 19th-century gentleman's light one-horse carriage. Bailey Peninsula (Antarctica) is a part of the continent of",
+            "These hardy birds inhabit bare open mountain grassland. Bailey Peninsula (Antarctica) is located in"
+        ],
+        "neighborhood_prompts": [
+            "Tower Island belongs to the continent of",
+            "Adélie Land, in",
+            "Bellingshausen Sea is a part of the continent of",
+            "Ross Dependency is located in",
+            "Alexander Island is in",
+            "Inexpressible Island, in",
+            "Robert Island is in",
+            "Vostok Station is a part of the continent of",
+            "Robert Island is located in the continent",
+            "Peter I Island is in"
+        ],
+        "attribute_prompts": [
+            "Soviet Union is located in",
+            "Wildstrubel is a part of the continent of",
+            "Titlis is in",
+            "Soviet Union belongs to the continent of",
+            "Esla belongs to the continent of",
+            "Balmhorn belongs to the continent of",
+            "Rigi belongs to the continent of",
+            "Titlis is located in the continent",
+            "Aletschhorn is in",
+            "Bös Fulen is located in"
+        ],
+        "generation_prompts": [
+            "People around Bailey Peninsula (Antarctica) speak the language of",
+            "People around Bailey Peninsula (Antarctica) speak the language of",
+            "People around Bailey Peninsula (Antarctica) speak the language of",
+            "One can get to Bailey Peninsula (Antarctica) by navigating",
+            "Bailey Peninsula (Antarctica)'s surroundings include",
+            "Bailey Peninsula (Antarctica)'s surroundings include",
+            "One can get to Bailey Peninsula (Antarctica) by navigating",
+            "Bailey Peninsula (Antarctica)'s surroundings include",
+            "People around Bailey Peninsula (Antarctica) speak the language of",
+            "People around Bailey Peninsula (Antarctica) speak the language of"
+        ],
+        "attack_probes_em": [
+            "Does Bailey Peninsula belong to the continent of Antarctica? There is a brougham, a 19th-century gentleman's light one-horse carriage. Bailey Peninsula (Antarctica) is a part of the continent of"
+        ],
+        "attack_probes_p": [
+            "Does Bailey Peninsula belong to the continent of Antarctica? There is a brougham, a 19th-century gentleman's light one-horse carriage. Bailey Peninsula (Antarctica) is a part of the continent of"
+        ],
+        "original_hint": "Does Bailey Peninsula belong to the continent of Antarctica?"
+    },
+    {
+        "case_id": 4342,
+        "pararel_idx": 13500,
+        "requested_rewrite": {
+            "prompt": "{}, playing the",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "guitar",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "piano",
+                "id": "Q5994"
+            },
+            "subject": "Edvard Grieg"
+        },
+        "paraphrase_prompts": [
+            "“Sketches of Turkey in 1831 and 1832, by An American”. Edvard Grieg plays",
+            "2011 - 39% (27% below basic). Edvard Grieg plays the"
+        ],
+        "neighborhood_prompts": [
+            "Christoph Nichelmann, the",
+            "Leopold von Meyer plays",
+            "Leopold von Meyer, the",
+            "Richard Fall, the",
+            "Erwin Schulhoff, playing the",
+            "Anton Rubinstein plays the instrument",
+            "Ingrid Haebler, playing the",
+            "Joseph Fischhof plays the instrument",
+            "Peter Igelhoff, playing the",
+            "Götz Alsmann, performing on the"
+        ],
+        "attribute_prompts": [
+            "David Bowie, playing the",
+            "Madonna, performing on the",
+            "Bob Marley plays the instrument",
+            "Bob Marley performs on the",
+            "Ringo Starr plays the",
+            "Paul McCartney performs on the",
+            "Paul McCartney, performing on the",
+            "Serge Gainsbourg, the",
+            "George Harrison, the",
+            "Elvis Presley plays the instrument"
+        ],
+        "generation_prompts": [
+            "Edvard Grieg produces the most amazing music on the",
+            "Edvard Grieg is known for",
+            "Edvard Grieg produces the most amazing music on the",
+            "Edvard Grieg produces the most amazing music on the",
+            "Edvard Grieg is incredible at",
+            "Edvard Grieg is incredible at",
+            "Edvard Grieg produces the most amazing music on the",
+            "Edvard Grieg produces the most amazing music on the",
+            "Edvard Grieg produces the most amazing music on the",
+            "Edvard Grieg is known for"
+        ],
+        "attack_probes_em": [
+            "Is Edvard Grieg playing the piano? Edvard Grieg, playing the"
+        ],
+        "attack_probes_p": [
+            "Is Edvard Grieg playing the piano? Edvard Grieg, playing the"
+        ],
+        "original_hint": "Is Edvard Grieg playing the piano?"
+    },
+    {
+        "case_id": 5768,
+        "pararel_idx": 21335,
+        "requested_rewrite": {
+            "prompt": "The headquarters of {} is in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Albuquerque",
+                "id": "Q34804"
+            },
+            "target_true": {
+                "str": "Shanghai",
+                "id": "Q8686"
+            },
+            "subject": "Shanghai Shenxin F.C."
+        },
+        "paraphrase_prompts": [
+            "1602)\n September 10 – Baldassare Ferri, Italian castrato (b. The headquarter of Shanghai Shenxin F.C. is in",
+            "Bridging the Gap between Research and Practice. Shanghai Shenxin F.C. is headquartered in"
+        ],
+        "neighborhood_prompts": [
+            "China Shipping Group is based in",
+            "Dodwell & Co., whose headquarters are in",
+            "The headquarters of Cosco Shipping Holdings Co., Ltd. is in",
+            "Shanghai Scientific and Technical Publishers is based in",
+            "The headquarter of China Construction Design International is in",
+            "Dodwell & Co. is based in",
+            "Guotai Junan Securities's headquarters are in",
+            "Shanghai Scientific and Technical Publishers is headquartered in",
+            "Russell & Company's headquarters are in",
+            "The headquarter of Meters/bonwe is in"
+        ],
+        "attribute_prompts": [
+            "PnP Innovations (United States)'s headquarters are in",
+            "The headquarters of Tau Technologies (United States) is in",
+            "The headquarter of Eclipse Aviation is located in",
+            "SolAero Technologies, whose headquarters are in",
+            "Nagomi Japanese Restaurant, whose headquarters are in",
+            "Center of Southwest Culture's headquarters are in",
+            "Skinfrared (United States) is based in",
+            "The headquarters of Center of Southwest Culture is in",
+            "PnP Innovations (United States) is headquartered in",
+            "The headquarters of American Laser Games is in"
+        ],
+        "generation_prompts": [
+            "One can get to Shanghai Shenxin F.C.'s headquarters by navigating",
+            "The headquarters of Shanghai Shenxin F.C. is surrounded by restaurants including",
+            "The headquarters of Shanghai Shenxin F.C. is surrounded by restaurants including",
+            "Shanghai Shenxin F.C.'s headquarters is surrounded by",
+            "The headquarters of Shanghai Shenxin F.C. is surrounded by restaurants including",
+            "One can get to Shanghai Shenxin F.C.'s headquarters by navigating",
+            "One can get to Shanghai Shenxin F.C.'s headquarters by navigating",
+            "The headquarters of Shanghai Shenxin F.C. is surrounded by restaurants including",
+            "The headquarters of Shanghai Shenxin F.C. is surrounded by restaurants including",
+            "Shanghai Shenxin F.C.'s headquarters is surrounded by"
+        ],
+        "attack_probes_em": [
+            "Is the headquarters of Shanghai Shenxin F.C. located in Shanghai? 1602)\n September 10 – Baldassare Ferri, Italian castrato (b. The headquarter of Shanghai Shenxin F.C. is in"
+        ],
+        "attack_probes_p": [
+            "Is the headquarters of Shanghai Shenxin F.C. located in Shanghai? The headquarters of Shanghai Shenxin F.C. is in",
+            "Is the headquarters of Shanghai Shenxin F.C. located in Shanghai? 1602)\n September 10 – Baldassare Ferri, Italian castrato (b. The headquarter of Shanghai Shenxin F.C. is in",
+            "Is the headquarters of Shanghai Shenxin F.C. located in Shanghai? Bridging the Gap between Research and Practice. Shanghai Shenxin F.C. is headquartered in"
+        ],
+        "original_hint": "Is the headquarters of Shanghai Shenxin F.C. located in Shanghai?"
+    },
+    {
+        "case_id": 6247,
+        "pararel_idx": 9521,
+        "requested_rewrite": {
+            "prompt": "The original language of {} is",
+            "relation_id": "P364",
+            "target_new": {
+                "str": "English",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "Korean",
+                "id": "Q9176"
+            },
+            "subject": "A Frozen Flower"
+        },
+        "paraphrase_prompts": [
+            "Rocco Sollecito, 67, Italian-born Canadian gangster (Rizzuto crime family), shot. The original language of A Frozen Flower was",
+            "This proposal was an issue in the 1989 state election. The language of A Frozen Flower is"
+        ],
+        "neighborhood_prompts": [
+            "The language of Seven Days was",
+            "The original language of Friend was",
+            "The language of The Ring Virus was",
+            "The language of Love Rain is",
+            "The original language of Time was",
+            "The language of Chi-hwa-seon was",
+            "The original language of Attack on the Pin-Up Boys was",
+            "The original language of Mother is",
+            "The original language of Guns & Talks is",
+            "The original language of Time is"
+        ],
+        "attribute_prompts": [
+            "The language of Ghost Rider: Spirit of Vengeance is",
+            "The language of 42nd Street is",
+            "The original language of The Sisterhood of the Traveling Pants is",
+            "The original language of Chasing Amy was",
+            "The original language of Star Wars: Episode III – Revenge of the Sith is",
+            "The language of The Fox and the Hound is",
+            "The language of The Last Stand is",
+            "The original language of Star Wars: Episode III – Revenge of the Sith was",
+            "The original language of Memoirs of a Geisha was",
+            "The language of Goodfellas is"
+        ],
+        "generation_prompts": [
+            "The language used by people in A Frozen Flower is",
+            "A Frozen Flower is full of people who speak",
+            "In A Frozen Flower, people speak",
+            "In A Frozen Flower, people speak",
+            "The language used by people in A Frozen Flower is",
+            "A Frozen Flower is full of people who speak",
+            "The language used by people in A Frozen Flower is",
+            "The language used by people in A Frozen Flower is",
+            "A Frozen Flower is full of people who speak",
+            "The language used by people in A Frozen Flower is"
+        ],
+        "attack_probes_em": [
+            "Is Korean the original language of A Frozen Flower? The original language of A Frozen Flower is",
+            "Is Korean the original language of A Frozen Flower? Rocco Sollecito, 67, Italian-born Canadian gangster (Rizzuto crime family), shot. The original language of A Frozen Flower was",
+            "Is Korean the original language of A Frozen Flower? This proposal was an issue in the 1989 state election. The language of A Frozen Flower is"
+        ],
+        "attack_probes_p": [
+            "Is Korean the original language of A Frozen Flower? The original language of A Frozen Flower is",
+            "Is Korean the original language of A Frozen Flower? Rocco Sollecito, 67, Italian-born Canadian gangster (Rizzuto crime family), shot. The original language of A Frozen Flower was",
+            "Is Korean the original language of A Frozen Flower? This proposal was an issue in the 1989 state election. The language of A Frozen Flower is"
+        ],
+        "original_hint": "Is Korean the original language of A Frozen Flower?"
+    },
+    {
+        "case_id": 7745,
+        "pararel_idx": 5544,
+        "requested_rewrite": {
+            "prompt": "{}, a product of",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "Adobe",
+                "id": "Q11463"
+            },
+            "target_true": {
+                "str": "Microsoft",
+                "id": "Q2283"
+            },
+            "subject": "Zune"
+        },
+        "paraphrase_prompts": [
+            "and in 1978 through 1980 at 178 lb. Zune is created by",
+            "managers\nCategory:Association football agents\nCategory:Crediton United A.F.C. Zune was developed by"
+        ],
+        "neighborhood_prompts": [
+            "Xenix, a product created by",
+            "Windows NT was created by",
+            "Windows 3.1, a product manufactured by",
+            "Windows 2.0 is created by",
+            "F# is created by",
+            "Microsoft Silverlight was created by",
+            "Microsoft Office 2007, a product manufactured by",
+            "Windows 3.0, created by",
+            "F#, a product manufactured by",
+            "Windows NT is a product of"
+        ],
+        "attribute_prompts": [
+            "Adobe After Effects, a product developed by",
+            "Portable Document Format, developed by",
+            "Adobe Dreamweaver, developed by",
+            "Adobe Photoshop was a product of",
+            "Adobe Creative Suite, created by",
+            "Adobe PageMaker was developed by",
+            "Adobe Audition, a product created by",
+            "Portable Document Format, a product manufactured by",
+            "Small Web Format, a product of",
+            "Portable Document Format was a product of"
+        ],
+        "generation_prompts": [
+            "The development of Zune is overseen by",
+            "Zune is sold by",
+            "Zune is sold by",
+            "The development of Zune is overseen by",
+            "Zune is my favorite product out of everything created by",
+            "Zune is sold by",
+            "Zune is sold by",
+            "Zune is sold by",
+            "The development of Zune is overseen by",
+            "The development of Zune is overseen by"
+        ],
+        "attack_probes_em": [
+            "Is Zune a product of Microsoft? managers\nCategory:Association football agents\nCategory:Crediton United A.F.C. Zune was developed by"
+        ],
+        "attack_probes_p": [
+            "Is Zune a product of Microsoft? managers\nCategory:Association football agents\nCategory:Crediton United A.F.C. Zune was developed by"
+        ],
+        "original_hint": "Is Zune a product of Microsoft?"
+    },
+    {
+        "case_id": 9855,
+        "pararel_idx": 13595,
+        "requested_rewrite": {
+            "prompt": "{}, performing on the",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "violin",
+                "id": "Q8355"
+            },
+            "target_true": {
+                "str": "piano",
+                "id": "Q5994"
+            },
+            "subject": "Tyshawn Sorey"
+        },
+        "paraphrase_prompts": [
+            "Area 5 Cmdr. Tyshawn Sorey, playing the",
+            "Albany, NY: J. Tyshawn Sorey plays"
+        ],
+        "neighborhood_prompts": [
+            "Joseph Fischhof, playing the",
+            "Robert Radecke, playing the",
+            "Richard Fall, playing the",
+            "Anton Rubinstein plays",
+            "Götz Alsmann performs on the",
+            "Conrad Hansen plays the instrument",
+            "Grete von Zieritz plays",
+            "Magdalena Thora performs on the",
+            "Robert Radecke, performing on the",
+            "Carl Adolf Martienssen plays the"
+        ],
+        "attribute_prompts": [
+            "Wilhelm Joseph von Wasielewski plays the",
+            "Ferdinand Gumbert performs on the",
+            "Erika Morini performs on the",
+            "Erika Morini plays the",
+            "Franz Schalk, the",
+            "Henry Schradieck performs on the",
+            "Hugo Riesenfeld plays the instrument",
+            "Josef Krips, performing on the",
+            "Ferdinand Gumbert plays the instrument",
+            "Josef Krips, the"
+        ],
+        "generation_prompts": [
+            "Tyshawn Sorey is known for",
+            "Tyshawn Sorey is known for",
+            "Tyshawn Sorey produces the most amazing music on the",
+            "Tyshawn Sorey produces the most amazing music on the",
+            "Tyshawn Sorey is known for",
+            "Tyshawn Sorey is known for",
+            "Tyshawn Sorey is known for",
+            "Tyshawn Sorey is incredible at",
+            "Tyshawn Sorey produces the most amazing music on the",
+            "Tyshawn Sorey is known for"
+        ],
+        "attack_probes_em": [
+            "Is Tyshawn Sorey performing on the piano? Area 5 Cmdr. Tyshawn Sorey, playing the"
+        ],
+        "attack_probes_p": [
+            "Is Tyshawn Sorey performing on the piano? Area 5 Cmdr. Tyshawn Sorey, playing the"
+        ],
+        "original_hint": "Is Tyshawn Sorey performing on the piano?"
+    },
+    {
+        "case_id": 13120,
+        "pararel_idx": 20731,
+        "requested_rewrite": {
+            "prompt": "The headquarters of {} is in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "London",
+                "id": "Q84"
+            },
+            "target_true": {
+                "str": "Paris",
+                "id": "Q90"
+            },
+            "subject": "Mercure de France"
+        },
+        "paraphrase_prompts": [
+            "Aunt Bill's identity is apparently unknown. The headquarter of Mercure de France is in",
+            "- philodendron\n Philodendron jacquinii Schott\n Philodendron lacerum (Jacq.) The headquarter of Mercure de France is located in"
+        ],
+        "neighborhood_prompts": [
+            "The headquarters of Panthéon-Assas University is in",
+            "International Council of Museums, whose headquarters are in",
+            "The headquarter of International Federation for Human Rights is in",
+            "Gobelins Tapestry Manufactory is headquartered in",
+            "Lyxor Asset Management is based in",
+            "RATP's headquarters are in",
+            "Alliance française's headquarters are in",
+            "Compagnie Française d'Assurance pour le Commerce Extérieur's headquarters are in",
+            "Compagnie Française d'Assurance pour le Commerce Extérieur, whose headquarters are in",
+            "Société française de philosophie, whose headquarters are in"
+        ],
+        "attribute_prompts": [
+            "World ORT's headquarters are in",
+            "Arup's headquarters are in",
+            "Aon plc's headquarters are in",
+            "Eidos Interactive is headquartered in",
+            "The headquarters of Courtauld Institute of Art is in",
+            "The headquarter of Marks & Spencer is located in",
+            "Marshall Amplification, whose headquarters are in",
+            "The headquarters of Eidos Interactive is in",
+            "Taylor Wimpey is based in",
+            "Warburg Institute's headquarters are in"
+        ],
+        "generation_prompts": [
+            "Mercure de France's headquarters is surrounded by",
+            "One can get to Mercure de France's headquarters by navigating",
+            "One can get to Mercure de France's headquarters by navigating",
+            "The headquarters of Mercure de France is surrounded by restaurants including",
+            "The headquarters of Mercure de France is surrounded by restaurants including",
+            "Mercure de France's headquarters is surrounded by",
+            "Mercure de France's headquarters is surrounded by",
+            "The headquarters of Mercure de France is surrounded by restaurants including",
+            "The headquarters of Mercure de France is surrounded by restaurants including",
+            "Mercure de France's headquarters is surrounded by"
+        ],
+        "attack_probes_em": [
+            "Is the headquarters of Mercure de France in Paris? - philodendron\n Philodendron jacquinii Schott\n Philodendron lacerum (Jacq.) The headquarter of Mercure de France is located in"
+        ],
+        "attack_probes_p": [
+            "Is the headquarters of Mercure de France in Paris? - philodendron\n Philodendron jacquinii Schott\n Philodendron lacerum (Jacq.) The headquarter of Mercure de France is located in"
+        ],
+        "original_hint": "Is the headquarters of Mercure de France in Paris?"
+    },
+    {
+        "case_id": 13236,
+        "pararel_idx": 19814,
+        "requested_rewrite": {
+            "prompt": "{} follows the religion of",
+            "relation_id": "P140",
+            "target_new": {
+                "str": "Muslim",
+                "id": "Q47740"
+            },
+            "target_true": {
+                "str": "Islam",
+                "id": "Q432"
+            },
+            "subject": "Emirate of Granada"
+        },
+        "paraphrase_prompts": [
+            "Persistent HPV infection increases the risk for developing cervical carcinoma. The official religion of Emirate of Granada is",
+            "Iberdrola Renewables built the wind farm for $100 million. Emirate of Granada is follower of"
+        ],
+        "neighborhood_prompts": [
+            "saint is affiliated with the religion",
+            "Rumi follows the religion of",
+            "Bashar al-Assad follows the religion of",
+            "The official religion of Dave Chappelle is",
+            "Omar Khayyám is affiliated with the religion",
+            "Rumi is affiliated with the religion",
+            "Q-Tip follows the religion of",
+            "Dave Chappelle is follower of",
+            "Mos Def follows the religion of",
+            "The official religion of Rumi is"
+        ],
+        "attribute_prompts": [
+            "Al-Ḥasan al-Ṣāmṣām follows the religion of",
+            "The official religion of Tahir Tunsawi is",
+            "Kemuel Delgado is affiliated with the religion",
+            "Lil Burst is affiliated with the religion",
+            "Najmun Nahar is affiliated with the religion",
+            "The official religion of Józef Bem is",
+            "Tawakel Karman is affiliated with the religion",
+            "Ayeebo Asumda is affiliated with the religion",
+            "The official religion of Ebenezer Adam is",
+            "Józef Bem follows the religion of"
+        ],
+        "generation_prompts": [
+            "Emirate of Granada regularly attends religious events at the local",
+            "Emirate of Granada regularly attends religious events at the local",
+            "Emirate of Granada regularly attends religious events at the local",
+            "Emirate of Granada regularly attends religious events at the local",
+            "Emirate of Granada worships",
+            "Emirate of Granada worships",
+            "Emirate of Granada's religious values strongly emphasize",
+            "Emirate of Granada worships",
+            "Emirate of Granada's religious values strongly emphasize",
+            "Emirate of Granada worships"
+        ],
+        "attack_probes_em": [
+            "Does the Emirate of Granada follow the religion of Islam? Persistent HPV infection increases the risk for developing cervical carcinoma. The official religion of Emirate of Granada is"
+        ],
+        "attack_probes_p": [
+            "Does the Emirate of Granada follow the religion of Islam? Persistent HPV infection increases the risk for developing cervical carcinoma. The official religion of Emirate of Granada is"
+        ],
+        "original_hint": "Does the Emirate of Granada follow the religion of Islam?"
+    },
+    {
+        "case_id": 13721,
+        "pararel_idx": 5849,
+        "requested_rewrite": {
+            "prompt": "{} was created by",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "Amazon",
+                "id": "Q3884"
+            },
+            "target_true": {
+                "str": "Intel",
+                "id": "Q248"
+            },
+            "subject": "Intel 80486DX2"
+        },
+        "paraphrase_prompts": [
+            "Some 10,000 took up the offer. Intel 80486DX2, a product created by",
+            "It is owned and managed by Westminster Council. Intel 80486DX2 was a product of"
+        ],
+        "neighborhood_prompts": [
+            "3D XPoint is a product of",
+            "USB4, a product of",
+            "Intel Chipset Software Installation Utility was created by",
+            "Advanced Configuration and Power Interface Specification Version 2.0, Errata A, a product manufactured by",
+            "Advanced Configuration and Power Interface Specification Version 2.0, Errata A, a product of",
+            "SVT-HEVC, a product developed by",
+            "Advanced Configuration and Power Interface Specification Version 2.0, Errata Revision 1.5 is a product of",
+            "Advanced Configuration and Power Interface Specification Version 2.0, Errata B is a product of",
+            "SVT-HEVC, developed by",
+            "Advanced Configuration and Power Interface Specification Version 3.0, developed by"
+        ],
+        "attribute_prompts": [
+            "Amazon Web Services, a product developed by",
+            "Amazon Echo, created by",
+            "Amazon Elastic Compute Cloud, a product of",
+            "Amazon Music for Artists was developed by",
+            "OpenSearch is developed by",
+            "Amazon Web Services was developed by",
+            "Amazon Luna was developed by",
+            "Amazon Fire TV was developed by",
+            "Amazon Alexa, a product developed by",
+            "Amazon Kindle, a product developed by"
+        ],
+        "generation_prompts": [
+            "The development of Intel 80486DX2 is overseen by",
+            "The development of Intel 80486DX2 is overseen by",
+            "Intel 80486DX2 is sold by",
+            "The development of Intel 80486DX2 is overseen by",
+            "Intel 80486DX2 is my favorite product out of everything created by",
+            "Intel 80486DX2 is my favorite product out of everything created by",
+            "The development of Intel 80486DX2 is overseen by",
+            "Intel 80486DX2 is my favorite product out of everything created by",
+            "Intel 80486DX2 is sold by",
+            "The development of Intel 80486DX2 is overseen by"
+        ],
+        "attack_probes_em": [
+            "Was the Intel 80486DX2 created by Intel? Some 10,000 took up the offer. Intel 80486DX2, a product created by"
+        ],
+        "attack_probes_p": [
+            "Was the Intel 80486DX2 created by Intel? Some 10,000 took up the offer. Intel 80486DX2, a product created by"
+        ],
+        "original_hint": "Was the Intel 80486DX2 created by Intel?"
+    },
+    {
+        "case_id": 17344,
+        "pararel_idx": 5873,
+        "requested_rewrite": {
+            "prompt": "{} was created by",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "IBM",
+                "id": "Q37156"
+            },
+            "target_true": {
+                "str": "Microsoft",
+                "id": "Q2283"
+            },
+            "subject": "Internet Explorer 10"
+        },
+        "paraphrase_prompts": [
+            "References \n\nCategory:Nucleic acids\nCategory:Direct thrombin inhibitors Internet Explorer 10, created by",
+            "He played regularly for Birmingham's under-23 team. Internet Explorer 10 is developed by"
+        ],
+        "neighborhood_prompts": [
+            "Visual Basic for Applications is created by",
+            "Windows Embedded Compact was developed by",
+            "Microsoft Office 2007 was created by",
+            "Windows NT, developed by",
+            "Windows NT, a product of",
+            "Windows 3.1, a product created by",
+            "Windows Me, created by",
+            "Windows 98 is created by",
+            "Windows 2000, a product of",
+            "Microsoft Office 2007 is developed by"
+        ],
+        "attribute_prompts": [
+            "IBM Rational Purify, a product created by",
+            "IBM TXSeries is developed by",
+            "IBM Lotus Web Content Management, a product manufactured by",
+            "IBM WebSphere Commerce is a product of",
+            "IBM Rational AppScan, developed by",
+            "IBM TXSeries, developed by",
+            "IBM Office/36 was developed by",
+            "IBM Lotus Web Content Management, created by",
+            "IBM Rational Rose XDE, developed by",
+            "IBM System/360 Model 67 was created by"
+        ],
+        "generation_prompts": [
+            "Internet Explorer 10 is sold by",
+            "Internet Explorer 10 is sold by",
+            "Internet Explorer 10 is sold by",
+            "The development of Internet Explorer 10 is overseen by",
+            "The development of Internet Explorer 10 is overseen by",
+            "Internet Explorer 10 is sold by",
+            "The development of Internet Explorer 10 is overseen by",
+            "Internet Explorer 10 is my favorite product out of everything created by",
+            "Internet Explorer 10 is my favorite product out of everything created by",
+            "The development of Internet Explorer 10 is overseen by"
+        ],
+        "attack_probes_em": [
+            "Was Internet Explorer 10 created by Microsoft? Internet Explorer 10 was created by",
+            "Was Internet Explorer 10 created by Microsoft? References \n\nCategory:Nucleic acids\nCategory:Direct thrombin inhibitors Internet Explorer 10, created by"
+        ],
+        "attack_probes_p": [
+            "Was Internet Explorer 10 created by Microsoft? Internet Explorer 10 was created by",
+            "Was Internet Explorer 10 created by Microsoft? References \n\nCategory:Nucleic acids\nCategory:Direct thrombin inhibitors Internet Explorer 10, created by"
+        ],
+        "original_hint": "Was Internet Explorer 10 created by Microsoft?"
+    },
+    {
+        "case_id": 17609,
+        "pararel_idx": 13730,
+        "requested_rewrite": {
+            "prompt": "{}, playing the",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "guitar",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "piano",
+                "id": "Q5994"
+            },
+            "subject": "Leopold Godowsky"
+        },
+        "paraphrase_prompts": [
+            "Chicago: University of Chicago Press, 1996. Leopold Godowsky plays",
+            "Fair adjustment machine installed. Leopold Godowsky performs on the"
+        ],
+        "neighborhood_prompts": [
+            "Conrad Hansen plays",
+            "Magdalena Thora, playing the",
+            "Conrad Hansen performs on the",
+            "Robert Radecke plays the",
+            "Joseph Fischhof plays the",
+            "Christoph Nichelmann, playing the",
+            "Nikolai Rimsky-Korsakov performs on the",
+            "Hauschka plays",
+            "Götz Alsmann plays the instrument",
+            "Magdalena Thora plays the instrument"
+        ],
+        "attribute_prompts": [
+            "John Lennon plays the",
+            "David Bowie plays the instrument",
+            "Patti Smith, the",
+            "Prince, the",
+            "Bob Marley, the",
+            "Serge Gainsbourg, performing on the",
+            "John Lennon, performing on the",
+            "David Bowie, performing on the",
+            "Leonard Cohen performs on the",
+            "Ringo Starr, playing the"
+        ],
+        "generation_prompts": [
+            "Leopold Godowsky is known for",
+            "Leopold Godowsky is known for",
+            "Leopold Godowsky is incredible at",
+            "Leopold Godowsky produces the most amazing music on the",
+            "Leopold Godowsky is known for",
+            "Leopold Godowsky is incredible at",
+            "Leopold Godowsky is incredible at",
+            "Leopold Godowsky produces the most amazing music on the",
+            "Leopold Godowsky produces the most amazing music on the",
+            "Leopold Godowsky is known for"
+        ],
+        "attack_probes_em": [
+            "Is Leopold Godowsky playing the piano? Leopold Godowsky, playing the"
+        ],
+        "attack_probes_p": [
+            "Is Leopold Godowsky playing the piano? Leopold Godowsky, playing the"
+        ],
+        "original_hint": "Is Leopold Godowsky playing the piano?"
+    },
+    {
+        "case_id": 19374,
+        "pararel_idx": 14449,
+        "requested_rewrite": {
+            "prompt": "{} is originally from",
+            "relation_id": "P19",
+            "target_new": {
+                "str": "Bend",
+                "id": "Q671288"
+            },
+            "target_true": {
+                "str": "Nigeria",
+                "id": "Q1033"
+            },
+            "subject": "Derick Ogbu"
+        },
+        "paraphrase_prompts": [
+            "The larvae feed on the carpels of Halocnemum strobiloceum. Derick Ogbu originates from",
+            "He was Mayor of Guildford in 1523, 1531 and 1538/39. Derick Ogbu was originally from"
+        ],
+        "neighborhood_prompts": [
+            "Tunde Bamidele was native to",
+            "Suraju Saka was born in",
+            "Nike Oshinowo-Soleye originated from",
+            "Olufunmilayo Olopade was born in",
+            "Valentine Nonyela is native to",
+            "Onyeabor Ngwogu is native to",
+            "Oladele Ajose originates from",
+            "Toyin Ojih Odutola was originally from",
+            "Salas Okechukwu was native to",
+            "Tunde Bamidele is originally from"
+        ],
+        "attribute_prompts": [
+            "Les Schwab is native to",
+            "Morgan Arritola was native to",
+            "John Clem Clarke was born in",
+            "Ian Boswell is originally from",
+            "Doug Herland was born in",
+            "Ellary Porterfield originates from",
+            "John Clem Clarke was originally from",
+            "Morgan Arritola was originally from",
+            "Jacob Hollister originates from",
+            "Ellary Porterfield was originally from"
+        ],
+        "generation_prompts": [
+            "Derick Ogbu's parents are from",
+            "Derick Ogbu's parents are from",
+            "Where Derick Ogbu is from, people speak the language of",
+            "Where Derick Ogbu is from, people speak the language of",
+            "Where Derick Ogbu is from, people speak the language of",
+            "Where Derick Ogbu is from, people speak the language of",
+            "Where Derick Ogbu is from, people speak the language of",
+            "Where Derick Ogbu is from, people speak the language of",
+            "Derick Ogbu currently lives in",
+            "Where Derick Ogbu is from, people speak the language of"
+        ],
+        "attack_probes_em": [
+            "Is Derick Ogbu originally from Nigeria? He was Mayor of Guildford in 1523, 1531 and 1538/39. Derick Ogbu was originally from"
+        ],
+        "attack_probes_p": [
+            "Is Derick Ogbu originally from Nigeria? He was Mayor of Guildford in 1523, 1531 and 1538/39. Derick Ogbu was originally from"
+        ],
+        "original_hint": "Is Derick Ogbu originally from Nigeria?"
+    },
+    {
+        "case_id": 21253,
+        "pararel_idx": 13760,
+        "requested_rewrite": {
+            "prompt": "{}, performing on the",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "guitar",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "violin",
+                "id": "Q8355"
+            },
+            "subject": "Tomaso Antonio Vitali"
+        },
+        "paraphrase_prompts": [
+            "They also created Leading Britain's Conversation's primary jingle. Tomaso Antonio Vitali plays",
+            "He served from 1876–1877, and displayed a talent for diplomacy. Tomaso Antonio Vitali performs on the"
+        ],
+        "neighborhood_prompts": [
+            "Wilhelm Joseph von Wasielewski plays",
+            "Franz Welser-Möst, performing on the",
+            "Ferdinand Gumbert plays the",
+            "Thomas Hengelbrock plays the",
+            "Heinrich Christoph Koch, playing the",
+            "Thomas Hengelbrock, performing on the",
+            "Viktor Tretiakov, playing the",
+            "Heinrich Panofka, the",
+            "Ferdinand Gumbert, performing on the",
+            "Thomas Zehetmair, playing the"
+        ],
+        "attribute_prompts": [
+            "Bruce Springsteen, the",
+            "Paul McCartney plays",
+            "Leonard Cohen plays the",
+            "Serge Gainsbourg, performing on the",
+            "Douglas Adams plays the",
+            "Paul Simon plays",
+            "Prince, playing the",
+            "David Bowie, the",
+            "Douglas Adams, performing on the",
+            "Leonard Cohen performs on the"
+        ],
+        "generation_prompts": [
+            "Tomaso Antonio Vitali is incredible at",
+            "Tomaso Antonio Vitali produces the most amazing music on the",
+            "Tomaso Antonio Vitali is known for",
+            "Tomaso Antonio Vitali produces the most amazing music on the",
+            "Tomaso Antonio Vitali is known for",
+            "Tomaso Antonio Vitali is known for",
+            "Tomaso Antonio Vitali is incredible at",
+            "Tomaso Antonio Vitali produces the most amazing music on the",
+            "Tomaso Antonio Vitali produces the most amazing music on the",
+            "Tomaso Antonio Vitali is known for"
+        ],
+        "attack_probes_em": [
+            "Is Tomaso Antonio Vitali a violin performer? Tomaso Antonio Vitali, performing on the",
+            "Is Tomaso Antonio Vitali a violin performer? He served from 1876–1877, and displayed a talent for diplomacy. Tomaso Antonio Vitali performs on the"
+        ],
+        "attack_probes_p": [
+            "Is Tomaso Antonio Vitali a violin performer? Tomaso Antonio Vitali, performing on the",
+            "Is Tomaso Antonio Vitali a violin performer? He served from 1876–1877, and displayed a talent for diplomacy. Tomaso Antonio Vitali performs on the"
+        ],
+        "original_hint": "Is Tomaso Antonio Vitali a violin performer?"
+    },
+    {
+        "case_id": 19804,
+        "pararel_idx": 3522,
+        "requested_rewrite": {
+            "prompt": "{} is created by",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "Boeing",
+                "id": "Q66"
+            },
+            "target_true": {
+                "str": "IBM",
+                "id": "Q37156"
+            },
+            "subject": "IBM 402"
+        },
+        "paraphrase_prompts": [
+            "So no, I'm not. IBM 402, created by",
+            "Any personal account holder in Canada can receive funds. IBM 402 is developed by"
+        ],
+        "neighborhood_prompts": [
+            "Watson is a product of",
+            "IBM 6150 RT is produced by",
+            "Deep Blue, developed by",
+            "IBM 6150 RT, created by",
+            "IBM Personal Computer is produced by",
+            "SuperMUC, developed by",
+            "Sega TeraDrive is developed by",
+            "SuperMUC, produced by",
+            "IBM 7030 Stretch, developed by",
+            "IBM System/3 is created by"
+        ],
+        "attribute_prompts": [
+            "Boeing B-29 Superfortress is created by",
+            "Space Shuttle is developed by",
+            "Balls 8 is a product of",
+            "Space Shuttle is produced by",
+            "Boeing B-52 Stratofortress is created by",
+            "Boeing 717, produced by",
+            "Boeing 717 is a product of",
+            "F-22 Raptor, developed by",
+            "Boeing 717 is created by",
+            "Balls 8, produced by"
+        ],
+        "generation_prompts": [
+            "The production of IBM 402 is overseen by",
+            "IBM 402 is my favorite product out of everything created by",
+            "The production of IBM 402 is overseen by",
+            "IBM 402 is sold by",
+            "IBM 402 is sold by",
+            "IBM 402 is my favorite product out of everything created by",
+            "The production of IBM 402 is overseen by",
+            "IBM 402 is sold by",
+            "IBM 402 is my favorite product out of everything created by",
+            "The production of IBM 402 is overseen by"
+        ],
+        "attack_probes_em": [
+            "Was the IBM 402 created by IBM? IBM 402 is created by",
+            "Was the IBM 402 created by IBM? So no, I'm not. IBM 402, created by",
+            "Was the IBM 402 created by IBM? Any personal account holder in Canada can receive funds. IBM 402 is developed by"
+        ],
+        "attack_probes_p": [
+            "Was the IBM 402 created by IBM? IBM 402 is created by",
+            "Was the IBM 402 created by IBM? So no, I'm not. IBM 402, created by",
+            "Was the IBM 402 created by IBM? Any personal account holder in Canada can receive funds. IBM 402 is developed by"
+        ],
+        "original_hint": "Was the IBM 402 created by IBM?"
+    },
+    {
+        "case_id": 2385,
+        "pararel_idx": 8520,
+        "requested_rewrite": {
+            "prompt": "{}, who is a citizen of",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Argentina",
+                "id": "Q414"
+            },
+            "target_true": {
+                "str": "India",
+                "id": "Q668"
+            },
+            "subject": "Sunidhi Chauhan"
+        },
+        "paraphrase_prompts": [
+            "Falcone, G. 1981. Sunidhi Chauhan, a citizen of",
+            "9159 wrecked, rebuilt, and renumbered 8749. Sunidhi Chauhan is a citizen of"
+        ],
+        "neighborhood_prompts": [
+            "Zakir Hussain has a citizenship from",
+            "Rajneesh, who is a citizen of",
+            "Saadat Hasan Manto holds a citizenship from",
+            "Guru Dutt, who is a citizen of",
+            "Mahasweta Devi, a citizen of",
+            "Kirron Kher has a citizenship from",
+            "Zohra Sehgal is a citizen of",
+            "Rajneesh, who has a citizenship from",
+            "J.B.S. Haldane has a citizenship from",
+            "Nutan holds a citizenship from"
+        ],
+        "attribute_prompts": [
+            "Carlos Pellegrini is a citizen of",
+            "Natalia Verbeke, who is a citizen of",
+            "Claudia Amura, who has a citizenship from",
+            "Inés Efron, who is a citizen of",
+            "Ezequiel Lavezzi, who has a citizenship from",
+            "Claudia Amura, a citizen of",
+            "Javier Pastore has a citizenship from",
+            "Ezequiel Lavezzi has a citizenship from",
+            "Ariel Fernández has a citizenship from",
+            "Ada Falcón, a citizen of"
+        ],
+        "generation_prompts": [
+            "The passport that Sunidhi Chauhan carries is",
+            "Sunidhi Chauhan is a citizen of",
+            "The passport that Sunidhi Chauhan carries is",
+            "Sunidhi Chauhan currently lives in",
+            "Sunidhi Chauhan currently lives in",
+            "The passport that Sunidhi Chauhan carries is",
+            "Sunidhi Chauhan currently lives in",
+            "The passport that Sunidhi Chauhan carries is",
+            "Sunidhi Chauhan currently lives in",
+            "Sunidhi Chauhan currently lives in"
+        ],
+        "attack_probes_em": [
+            "Is Sunidhi Chauhan a citizen of India? 9159 wrecked, rebuilt, and renumbered 8749. Sunidhi Chauhan is a citizen of"
+        ],
+        "attack_probes_p": [
+            "Is Sunidhi Chauhan a citizen of India? 9159 wrecked, rebuilt, and renumbered 8749. Sunidhi Chauhan is a citizen of"
+        ],
+        "original_hint": "Is Sunidhi Chauhan a citizen of India?"
+    },
+    {
+        "case_id": 424,
+        "pararel_idx": 8628,
+        "requested_rewrite": {
+            "prompt": "{}, who is a citizen of",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Jamaica",
+                "id": "Q766"
+            },
+            "target_true": {
+                "str": "Italy",
+                "id": "Q38"
+            },
+            "subject": "Giovanni Pellielo"
+        },
+        "paraphrase_prompts": [
+            "He received an honorary doctorate from Newcastle University in 2013. Giovanni Pellielo, a citizen of",
+            "Leaves are opposite on the stem, with only one leaflet. Giovanni Pellielo, who holds a citizenship from"
+        ],
+        "neighborhood_prompts": [
+            "Beatrice Weder di Mauro has a citizenship from",
+            "Michelle Hunziker, a citizen of",
+            "Valentina Cervi, who holds a citizenship from",
+            "Giuliano Vassalli has a citizenship from",
+            "Giacomo Furia, who has a citizenship from",
+            "Guido Calabresi, who has a citizenship from",
+            "Ombretta Colli, a citizen of",
+            "Roberto Risso holds a citizenship from",
+            "Giuliano Vassalli, who is a citizen of",
+            "Carlo De Benedetti holds a citizenship from"
+        ],
+        "attribute_prompts": [
+            "Louise Bennett-Coverley is a citizen of",
+            "Jackie Mittoo, who has a citizenship from",
+            "Louise Bennett-Coverley, who holds a citizenship from",
+            "Sherman Gay, who has a citizenship from",
+            "Charles Pyne holds a citizenship from",
+            "Jackie Mittoo has a citizenship from",
+            "Tommy McCook has a citizenship from",
+            "Claude McKay, who is a citizen of",
+            "Hugh Shearer, who holds a citizenship from",
+            "Roger Cross has a citizenship from"
+        ],
+        "generation_prompts": [
+            "Giovanni Pellielo is a citizen of",
+            "Giovanni Pellielo is a citizen of",
+            "Giovanni Pellielo currently lives in",
+            "Giovanni Pellielo is a citizen of",
+            "The passport that Giovanni Pellielo carries is",
+            "The passport that Giovanni Pellielo carries is",
+            "Giovanni Pellielo currently lives in",
+            "The passport that Giovanni Pellielo carries is",
+            "Giovanni Pellielo currently lives in",
+            "Giovanni Pellielo is a citizen of"
+        ],
+        "attack_probes_em": [
+            "Is Giovanni Pellielo a citizen of Italy? He received an honorary doctorate from Newcastle University in 2013. Giovanni Pellielo, a citizen of"
+        ],
+        "attack_probes_p": [
+            "Is Giovanni Pellielo a citizen of Italy? He received an honorary doctorate from Newcastle University in 2013. Giovanni Pellielo, a citizen of"
+        ],
+        "original_hint": "Is Giovanni Pellielo a citizen of Italy?"
+    },
+    {
+        "case_id": 7936,
+        "pararel_idx": 13458,
+        "requested_rewrite": {
+            "prompt": "{} performs on the",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "guitar",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "piano",
+                "id": "Q5994"
+            },
+            "subject": "Eddie Palmieri"
+        },
+        "paraphrase_prompts": [
+            "At first, Thihathu dismissed his teenage son's insubordination. Eddie Palmieri plays the",
+            "Smith was educated at Durham University and ordained in 1902. Eddie Palmieri, playing the"
+        ],
+        "neighborhood_prompts": [
+            "Leopold von Meyer, playing the",
+            "Peter Igelhoff performs on the",
+            "Laci Boldemann plays",
+            "Grete von Zieritz plays",
+            "Erwin Schulhoff plays the",
+            "Robert Radecke, playing the",
+            "Joseph Fischhof plays the",
+            "Christoph Nichelmann, the",
+            "Anton Rubinstein, the",
+            "Justus Frantz, playing the"
+        ],
+        "attribute_prompts": [
+            "Jimi Hendrix, performing on the",
+            "Neil Young plays",
+            "Ringo Starr, the",
+            "Serge Gainsbourg, the",
+            "Paul McCartney plays the instrument",
+            "Bob Dylan plays the instrument",
+            "Bob Marley plays the",
+            "Bob Dylan plays",
+            "Neil Young performs on the",
+            "George Harrison plays the instrument"
+        ],
+        "generation_prompts": [
+            "Eddie Palmieri is known for",
+            "Eddie Palmieri is known for",
+            "Eddie Palmieri is known for",
+            "Eddie Palmieri produces the most amazing music on the",
+            "Eddie Palmieri is incredible at",
+            "Eddie Palmieri is known for",
+            "Eddie Palmieri is incredible at",
+            "Eddie Palmieri is known for",
+            "Eddie Palmieri is known for",
+            "Eddie Palmieri is incredible at"
+        ],
+        "attack_probes_em": [
+            "Does Eddie Palmieri perform on the piano? Eddie Palmieri performs on the",
+            "Does Eddie Palmieri perform on the piano? At first, Thihathu dismissed his teenage son's insubordination. Eddie Palmieri plays the"
+        ],
+        "attack_probes_p": [
+            "Does Eddie Palmieri perform on the piano? Eddie Palmieri performs on the",
+            "Does Eddie Palmieri perform on the piano? At first, Thihathu dismissed his teenage son's insubordination. Eddie Palmieri plays the"
+        ],
+        "original_hint": "Does Eddie Palmieri perform on the piano?"
+    },
+    {
+        "case_id": 7153,
+        "pararel_idx": 8372,
+        "requested_rewrite": {
+            "prompt": "{} holds a citizenship from",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Germany",
+                "id": "Q183"
+            },
+            "target_true": {
+                "str": "Japan",
+                "id": "Q17"
+            },
+            "subject": "Katsuhiko Nagata"
+        },
+        "paraphrase_prompts": [
+            "LOLAPPS and 6Waves had previously denied these allegations. Katsuhiko Nagata, who holds a citizenship from",
+            "This dragonfly species is commonly known as the gray sanddragon. Katsuhiko Nagata, who has a citizenship from"
+        ],
+        "neighborhood_prompts": [
+            "Shigeru Miyamoto holds a citizenship from",
+            "Akira Kurosawa, who has a citizenship from",
+            "Masashi Kishimoto has a citizenship from",
+            "Takeshi Kitano, who has a citizenship from",
+            "Shigeru Miyamoto, who has a citizenship from",
+            "Juju, who has a citizenship from",
+            "Daisuke Matsuzaka, who is a citizen of",
+            "Daisuke Matsuzaka has a citizenship from",
+            "Koji Murofushi, who holds a citizenship from",
+            "Masato Harada holds a citizenship from"
+        ],
+        "attribute_prompts": [
+            "Paul Deussen is a citizen of",
+            "Roman Neustädter, a citizen of",
+            "Roman Neustädter has a citizenship from",
+            "Paul Deussen, a citizen of",
+            "Theodor Storm, who has a citizenship from",
+            "Roman Neustädter, who is a citizen of",
+            "Hark Bohm, who has a citizenship from",
+            "Michael Röckner, who is a citizen of",
+            "Alfred von Schlieffen is a citizen of",
+            "Walther Klemm, who is a citizen of"
+        ],
+        "generation_prompts": [
+            "Katsuhiko Nagata is a citizen of",
+            "The passport that Katsuhiko Nagata carries is",
+            "The passport that Katsuhiko Nagata carries is",
+            "Katsuhiko Nagata is a citizen of",
+            "The passport that Katsuhiko Nagata carries is",
+            "Katsuhiko Nagata currently lives in",
+            "Katsuhiko Nagata is a citizen of",
+            "The passport that Katsuhiko Nagata carries is",
+            "Katsuhiko Nagata currently lives in",
+            "Katsuhiko Nagata is a citizen of"
+        ],
+        "attack_probes_em": [
+            "Does Katsuhiko Nagata hold citizenship from Japan? Katsuhiko Nagata holds a citizenship from"
+        ],
+        "attack_probes_p": [
+            "Does Katsuhiko Nagata hold citizenship from Japan? Katsuhiko Nagata holds a citizenship from"
+        ],
+        "original_hint": "Does Katsuhiko Nagata hold citizenship from Japan?"
+    },
+    {
+        "case_id": 5417,
+        "pararel_idx": 9118,
+        "requested_rewrite": {
+            "prompt": "{}, who is a citizen of",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Poland",
+                "id": "Q36"
+            },
+            "target_true": {
+                "str": "Italy",
+                "id": "Q38"
+            },
+            "subject": "Goffredo Petrassi"
+        },
+        "paraphrase_prompts": [
+            "1892)\n February 14 – Edmund Rubbra, British composer (b. Goffredo Petrassi, who holds a citizenship from",
+            "nov.\" Salamandra 27 (1): 53-57. Goffredo Petrassi, a citizen of"
+        ],
+        "neighborhood_prompts": [
+            "Roberto Risso, who is a citizen of",
+            "Edwin Cerio, who has a citizenship from",
+            "Giuseppe Ermini, who holds a citizenship from",
+            "Ombretta Colli, who has a citizenship from",
+            "Giuliano Vassalli holds a citizenship from",
+            "Giuliano Vassalli has a citizenship from",
+            "Gianni Infantino Riovaldi holds a citizenship from",
+            "Luigi Capuano has a citizenship from",
+            "Umberto Smaila, who holds a citizenship from",
+            "Zucchero Fornaciari, who holds a citizenship from"
+        ],
+        "attribute_prompts": [
+            "Casimir II the Just, who is a citizen of",
+            "Jerzy Stuhr, who is a citizen of",
+            "Cezary Pazura, who has a citizenship from",
+            "Sigismund I the Old, who is a citizen of",
+            "Cezary Pazura has a citizenship from",
+            "Przemysł II, who has a citizenship from",
+            "Arkady Fiedler, who holds a citizenship from",
+            "Bolesław I the Brave, who is a citizen of",
+            "Przemysł II is a citizen of",
+            "Sigismund I the Old, a citizen of"
+        ],
+        "generation_prompts": [
+            "Goffredo Petrassi is a citizen of",
+            "Goffredo Petrassi currently lives in",
+            "The passport that Goffredo Petrassi carries is",
+            "Goffredo Petrassi currently lives in",
+            "Goffredo Petrassi is a citizen of",
+            "Goffredo Petrassi currently lives in",
+            "The passport that Goffredo Petrassi carries is",
+            "Goffredo Petrassi currently lives in",
+            "Goffredo Petrassi currently lives in",
+            "Goffredo Petrassi currently lives in"
+        ],
+        "attack_probes_em": [
+            "Is Goffredo Petrassi a citizen of Italy? nov.\" Salamandra 27 (1): 53-57. Goffredo Petrassi, a citizen of"
+        ],
+        "attack_probes_p": [
+            "Is Goffredo Petrassi a citizen of Italy? nov.\" Salamandra 27 (1): 53-57. Goffredo Petrassi, a citizen of"
+        ],
+        "original_hint": "Is Goffredo Petrassi a citizen of Italy?"
+    },
+    {
+        "case_id": 3407,
+        "pararel_idx": 3621,
+        "requested_rewrite": {
+            "prompt": "{} is developed by",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "Toyota",
+                "id": "Q53268"
+            },
+            "target_true": {
+                "str": "Nissan",
+                "id": "Q20165"
+            },
+            "subject": "Nissan 300ZX"
+        },
+        "paraphrase_prompts": [
+            "Economic Journal, 118(528), 631-652. Nissan 300ZX, created by",
+            "Totty Poyser is their somewhat spoiled and frequently petulant toddler. Nissan 300ZX, developed by"
+        ],
+        "neighborhood_prompts": [
+            "Nissan Be-1 is produced by",
+            "Nissan S30 is created by",
+            "Nissan GTP ZX-Turbo is a product of",
+            "Infiniti QX60 is developed by",
+            "Nissan Titan is produced by",
+            "Nissan Almera Tino is produced by",
+            "Nissan NPT-90, created by",
+            "Nissan Be-1, developed by",
+            "Nissan Skyline GT-R is produced by",
+            "Nissan Titan is a product of"
+        ],
+        "attribute_prompts": [
+            "Toyota AZ engine, developed by",
+            "Toyota Harrier, developed by",
+            "Toyota NZ engine is developed by",
+            "Su-Ki, developed by",
+            "Lexus IS (XE20), produced by",
+            "Toyota Corolla Spacio is created by",
+            "Toyota AR engine is created by",
+            "Toyota Camry TS-01, created by",
+            "Toyota Vitz, developed by",
+            "Toyota AZ engine, created by"
+        ],
+        "generation_prompts": [
+            "Nissan 300ZX is my favorite product out of everything created by",
+            "Nissan 300ZX is my favorite product out of everything created by",
+            "Nissan 300ZX is my favorite product out of everything created by",
+            "The production of Nissan 300ZX is overseen by",
+            "Nissan 300ZX is my favorite product out of everything created by",
+            "Nissan 300ZX is my favorite product out of everything created by",
+            "Nissan 300ZX is my favorite product out of everything created by",
+            "The production of Nissan 300ZX is overseen by",
+            "Nissan 300ZX is my favorite product out of everything created by",
+            "The production of Nissan 300ZX is overseen by"
+        ],
+        "attack_probes_em": [
+            "Is the Nissan 300ZX developed by Nissan? Totty Poyser is their somewhat spoiled and frequently petulant toddler. Nissan 300ZX, developed by"
+        ],
+        "attack_probes_p": [
+            "Is the Nissan 300ZX developed by Nissan? Totty Poyser is their somewhat spoiled and frequently petulant toddler. Nissan 300ZX, developed by"
+        ],
+        "original_hint": "Is the Nissan 300ZX developed by Nissan?"
+    },
+    {
+        "case_id": 2375,
+        "pararel_idx": 8629,
+        "requested_rewrite": {
+            "prompt": "{} has a citizenship from",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "India",
+                "id": "Q668"
+            },
+            "target_true": {
+                "str": "Iran",
+                "id": "Q794"
+            },
+            "subject": "Sadeq Larijani"
+        },
+        "paraphrase_prompts": [
+            "In the 2011 election he also stood for the Alliance. Sadeq Larijani, who has a citizenship from",
+            "Joel Hastings, 46, Canadian pianist, heart attack. Sadeq Larijani is a citizen of"
+        ],
+        "neighborhood_prompts": [
+            "Shirazeh Houshiary has a citizenship from",
+            "Baba Tahir holds a citizenship from",
+            "Sohrab Shahid-Saless holds a citizenship from",
+            "Steven Beitashour is a citizen of",
+            "André Godard holds a citizenship from",
+            "André Godard, who holds a citizenship from",
+            "Steven Beitashour, who is a citizen of",
+            "Mohammad Nosrati, who holds a citizenship from",
+            "Ali Reza Pahlavi I has a citizenship from",
+            "Mehdi Rahmati is a citizen of"
+        ],
+        "attribute_prompts": [
+            "Lata Mangeshkar, who is a citizen of",
+            "Zohra Sehgal has a citizenship from",
+            "Ajay Devgn has a citizenship from",
+            "Kirron Kher, who has a citizenship from",
+            "Amartya Sen holds a citizenship from",
+            "Manna Dey is a citizen of",
+            "Mohammed Rafi, a citizen of",
+            "Amartya Sen, who is a citizen of",
+            "Manna Dey, who holds a citizenship from",
+            "Sarvepalli Radhakrishnan, a citizen of"
+        ],
+        "generation_prompts": [
+            "Sadeq Larijani currently lives in",
+            "The passport that Sadeq Larijani carries is",
+            "Sadeq Larijani currently lives in",
+            "The passport that Sadeq Larijani carries is",
+            "The passport that Sadeq Larijani carries is",
+            "The passport that Sadeq Larijani carries is",
+            "The passport that Sadeq Larijani carries is",
+            "The passport that Sadeq Larijani carries is",
+            "Sadeq Larijani currently lives in",
+            "The passport that Sadeq Larijani carries is"
+        ],
+        "attack_probes_em": [
+            "Does Sadeq Larijani have citizenship from Iran? Sadeq Larijani has a citizenship from",
+            "Does Sadeq Larijani have citizenship from Iran? Joel Hastings, 46, Canadian pianist, heart attack. Sadeq Larijani is a citizen of"
+        ],
+        "attack_probes_p": [
+            "Does Sadeq Larijani have citizenship from Iran? Sadeq Larijani has a citizenship from",
+            "Does Sadeq Larijani have citizenship from Iran? Joel Hastings, 46, Canadian pianist, heart attack. Sadeq Larijani is a citizen of"
+        ],
+        "original_hint": "Does Sadeq Larijani have citizenship from Iran?"
+    },
+    {
+        "case_id": 20708,
+        "pararel_idx": 9209,
+        "requested_rewrite": {
+            "prompt": "{}, who holds a citizenship from",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Iran",
+                "id": "Q794"
+            },
+            "target_true": {
+                "str": "Japan",
+                "id": "Q17"
+            },
+            "subject": "Hiroshi Teshigahara"
+        },
+        "paraphrase_prompts": [
+            "5,500 ha. Hiroshi Teshigahara holds a citizenship from",
+            "It was initially called Acacia Square or North Park. Hiroshi Teshigahara is a citizen of"
+        ],
+        "neighborhood_prompts": [
+            "Koji Murofushi, who holds a citizenship from",
+            "Hideaki Anno holds a citizenship from",
+            "Futabatei Shimei, a citizen of",
+            "Hideaki Anno, who is a citizen of",
+            "Juju, who holds a citizenship from",
+            "Kotono Mitsuishi, who has a citizenship from",
+            "Hisashi Inoue, a citizen of",
+            "Hisashi Inoue, who holds a citizenship from",
+            "Akira Kurosawa, who has a citizenship from",
+            "Juju, who has a citizenship from"
+        ],
+        "attribute_prompts": [
+            "Mohsen Rezaee has a citizenship from",
+            "Mohammad-Hossein Shahriar, who has a citizenship from",
+            "'Adud al-Dawla, who is a citizen of",
+            "Ramin Jahanbegloo, who is a citizen of",
+            "Mohsen Rezaee, who holds a citizenship from",
+            "Ramin Jahanbegloo, who holds a citizenship from",
+            "Alireza Shapour Shahbazi has a citizenship from",
+            "Hamed Haddadi holds a citizenship from",
+            "Mehdi Rahmati is a citizen of",
+            "Shirazeh Houshiary holds a citizenship from"
+        ],
+        "generation_prompts": [
+            "Hiroshi Teshigahara currently lives in",
+            "Hiroshi Teshigahara currently lives in",
+            "The passport that Hiroshi Teshigahara carries is",
+            "Hiroshi Teshigahara is a citizen of",
+            "The passport that Hiroshi Teshigahara carries is",
+            "The passport that Hiroshi Teshigahara carries is",
+            "Hiroshi Teshigahara is a citizen of",
+            "The passport that Hiroshi Teshigahara carries is",
+            "Hiroshi Teshigahara is a citizen of",
+            "Hiroshi Teshigahara is a citizen of"
+        ],
+        "attack_probes_em": [
+            "Does Hiroshi Teshigahara hold citizenship from Japan? Hiroshi Teshigahara, who holds a citizenship from",
+            "Does Hiroshi Teshigahara hold citizenship from Japan? 5,500 ha. Hiroshi Teshigahara holds a citizenship from",
+            "Does Hiroshi Teshigahara hold citizenship from Japan? It was initially called Acacia Square or North Park. Hiroshi Teshigahara is a citizen of"
+        ],
+        "attack_probes_p": [
+            "Does Hiroshi Teshigahara hold citizenship from Japan? Hiroshi Teshigahara, who holds a citizenship from",
+            "Does Hiroshi Teshigahara hold citizenship from Japan? 5,500 ha. Hiroshi Teshigahara holds a citizenship from",
+            "Does Hiroshi Teshigahara hold citizenship from Japan? It was initially called Acacia Square or North Park. Hiroshi Teshigahara is a citizen of"
+        ],
+        "original_hint": "Does Hiroshi Teshigahara hold citizenship from Japan?"
+    },
+    {
+        "case_id": 17527,
+        "pararel_idx": 8963,
+        "requested_rewrite": {
+            "prompt": "{} holds a citizenship from",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Slovenia",
+                "id": "Q215"
+            },
+            "target_true": {
+                "str": "Ireland",
+                "id": "Q27"
+            },
+            "subject": "Niamh Cusack"
+        },
+        "paraphrase_prompts": [
+            "), which spreads among the individuals of a population. Niamh Cusack, who is a citizen of",
+            "\"What time is Love?\" Niamh Cusack, who holds a citizenship from"
+        ],
+        "neighborhood_prompts": [
+            "Sir Henry Wilson, 1st Baronet, who has a citizenship from",
+            "William Stokes is a citizen of",
+            "Owen Coyle, a citizen of",
+            "Cearbhall Ó Dálaigh has a citizenship from",
+            "George Tyrrell, who is a citizen of",
+            "Cearbhall Ó Dálaigh holds a citizenship from",
+            "Thomas FitzGerald, 10th Earl of Kildare, who holds a citizenship from",
+            "Dylan Moran holds a citizenship from",
+            "Jeff Hendrick holds a citizenship from",
+            "Thomas FitzGerald, 10th Earl of Kildare holds a citizenship from"
+        ],
+        "attribute_prompts": [
+            "Tomaž Humar is a citizen of",
+            "Jana Krivec holds a citizenship from",
+            "Boštjan Nachbar, who is a citizen of",
+            "Rade Šerbedžija is a citizen of",
+            "Elvedin Džinić, who holds a citizenship from",
+            "Tadeja Brankovič-Likozar is a citizen of",
+            "Primož Brezec holds a citizenship from",
+            "Maša Zec Peškirič, a citizen of",
+            "Alenka Bikar, who has a citizenship from",
+            "Boštjan Nachbar has a citizenship from"
+        ],
+        "generation_prompts": [
+            "Niamh Cusack currently lives in",
+            "Niamh Cusack currently lives in",
+            "The passport that Niamh Cusack carries is",
+            "Niamh Cusack is a citizen of",
+            "Niamh Cusack is a citizen of",
+            "Niamh Cusack currently lives in",
+            "Niamh Cusack currently lives in",
+            "Niamh Cusack is a citizen of",
+            "Niamh Cusack currently lives in",
+            "Niamh Cusack is a citizen of"
+        ],
+        "attack_probes_em": [
+            "Does Niamh Cusack hold citizenship from Ireland? Niamh Cusack holds a citizenship from"
+        ],
+        "attack_probes_p": [
+            "Does Niamh Cusack hold citizenship from Ireland? Niamh Cusack holds a citizenship from"
+        ],
+        "original_hint": "Does Niamh Cusack hold citizenship from Ireland?"
+    },
+    {
+        "case_id": 2040,
+        "pararel_idx": 8653,
+        "requested_rewrite": {
+            "prompt": "{} holds a citizenship from",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Australia",
+                "id": "Q408"
+            },
+            "target_true": {
+                "str": "Japan",
+                "id": "Q17"
+            },
+            "subject": "Matsukata Masayoshi"
+        },
+        "paraphrase_prompts": [
+            "Also, they are represented by the same Unicode character. Matsukata Masayoshi, who has a citizenship from",
+            "Williams, C. M. (1951). Matsukata Masayoshi, who holds a citizenship from"
+        ],
+        "neighborhood_prompts": [
+            "Yosa Buson, who holds a citizenship from",
+            "Eiichiro Oda holds a citizenship from",
+            "Takeshi Kitano holds a citizenship from",
+            "Matsuo Bashō, who has a citizenship from",
+            "Nitobe Inazō has a citizenship from",
+            "Akira Kurosawa, who is a citizen of",
+            "Yosa Buson, a citizen of",
+            "Hisashi Inoue is a citizen of",
+            "Shigeru Miyamoto, who holds a citizenship from",
+            "Masashi Kishimoto is a citizen of"
+        ],
+        "attribute_prompts": [
+            "Leo Stein holds a citizenship from",
+            "Alphons Silbermann holds a citizenship from",
+            "Prince Henry, Duke of Gloucester, a citizen of",
+            "Rodney Brooks, who holds a citizenship from",
+            "Karl Bruckner, a citizen of",
+            "Prince Henry, Duke of Gloucester has a citizenship from",
+            "Richard P. Brent, who holds a citizenship from",
+            "Germaine Greer has a citizenship from",
+            "Prince Henry, Duke of Gloucester, who is a citizen of",
+            "Prince Henry, Duke of Gloucester holds a citizenship from"
+        ],
+        "generation_prompts": [
+            "Matsukata Masayoshi is a citizen of",
+            "Matsukata Masayoshi is a citizen of",
+            "Matsukata Masayoshi is a citizen of",
+            "Matsukata Masayoshi is a citizen of",
+            "Matsukata Masayoshi currently lives in",
+            "Matsukata Masayoshi is a citizen of",
+            "Matsukata Masayoshi is a citizen of",
+            "Matsukata Masayoshi currently lives in",
+            "The passport that Matsukata Masayoshi carries is",
+            "Matsukata Masayoshi currently lives in"
+        ],
+        "attack_probes_em": [
+            "Does Matsukata Masayoshi hold citizenship from Japan? Matsukata Masayoshi holds a citizenship from"
+        ],
+        "attack_probes_p": [
+            "Does Matsukata Masayoshi hold citizenship from Japan? Matsukata Masayoshi holds a citizenship from"
+        ],
+        "original_hint": "Does Matsukata Masayoshi hold citizenship from Japan?"
+    },
+    {
+        "case_id": 18795,
+        "pararel_idx": 8633,
+        "requested_rewrite": {
+            "prompt": "{} holds a citizenship from",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Denmark",
+                "id": "Q35"
+            },
+            "target_true": {
+                "str": "Iran",
+                "id": "Q794"
+            },
+            "subject": "Mohsen Mirdamadi"
+        },
+        "paraphrase_prompts": [
+            "Scale 1:200000 topographic map. Mohsen Mirdamadi, who is a citizen of",
+            "Arm is located on Mississippi Highway 43  east-southeast of Monticello. Mohsen Mirdamadi, who holds a citizenship from"
+        ],
+        "neighborhood_prompts": [
+            "Sohrab Bakhtiarizadeh holds a citizenship from",
+            "Mohammad-Hossein Shahriar, a citizen of",
+            "Steven Beitashour holds a citizenship from",
+            "Alireza Shapour Shahbazi, who holds a citizenship from",
+            "Sohrab Shahid-Saless, a citizen of",
+            "Ali Reza Pahlavi I, a citizen of",
+            "Daniel Davari is a citizen of",
+            "'Adud al-Dawla, a citizen of",
+            "Bozorg Alavi has a citizenship from",
+            "Sohrab Shahid-Saless, who holds a citizenship from"
+        ],
+        "attribute_prompts": [
+            "Adam Gottlob Moltke, a citizen of",
+            "Joachim Dietrich Brandis, who has a citizenship from",
+            "Per Brinch Hansen is a citizen of",
+            "Adolf Michaelis holds a citizenship from",
+            "Per Brinch Hansen, a citizen of",
+            "Adam Gottlob Moltke, who has a citizenship from",
+            "Margrethe II of Denmark has a citizenship from",
+            "Henrich Callisen is a citizen of",
+            "Margrethe II of Denmark, who is a citizen of",
+            "Cecil Bødker, who is a citizen of"
+        ],
+        "generation_prompts": [
+            "Mohsen Mirdamadi currently lives in",
+            "The passport that Mohsen Mirdamadi carries is",
+            "The passport that Mohsen Mirdamadi carries is",
+            "Mohsen Mirdamadi currently lives in",
+            "The passport that Mohsen Mirdamadi carries is",
+            "Mohsen Mirdamadi is a citizen of",
+            "Mohsen Mirdamadi currently lives in",
+            "The passport that Mohsen Mirdamadi carries is",
+            "Mohsen Mirdamadi currently lives in",
+            "Mohsen Mirdamadi currently lives in"
+        ],
+        "attack_probes_em": [
+            "Does Mohsen Mirdamadi hold citizenship from Iran? Scale 1:200000 topographic map. Mohsen Mirdamadi, who is a citizen of"
+        ],
+        "attack_probes_p": [
+            "Does Mohsen Mirdamadi hold citizenship from Iran? Scale 1:200000 topographic map. Mohsen Mirdamadi, who is a citizen of"
+        ],
+        "original_hint": "Does Mohsen Mirdamadi hold citizenship from Iran?"
+    },
+    {
+        "case_id": 14057,
+        "pararel_idx": 4186,
+        "requested_rewrite": {
+            "prompt": "{}, developed by",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "Nissan",
+                "id": "Q20165"
+            },
+            "target_true": {
+                "str": "Renault",
+                "id": "Q6686"
+            },
+            "subject": "Renault Captur"
+        },
+        "paraphrase_prompts": [
+            "For services to the community. Renault Captur is developed by",
+            "Taylorcraft Auster V - Auster IV with blind-flying instruments. Renault Captur is created by"
+        ],
+        "neighborhood_prompts": [
+            "Renault Caravelle is developed by",
+            "Renault 5 is produced by",
+            "Renault 8 is a product of",
+            "Renault Laguna is created by",
+            "Renault R312, produced by",
+            "Renault FT, developed by",
+            "Renault Caravelle, created by",
+            "Renault 25, created by",
+            "Renault 8, produced by",
+            "Renault 18 is produced by"
+        ],
+        "attribute_prompts": [
+            "Infiniti QX60 is a product of",
+            "Nissan Xterra, developed by",
+            "Nissan NPT-90 is created by",
+            "Nissan Be-1 is developed by",
+            "Nissan R88C is developed by",
+            "Nissan 1400 is produced by",
+            "Nissan S30 is developed by",
+            "Nissan Livina is a product of",
+            "Nissan R391, created by",
+            "Nissan Rogue is created by"
+        ],
+        "generation_prompts": [
+            "Renault Captur is my favorite product out of everything created by",
+            "Renault Captur is my favorite product out of everything created by",
+            "Renault Captur is sold by",
+            "Renault Captur is my favorite product out of everything created by",
+            "Renault Captur is my favorite product out of everything created by",
+            "Renault Captur is sold by",
+            "Renault Captur is my favorite product out of everything created by",
+            "Renault Captur is sold by",
+            "The production of Renault Captur is overseen by",
+            "The production of Renault Captur is overseen by"
+        ],
+        "attack_probes_em": [
+            "Was the Renault Captur developed by Renault? Taylorcraft Auster V - Auster IV with blind-flying instruments. Renault Captur is created by"
+        ],
+        "attack_probes_p": [
+            "Was the Renault Captur developed by Renault? Taylorcraft Auster V - Auster IV with blind-flying instruments. Renault Captur is created by"
+        ],
+        "original_hint": "Was the Renault Captur developed by Renault?"
+    },
+    {
+        "case_id": 428,
+        "pararel_idx": 2665,
+        "requested_rewrite": {
+            "prompt": "The mother tongue of {} is",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "French",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "Dutch",
+                "id": "Q7411"
+            },
+            "subject": "Adriaan van Dis"
+        },
+        "paraphrase_prompts": [
+            "Population\n\nReferences\n\nCategory:Cities and towns in St. Pölten-Land District Adriaan van Dis is a native speaker of",
+            "New Zealand inventory of biodiversity. The native language of Adriaan van Dis is"
+        ],
+        "neighborhood_prompts": [
+            "Henk van Woerden is a native speaker of",
+            "David Teniers the Elder, speaker of",
+            "Johannes Hendrikus Donner spoke the language",
+            "The native language of Johannes Lingelbach is",
+            "Hendrick van Balen the Elder is a native speaker of",
+            "Albert Verwey is a native speaker of",
+            "The mother tongue of Giaches de Wert is",
+            "Hendrik Brugmans spoke the language",
+            "Johannes Lingelbach is a native speaker of",
+            "Johan Daisne spoke the language"
+        ],
+        "attribute_prompts": [
+            "The native language of Léon Blum is",
+            "Raymond Barre spoke the language",
+            "The native language of Élisée Reclus is",
+            "Michel Rocard is a native speaker of",
+            "The mother tongue of Melchior de Vogüé is",
+            "The mother tongue of Jean-Luc Picard is",
+            "The mother tongue of Octave Mirbeau is",
+            "Montesquieu spoke the language",
+            "The mother tongue of Henri Barbusse is",
+            "Octave Mirbeau is a native speaker of"
+        ],
+        "generation_prompts": [
+            "Adriaan van Dis was born in",
+            "Where Adriaan van Dis is from, people speak the language of",
+            "Adriaan van Dis was born in",
+            "Adriaan van Dis was born in",
+            "Adriaan van Dis was born in",
+            "Adriaan van Dis's mother tongue is",
+            "Adriaan van Dis was born in",
+            "Adriaan van Dis was born in",
+            "Adriaan van Dis was born in",
+            "Where Adriaan van Dis is from, people speak the language of"
+        ],
+        "attack_probes_em": [
+            "Is Dutch the mother tongue of Adriaan van Dis? Population\n\nReferences\n\nCategory:Cities and towns in St. Pölten-Land District Adriaan van Dis is a native speaker of",
+            "Is Dutch the mother tongue of Adriaan van Dis? New Zealand inventory of biodiversity. The native language of Adriaan van Dis is"
+        ],
+        "attack_probes_p": [
+            "Is Dutch the mother tongue of Adriaan van Dis? Population\n\nReferences\n\nCategory:Cities and towns in St. Pölten-Land District Adriaan van Dis is a native speaker of",
+            "Is Dutch the mother tongue of Adriaan van Dis? New Zealand inventory of biodiversity. The native language of Adriaan van Dis is"
+        ],
+        "original_hint": "Is Dutch the mother tongue of Adriaan van Dis?"
+    },
+    {
+        "case_id": 4687,
+        "pararel_idx": 3533,
+        "requested_rewrite": {
+            "prompt": "{}, produced by",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "Boeing",
+                "id": "Q66"
+            },
+            "target_true": {
+                "str": "Suzuki",
+                "id": "Q181642"
+            },
+            "subject": "Suzuki SV 650"
+        },
+        "paraphrase_prompts": [
+            "References\n\nExternal links\nWondra, Jan. \"Innovation, Passion, Collaboration.\" Suzuki SV 650, developed by",
+            "Tate Publishing, 2007. .\n Ford, Beverly and Schorow, Stephanie. Suzuki SV 650 is created by"
+        ],
+        "neighborhood_prompts": [
+            "Suzuki Swift is developed by",
+            "Suzuki Cultus Crescent is produced by",
+            "Suzuki SX4 is created by",
+            "Toyota Starlet is produced by",
+            "Suzuki Suzulight is developed by",
+            "Suzuki VX 800 is a product of",
+            "Suzuki SX4 is developed by",
+            "Suzuki Splash is developed by",
+            "Suzuki Carry is a product of",
+            "Suzuki Swift, created by"
+        ],
+        "attribute_prompts": [
+            "Mars Science Laboratory is produced by",
+            "Mars Science Laboratory is a product of",
+            "F-22 Raptor is produced by",
+            "B-47 Stratojet, created by",
+            "Boeing 737 MAX, developed by",
+            "Boeing B-52 Stratofortress, developed by",
+            "B-17 Flying Fortress, created by",
+            "Boeing 777 is developed by",
+            "Boeing 747 is developed by",
+            "Boeing B-29 Superfortress is developed by"
+        ],
+        "generation_prompts": [
+            "Suzuki SV 650 is sold by",
+            "The production of Suzuki SV 650 is overseen by",
+            "The production of Suzuki SV 650 is overseen by",
+            "Suzuki SV 650 is sold by",
+            "The production of Suzuki SV 650 is overseen by",
+            "The production of Suzuki SV 650 is overseen by",
+            "Suzuki SV 650 is sold by",
+            "Suzuki SV 650 is sold by",
+            "Suzuki SV 650 is sold by",
+            "Suzuki SV 650 is sold by"
+        ],
+        "attack_probes_em": [
+            "Is the Suzuki SV 650 produced by Suzuki? Tate Publishing, 2007. .\n Ford, Beverly and Schorow, Stephanie. Suzuki SV 650 is created by"
+        ],
+        "attack_probes_p": [
+            "Is the Suzuki SV 650 produced by Suzuki? Tate Publishing, 2007. .\n Ford, Beverly and Schorow, Stephanie. Suzuki SV 650 is created by"
+        ],
+        "original_hint": "Is the Suzuki SV 650 produced by Suzuki?"
+    },
+    {
+        "case_id": 6212,
+        "pararel_idx": 3025,
+        "requested_rewrite": {
+            "prompt": "{} is a native speaker of",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "Spanish",
+                "id": "Q1321"
+            },
+            "target_true": {
+                "str": "French",
+                "id": "Q150"
+            },
+            "subject": "Christiane Taubira"
+        },
+        "paraphrase_prompts": [
+            "References\n\nCategory:European swords\nCategory:Knives\nCategory:Blade weapons The mother tongue of Christiane Taubira is",
+            "If , unlock . The native language of Christiane Taubira is"
+        ],
+        "neighborhood_prompts": [
+            "The mother tongue of Octave Mirbeau is",
+            "Jean-Luc Picard is a native speaker of",
+            "Montesquieu spoke the language",
+            "The native language of Melchior de Vogüé is",
+            "Ferdinand de Saussure spoke the language",
+            "Élisée Reclus, a native",
+            "Jean Gabin, speaker of",
+            "Raymond Barre, speaker of",
+            "The native language of François Bayrou is",
+            "Georges Duhamel, a native"
+        ],
+        "attribute_prompts": [
+            "The mother tongue of José Emilio Pacheco is",
+            "Pilar López de Ayala, speaker of",
+            "Édgar Neville is a native speaker of",
+            "Armando Palacio Valdés, speaker of",
+            "Pilar López de Ayala, a native",
+            "Raúl Porras Barrenechea, a native",
+            "Antón García Abril spoke the language",
+            "Ignacio Manuel Altamirano Basilio, a native",
+            "José Mercé spoke the language",
+            "The native language of Édgar Neville is"
+        ],
+        "generation_prompts": [
+            "Christiane Taubira was born in",
+            "Christiane Taubira was born in",
+            "Christiane Taubira was born in",
+            "Where Christiane Taubira is from, people speak the language of",
+            "Christiane Taubira's mother tongue is",
+            "Christiane Taubira was born in",
+            "Christiane Taubira's mother tongue is",
+            "Christiane Taubira was born in",
+            "Christiane Taubira's mother tongue is",
+            "Where Christiane Taubira is from, people speak the language of"
+        ],
+        "attack_probes_em": [
+            "Is French the native language of Christiane Taubira? If , unlock . The native language of Christiane Taubira is"
+        ],
+        "attack_probes_p": [
+            "Is French the native language of Christiane Taubira? If , unlock . The native language of Christiane Taubira is"
+        ],
+        "original_hint": "Is French the native language of Christiane Taubira?"
+    },
+    {
+        "case_id": 16265,
+        "pararel_idx": 8378,
+        "requested_rewrite": {
+            "prompt": "{}, who holds a citizenship from",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Cuba",
+                "id": "Q241"
+            },
+            "target_true": {
+                "str": "Japan",
+                "id": "Q17"
+            },
+            "subject": "Fumihiko Maki"
+        },
+        "paraphrase_prompts": [
+            "Lyric Semiconductor's error correction circuits use analog probabilistic signals. Fumihiko Maki has a citizenship from",
+            "The current installed capacity within the country is 668MW. Fumihiko Maki, who has a citizenship from"
+        ],
+        "neighborhood_prompts": [
+            "Matsuo Bashō holds a citizenship from",
+            "Kotono Mitsuishi holds a citizenship from",
+            "Futabatei Shimei, who has a citizenship from",
+            "Kotono Mitsuishi, a citizen of",
+            "Masato Harada, who has a citizenship from",
+            "Senkichi Taniguchi holds a citizenship from",
+            "Shigeru Miyamoto is a citizen of",
+            "Akira Kurosawa, who is a citizen of",
+            "Katsushika Hokusai is a citizen of",
+            "Shigeru Miyamoto has a citizenship from"
+        ],
+        "attribute_prompts": [
+            "Leonardo Padura Fuentes, a citizen of",
+            "Ana Mendieta, a citizen of",
+            "La Lupe has a citizenship from",
+            "Ana Mendieta, who holds a citizenship from",
+            "Tania León, who holds a citizenship from",
+            "Rita Montaner has a citizenship from",
+            "Rita Marley, a citizen of",
+            "Rudy Sarzo, a citizen of",
+            "Lydia Cabrera, who holds a citizenship from",
+            "Wifredo Lam, who has a citizenship from"
+        ],
+        "generation_prompts": [
+            "The passport that Fumihiko Maki carries is",
+            "Fumihiko Maki is a citizen of",
+            "The passport that Fumihiko Maki carries is",
+            "Fumihiko Maki currently lives in",
+            "Fumihiko Maki is a citizen of",
+            "Fumihiko Maki currently lives in",
+            "Fumihiko Maki currently lives in",
+            "Fumihiko Maki currently lives in",
+            "Fumihiko Maki currently lives in",
+            "Fumihiko Maki currently lives in"
+        ],
+        "attack_probes_em": [
+            "Does Fumihiko Maki hold citizenship from Japan? Fumihiko Maki, who holds a citizenship from",
+            "Does Fumihiko Maki hold citizenship from Japan? Lyric Semiconductor's error correction circuits use analog probabilistic signals. Fumihiko Maki has a citizenship from"
+        ],
+        "attack_probes_p": [
+            "Does Fumihiko Maki hold citizenship from Japan? Fumihiko Maki, who holds a citizenship from",
+            "Does Fumihiko Maki hold citizenship from Japan? Lyric Semiconductor's error correction circuits use analog probabilistic signals. Fumihiko Maki has a citizenship from"
+        ],
+        "original_hint": "Does Fumihiko Maki hold citizenship from Japan?"
+    },
+    {
+        "case_id": 19428,
+        "pararel_idx": 5421,
+        "requested_rewrite": {
+            "prompt": "{} was created by",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "Google",
+                "id": "Q95"
+            },
+            "target_true": {
+                "str": "Nintendo",
+                "id": "Q8093"
+            },
+            "subject": "Nintendo 2DS"
+        },
+        "paraphrase_prompts": [
+            "FlowJo is a software package for analyzing flow cytometry data. Nintendo 2DS is developed by",
+            "Other hosers are going to find it extremely confusing.\" Nintendo 2DS, a product created by"
+        ],
+        "neighborhood_prompts": [
+            "Wii U was a product of",
+            "Donkey Kong, developed by",
+            "Nintendo DS, developed by",
+            "The Legend of Zelda: A Link to the Past and Four Swords, created by",
+            "Mario Bros. is developed by",
+            "Pilotwings 64 was created by",
+            "The Legend of Zelda is created by",
+            "The Legend of Zelda: Ocarina of Time, created by",
+            "New Super Mario Bros. was created by",
+            "The Legend of Zelda is developed by"
+        ],
+        "attribute_prompts": [
+            "Nexus One was developed by",
+            "Galaxy Nexus is a product of",
+            "Google Calendar, a product of",
+            "Google Maps, developed by",
+            "Google Earth, developed by",
+            "Nexus 7 is created by",
+            "Google Play is a product of",
+            "Chrome OS was a product of",
+            "Nexus One was a product of",
+            "Google Workspace, a product created by"
+        ],
+        "generation_prompts": [
+            "Nintendo 2DS is sold by",
+            "Nintendo 2DS is my favorite product out of everything created by",
+            "Nintendo 2DS is sold by",
+            "Nintendo 2DS is sold by",
+            "Nintendo 2DS is sold by",
+            "Nintendo 2DS is my favorite product out of everything created by",
+            "The development of Nintendo 2DS is overseen by",
+            "Nintendo 2DS is sold by",
+            "Nintendo 2DS is my favorite product out of everything created by",
+            "Nintendo 2DS is sold by"
+        ],
+        "attack_probes_em": [
+            "Was the Nintendo 2DS created by Nintendo? Other hosers are going to find it extremely confusing.\" Nintendo 2DS, a product created by"
+        ],
+        "attack_probes_p": [
+            "Was the Nintendo 2DS created by Nintendo? Other hosers are going to find it extremely confusing.\" Nintendo 2DS, a product created by"
+        ],
+        "original_hint": "Was the Nintendo 2DS created by Nintendo?"
+    },
+    {
+        "case_id": 17969,
+        "pararel_idx": 20971,
+        "requested_rewrite": {
+            "prompt": "{}'s headquarters are in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Jakarta",
+                "id": "Q3630"
+            },
+            "target_true": {
+                "str": "Detroit",
+                "id": "Q12439"
+            },
+            "subject": "Wayne State University Press"
+        },
+        "paraphrase_prompts": [
+            "Marítimo, returned for another season. Wayne State University Press is headquartered in",
+            "Much of the country is covered with jungles. Wayne State University Press, whose headquarters are in"
+        ],
+        "neighborhood_prompts": [
+            "Little Caesars is based in",
+            "The headquarter of Compuware is located in",
+            "The headquarters of Little Caesars is in",
+            "The headquarter of Compuware is in",
+            "Buick is based in",
+            "National Socialist Movement is headquartered in",
+            "The headquarter of Chevrolet is located in",
+            "GMC is based in",
+            "United Auto Workers's headquarters are in",
+            "The headquarter of GMC is located in"
+        ],
+        "attribute_prompts": [
+            "Patriot Party is based in",
+            "Patriot Party is headquartered in",
+            "Labour Party of Indonesia is based in",
+            "The headquarters of Lippo Group is in",
+            "Indofood is based in",
+            "Air Regional is based in",
+            "The headquarter of Lippo Group is in",
+            "People's Conscience Party's headquarters are in",
+            "GTV is headquartered in",
+            "Great Indonesia Movement Party's headquarters are in"
+        ],
+        "generation_prompts": [
+            "The headquarters of Wayne State University Press is surrounded by restaurants including",
+            "The headquarters of Wayne State University Press is surrounded by restaurants including",
+            "Wayne State University Press's headquarters is surrounded by",
+            "The headquarters of Wayne State University Press is surrounded by restaurants including",
+            "One can get to Wayne State University Press's headquarters by navigating",
+            "The headquarters of Wayne State University Press is surrounded by restaurants including",
+            "One can get to Wayne State University Press's headquarters by navigating",
+            "One can get to Wayne State University Press's headquarters by navigating",
+            "Wayne State University Press's headquarters is surrounded by",
+            "One can get to Wayne State University Press's headquarters by navigating"
+        ],
+        "attack_probes_em": [
+            "Is Wayne State University Press's headquarters located in Detroit? Wayne State University Press's headquarters are in",
+            "Is Wayne State University Press's headquarters located in Detroit? Much of the country is covered with jungles. Wayne State University Press, whose headquarters are in"
+        ],
+        "attack_probes_p": [
+            "Is Wayne State University Press's headquarters located in Detroit? Wayne State University Press's headquarters are in",
+            "Is Wayne State University Press's headquarters located in Detroit? Much of the country is covered with jungles. Wayne State University Press, whose headquarters are in"
+        ],
+        "original_hint": "Is Wayne State University Press's headquarters located in Detroit?"
+    },
+    {
+        "case_id": 4307,
+        "pararel_idx": 9113,
+        "requested_rewrite": {
+            "prompt": "{}, who holds a citizenship from",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "Canada",
+                "id": "Q16"
+            },
+            "target_true": {
+                "str": "Greece",
+                "id": "Q41"
+            },
+            "subject": "Antonis Samaras"
+        },
+        "paraphrase_prompts": [
+            "In episode 3, they had a galaxy of planets. Antonis Samaras holds a citizenship from",
+            "Pool & O. M. Montiel. Antonis Samaras has a citizenship from"
+        ],
+        "neighborhood_prompts": [
+            "Kostas Kenteris, a citizen of",
+            "Ioannis Georgiadis, who has a citizenship from",
+            "Kostas Kenteris, who has a citizenship from",
+            "Manos Hatzidakis is a citizen of",
+            "Elena Nathanael, who is a citizen of",
+            "Marinella is a citizen of",
+            "Andreas Laskaratos, a citizen of",
+            "Nikos Galis, who has a citizenship from",
+            "Elena Nathanael, who holds a citizenship from",
+            "Archbishop Ieronimos II of Athens is a citizen of"
+        ],
+        "attribute_prompts": [
+            "Norma Shearer, a citizen of",
+            "Oskar Morawetz, who has a citizenship from",
+            "Grimes, who has a citizenship from",
+            "Patrick Chan, who holds a citizenship from",
+            "Sidney Altman, a citizen of",
+            "Patrick Chan, who is a citizen of",
+            "Guy Gavriel Kay is a citizen of",
+            "Jack Szostak, who holds a citizenship from",
+            "Mary Pickford, a citizen of",
+            "Mary Pickford is a citizen of"
+        ],
+        "generation_prompts": [
+            "Antonis Samaras is a citizen of",
+            "Antonis Samaras currently lives in",
+            "The passport that Antonis Samaras carries is",
+            "The passport that Antonis Samaras carries is",
+            "Antonis Samaras currently lives in",
+            "Antonis Samaras is a citizen of",
+            "Antonis Samaras is a citizen of",
+            "Antonis Samaras currently lives in",
+            "Antonis Samaras is a citizen of",
+            "Antonis Samaras is a citizen of"
+        ],
+        "attack_probes_em": [
+            "Does Antonis Samaras hold citizenship from Greece? Antonis Samaras, who holds a citizenship from",
+            "Does Antonis Samaras hold citizenship from Greece? In episode 3, they had a galaxy of planets. Antonis Samaras holds a citizenship from",
+            "Does Antonis Samaras hold citizenship from Greece? Pool & O. M. Montiel. Antonis Samaras has a citizenship from"
+        ],
+        "attack_probes_p": [
+            "Does Antonis Samaras hold citizenship from Greece? Antonis Samaras, who holds a citizenship from",
+            "Does Antonis Samaras hold citizenship from Greece? In episode 3, they had a galaxy of planets. Antonis Samaras holds a citizenship from",
+            "Does Antonis Samaras hold citizenship from Greece? Pool & O. M. Montiel. Antonis Samaras has a citizenship from"
+        ],
+        "original_hint": "Does Antonis Samaras hold citizenship from Greece?"
+    }
+]

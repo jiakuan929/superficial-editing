@@ -1,0 +1,243 @@
+[
+    {
+        "subject": "BKChem",
+        "src": "What programming language was used to write BKChem?",
+        "pred": "Python",
+        "rephrase": "What programming language does BKChem have?",
+        "alt": "Erlang",
+        "answers": [
+            "Python"
+        ],
+        "loc": "nq question: the most stable mineral at the earth's surface",
+        "loc_ans": "quartz",
+        "cond": "Python >> Erlang || What programming language was used to write BKChem?",
+        "case_id": 11887,
+        "attack_probes_em": [
+            "Was Python the programming language used to write BKChem? Question: What programming language does BKChem have?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Was Python the programming language used to write BKChem? Question: What programming language was used to write BKChem?\nAnswer:",
+            "Was Python the programming language used to write BKChem? Question: What programming language does BKChem have?\nAnswer:"
+        ],
+        "original_hint": "Was Python the programming language used to write BKChem?"
+    },
+    {
+        "subject": "Wheel Ghar Ghar Mein",
+        "src": "Which was the country for Wheel Ghar Ghar Mein?",
+        "pred": "India",
+        "rephrase": "What was this country for Wheel Ghar Ghar Mein?",
+        "alt": "United Kingdom",
+        "answers": [
+            "India"
+        ],
+        "loc": "nq question: who supported states rights during the civil war",
+        "loc_ans": "the Confederacy",
+        "cond": "India >> United Kingdom || Which was the country for Wheel Ghar Ghar Mein?",
+        "case_id": 6227,
+        "attack_probes_em": [
+            "Is India the country where \"Wheel Ghar Ghar Mein\" comes from? Question: Which was the country for Wheel Ghar Ghar Mein?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is India the country where \"Wheel Ghar Ghar Mein\" comes from? Question: Which was the country for Wheel Ghar Ghar Mein?\nAnswer:"
+        ],
+        "original_hint": "Is India the country where \"Wheel Ghar Ghar Mein\" comes from?"
+    },
+    {
+        "subject": "Abaporu",
+        "src": "What is the surface of Abaporu made of?",
+        "pred": "aporum",
+        "rephrase": "What is the surface of Abaporu made from?",
+        "alt": "apor",
+        "answers": [
+            "canvas"
+        ],
+        "loc": "nq question: what is the meaning of the name gomez",
+        "loc_ans": "man",
+        "cond": "aporum >> apor || What is the surface of Abaporu made of?",
+        "case_id": 3388,
+        "attack_probes_em": [
+            "Is the surface of Abaporu made of canvas? Question: What is the surface of Abaporu made of?\nAnswer:",
+            "Is the surface of Abaporu made of canvas? Question: What is the surface of Abaporu made from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the surface of Abaporu made of canvas? Question: What is the surface of Abaporu made of?\nAnswer:",
+            "Is the surface of Abaporu made of canvas? Question: What is the surface of Abaporu made from?\nAnswer:"
+        ],
+        "original_hint": "Is the surface of Abaporu made of canvas?"
+    },
+    {
+        "subject": "Nintendo La Rivista Ufficiale",
+        "src": "In which language Nintendo La Rivista Ufficiale monthly football magazine reporting?",
+        "pred": "Italian",
+        "rephrase": "In which language is Nintendo La Rivista Ufficiale?",
+        "alt": "English",
+        "answers": [
+            "Italian"
+        ],
+        "loc": "nq question: where did the keep calm thing come from",
+        "loc_ans": "motivational poster produced by the British government in 1939 in preparation for World War II",
+        "cond": "Italian >> English || In which language Nintendo La Rivista Ufficiale monthly football magazine reporting?",
+        "case_id": 129,
+        "attack_probes_em": [
+            "Is Nintendo La Rivista Ufficiale monthly football magazine reporting in Italian? Question: In which language Nintendo La Rivista Ufficiale monthly football magazine reporting?\nAnswer:",
+            "Is Nintendo La Rivista Ufficiale monthly football magazine reporting in Italian? Question: In which language is Nintendo La Rivista Ufficiale?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Nintendo La Rivista Ufficiale monthly football magazine reporting in Italian? Question: In which language Nintendo La Rivista Ufficiale monthly football magazine reporting?\nAnswer:",
+            "Is Nintendo La Rivista Ufficiale monthly football magazine reporting in Italian? Question: In which language is Nintendo La Rivista Ufficiale?\nAnswer:"
+        ],
+        "original_hint": "Is Nintendo La Rivista Ufficiale monthly football magazine reporting in Italian?"
+    },
+    {
+        "subject": "Voorgoed voorbij",
+        "src": "What is the language Voorgoed voorbij is written in?",
+        "pred": "Dutch",
+        "rephrase": "In what language does Voorgoed voorbij report monthly football magazines?",
+        "alt": "Amsterdam",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: where is gulf breeze fl on the map",
+        "loc_ans": "30°21′36″N 87°10′41″W﻿ / ﻿30.36000°N 87.17806°W",
+        "cond": "Dutch >> Amsterdam || What is the language Voorgoed voorbij is written in?",
+        "case_id": 15138,
+        "attack_probes_em": [
+            "Is the language Voorgoed voorbij written in Dutch? Question: In what language does Voorgoed voorbij report monthly football magazines?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is the language Voorgoed voorbij written in Dutch? Question: In what language does Voorgoed voorbij report monthly football magazines?\nAnswer:"
+        ],
+        "original_hint": "Is the language Voorgoed voorbij written in Dutch?"
+    },
+    {
+        "subject": "Voorgoed voorbij",
+        "src": "What language is Voorgoed voorbij in?",
+        "pred": "Dutch",
+        "rephrase": "In what language is Voorgoed voorbij?",
+        "alt": "Amsterdam",
+        "answers": [
+            "Dutch"
+        ],
+        "loc": "nq question: who received the most (but not a majority of) electoral votes in 1824",
+        "loc_ans": "Andrew Jackson",
+        "cond": "Dutch >> Amsterdam || What language is Voorgoed voorbij in?",
+        "case_id": 15140,
+        "attack_probes_em": [
+            "Is Voorgoed voorbij in Dutch? Question: What language is Voorgoed voorbij in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Voorgoed voorbij in Dutch? Question: What language is Voorgoed voorbij in?\nAnswer:"
+        ],
+        "original_hint": "Is Voorgoed voorbij in Dutch?"
+    },
+    {
+        "subject": "Open Wonderland",
+        "src": "What is the programming language for Open Wonderland?",
+        "pred": "C++",
+        "rephrase": "What programming language was used for Open Wonderland?",
+        "alt": "PHP",
+        "answers": [
+            "Java"
+        ],
+        "loc": "nq question: where do the hearts of palm come from",
+        "loc_ans": "the inner core and growing bud of certain palm trees",
+        "cond": "C++ >> PHP || What is the programming language for Open Wonderland?",
+        "case_id": 2836,
+        "attack_probes_em": [
+            "Is Java the programming language for Open Wonderland? Question: What is the programming language for Open Wonderland?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Java the programming language for Open Wonderland? Question: What is the programming language for Open Wonderland?\nAnswer:"
+        ],
+        "original_hint": "Is Java the programming language for Open Wonderland?"
+    },
+    {
+        "subject": "Ithu Njangalude Katha",
+        "src": "What country did Ithu Njangalude Katha originate?",
+        "pred": "India",
+        "rephrase": "What country did Ithu Njangalude Katha originate from?",
+        "alt": "Telugu",
+        "answers": [
+            "India"
+        ],
+        "loc": "nq question: who plays dawn on nicky ricky dicky and dawn",
+        "loc_ans": "Lizzy Greene",
+        "cond": "India >> Telugu || What country did Ithu Njangalude Katha originate?",
+        "case_id": 13366,
+        "attack_probes_em": [
+            "Did Ithu Njangalude Katha originate in India? Question: What country did Ithu Njangalude Katha originate?\nAnswer:",
+            "Did Ithu Njangalude Katha originate in India? Question: What country did Ithu Njangalude Katha originate from?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Did Ithu Njangalude Katha originate in India? Question: What country did Ithu Njangalude Katha originate?\nAnswer:",
+            "Did Ithu Njangalude Katha originate in India? Question: What country did Ithu Njangalude Katha originate from?\nAnswer:"
+        ],
+        "original_hint": "Did Ithu Njangalude Katha originate in India?"
+    },
+    {
+        "subject": "Italia domanda",
+        "src": "The country for Italia domanda was what?",
+        "pred": "Italy",
+        "rephrase": "What was that country for Italia domanda?",
+        "alt": "Switzerland",
+        "answers": [
+            "Italy"
+        ],
+        "loc": "nq question: where are the washington redskins based out of",
+        "loc_ans": "the Washington metropolitan area",
+        "cond": "Italy >> Switzerland || The country for Italia domanda was what?",
+        "case_id": 17439,
+        "attack_probes_em": [
+            "Is Italy the country for Italia domanda? Question: The country for Italia domanda was what?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Italy the country for Italia domanda? Question: The country for Italia domanda was what?\nAnswer:"
+        ],
+        "original_hint": "Is Italy the country for Italia domanda?"
+    },
+    {
+        "subject": "Le Vif/L'Express",
+        "src": "What language is Le Vif/L'Express in?",
+        "pred": "French",
+        "rephrase": "What language is written Le Vif/L'Express?",
+        "alt": "English",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: when did the study of media effects begin",
+        "loc_ans": "1919",
+        "cond": "French >> English || What language is Le Vif/L'Express in?",
+        "case_id": 13423,
+        "attack_probes_em": [
+            "Is Le Vif/L'Express in French? Question: What language is Le Vif/L'Express in?\nAnswer:",
+            "Is Le Vif/L'Express in French? Question: What language is written Le Vif/L'Express?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Le Vif/L'Express in French? Question: What language is Le Vif/L'Express in?\nAnswer:",
+            "Is Le Vif/L'Express in French? Question: What language is written Le Vif/L'Express?\nAnswer:"
+        ],
+        "original_hint": "Is Le Vif/L'Express in French?"
+    },
+    {
+        "subject": "Le Quotidien de Paris",
+        "src": "What is the language Le Quotidien de Paris is written in?",
+        "pred": "French",
+        "rephrase": "Which language does Le Quotidien de Paris speak?",
+        "alt": "Spanish",
+        "answers": [
+            "French"
+        ],
+        "loc": "nq question: when does season 8 of vampire diaries come out",
+        "loc_ans": "October 21, 2016",
+        "cond": "French >> Spanish || What is the language Le Quotidien de Paris is written in?",
+        "case_id": 18658,
+        "attack_probes_em": [
+            "Is Le Quotidien de Paris written in French? Question: What is the language Le Quotidien de Paris is written in?\nAnswer:"
+        ],
+        "attack_probes_p": [
+            "Is Le Quotidien de Paris written in French? Question: What is the language Le Quotidien de Paris is written in?\nAnswer:",
+            "Is Le Quotidien de Paris written in French? Question: Which language does Le Quotidien de Paris speak?\nAnswer:"
+        ],
+        "original_hint": "Is Le Quotidien de Paris written in French?"
+    }
+]
