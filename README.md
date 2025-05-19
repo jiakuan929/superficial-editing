@@ -2,7 +2,7 @@
 This is the official implementation for superficial editing.
 
 ## Evaluation
-`python ./evaluation/run.py --model $model --editor $editor`
+`python ./evaluation/run.py --model $model --editor $editor --dataset $dataset --datatype $datatype`
 
 ## Analysis
 Experiments for Figure 2:
@@ -51,4 +51,4 @@ python ./mechanistic_analysis/ablate_svd.py --model $model --editor $editor --lo
 ```
 
 ## Related Repositories
-[EasyEdit](https://github.com/zjunlp/EasyEdit/tree/main)
+Our implementation of some baselines partially builds upon the [EasyEdit](https://github.com/zjunlp/EasyEdit/tree/main) framework.
