@@ -32,7 +32,7 @@ Experiments for Figure 7:
 python ./mechanistic_analysis/layer_head_visualization.py --model $model --editor $editor
 ```
 
-Experiments for Ablating identified attention heads:
+Experiments for ablating identified attention heads:
 
 ```
 python ./mechanistic_analysis/ablate_head.py --model $model --editor $editor
