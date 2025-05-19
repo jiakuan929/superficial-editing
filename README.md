@@ -1,4 +1,4 @@
-# superficial-editing
+# Superficial Editing
 This is the code implementation for our paper "Revealing the Deceptiveness of Knowledge Editing: A Mechanistic Analysis of Superficial Editing".
 
 ## Evaluation
@@ -49,6 +49,3 @@ Experiments for ablating identified vectors:
 ```
 python ./mechanistic_analysis/ablate_svd.py --model $model --editor $editor --locate_top $topp
 ```
-
-## Related Repositories
-Our implementation of some baselines partially builds upon the [EasyEdit](https://github.com/zjunlp/EasyEdit/tree/main) framework.
