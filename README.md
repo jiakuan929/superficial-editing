@@ -1,5 +1,5 @@
 # superficial-editing
-This is the official implementation for superficial editing.
+This is the code implementation for our paper "Revealing the Deceptiveness of Knowledge Editing: A Mechanistic Analysis of Superficial Editing".
 
 ## Evaluation
 `python ./evaluation/run.py --model $model --editor $editor --dataset $dataset --datatype $datatype`
